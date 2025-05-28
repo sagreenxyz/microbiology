@@ -1,0 +1,325 @@
+{
+  "title": "Microbiology Questions - Chapter 24",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "text": "Which of the following is NOT a way the normal microbiota of the intestine helps to prevent infection?",
+      "options": [
+        "It produces acids that lower the pH of the stomach.",
+        "It speeds up the process by which microbes are flushed from the digestive tract.",
+        "It consumes food and occupies space, outcompeting potential pathogens.",
+        "It generates large quantities of oxygen that kill anaerobic pathogens."
+      ],
+      "answer": "It generates large quantities of oxygen that kill anaerobic pathogens.",
+      "explanation": "The intestinal environment is largely anaerobic. Normal microbiota contribute to this anaerobic state, which can inhibit aerobic pathogens. They do not generate large quantities of oxygen. They do compete for nutrients and space, can alter pH (e.g., in the colon, not typically the stomach), and can influence gut motility."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "text": "What types of microbes live in the intestines?",
+      "options": [
+        "Diverse species of bacteria, archaea, and fungi, especially Bacteroides and Firmicutes bacteria",
+        "A narrow range of bacteria, especially Firmicutes",
+        "A narrow range of bacteria and fungi, especially Bacteroides",
+        "Archaea and fungi only"
+      ],
+      "answer": "Diverse species of bacteria, archaea, and fungi, especially Bacteroides and Firmicutes bacteria",
+      "explanation": "The human gut microbiota is highly diverse, containing hundreds of species of bacteria (dominated by phyla like Bacteroidetes and Firmicutes), as well as archaea (methanogens) and fungi (like Candida)."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "text": "What pathogen is the most important contributor to biofilms in plaque?",
+      "options": [
+        "Staphylococcus aureus",
+        "Streptococcus mutans",
+        "Escherichia coli",
+        "Clostridioides difficile"
+      ],
+      "answer": "Streptococcus mutans",
+      "explanation": "Streptococcus mutans is a key bacterium in the formation of dental plaque and initiation of dental caries due to its ability to produce extracellular polysaccharides from sucrose, which contribute to biofilm formation."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "text": "What type of organism causes thrush?",
+      "options": [
+        "a bacterium",
+        "a virus",
+        "a fungus",
+        "a protozoan"
+      ],
+      "answer": "a fungus",
+      "explanation": "Thrush (oral candidiasis) is an infection caused by the overgrowth of Candida species, which are fungi (yeasts)."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "text": "In mumps, what glands swell to produce the disease’s characteristic appearance?",
+      "options": [
+        "the sublingual glands",
+        "the gastric glands",
+        "the parotid glands",
+        "the submandibular glands"
+      ],
+      "answer": "the parotid glands",
+      "explanation": "Mumps is characterized by parotitis, which is the swelling of the parotid salivary glands located below and in front of the ears."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "text": "Which of the following is true of HSV-1?",
+      "options": [
+        "It causes oral thrush in immunocompromised patients.",
+        "Infection is generally self-limiting.",
+        "It is a bacterium.",
+        "It is usually treated with amoxicillin."
+      ],
+      "answer": "Infection is generally self-limiting.",
+      "explanation": "Herpes simplex virus 1 (HSV-1) infections, like cold sores, are typically self-limiting in immunocompetent individuals, though the virus establishes latency. Thrush is fungal. HSV-1 is a virus, not a bacterium, and amoxicillin is an antibacterial."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "text": "Which type of E. coli infection can be severe with life-threatening consequences such as hemolytic uremic syndrome?",
+      "options": [
+        "ETEC",
+        "EPEC",
+        "EHEC",
+        "EIEC"
+      ],
+      "answer": "EHEC",
+      "explanation": "Enterohemorrhagic E. coli (EHEC), particularly serotype O157:H7, produces Shiga-like toxins and can cause hemorrhagic colitis and potentially life-threatening hemolytic uremic syndrome (HUS)."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "text": "Which species of Shigella has a type that produces Shiga toxin?",
+      "options": [
+        "S. boydii",
+        "S. flexneri",
+        "S. dysenteriae",
+        "S. sonnei"
+      ],
+      "answer": "S. dysenteriae",
+      "explanation": "Shigella dysenteriae type 1 is known for producing Shiga toxin, which contributes to the severity of shigellosis (bacillary dysentery) and can cause hemolytic uremic syndrome."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "text": "Which type of bacterium produces an A-B toxin?",
+      "options": [
+        "Salmonella",
+        "Vibrio cholera",
+        "ETEC",
+        "Shigella dysenteriae"
+      ],
+      "answer": "Vibrio cholera",
+      "explanation": "Vibrio cholerae produces cholera toxin, which is a classic example of an A-B exotoxin. ETEC also produces A-B toxins (heat-labile toxin). Shigella dysenteriae produces Shiga toxin, also an A-B toxin. Salmonella pathogenesis involves other mechanisms more prominently than A-B toxins for gastroenteritis, though some serovars produce toxins. Given the options, V. cholerae is a prime example."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "text": "Which form of hepatitisvirus can only infect an individual who is already infected with another hepatitisvirus?",
+      "options": [
+        "HDV",
+        "HAV",
+        "HBV",
+        "HEV"
+      ],
+      "answer": "HDV",
+      "explanation": "Hepatitis D virus (HDV) is a defective virus that requires the presence of Hepatitis B virus (HBV) for its replication and transmission, as it uses the HBV surface antigen (HBsAg) for its envelope."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "text": "Which cause of viral gastroenteritis commonly causes projectile vomiting?",
+      "options": [
+        "hepatitisvirus",
+        "Astroviruses",
+        "Rotavirus",
+        "Noroviruses"
+      ],
+      "answer": "Noroviruses",
+      "explanation": "Noroviruses are a very common cause of acute gastroenteritis and are notorious for causing outbreaks characterized by rapid onset of nausea, projectile vomiting, watery diarrhea, and abdominal cramps."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "text": "Which protozoan is associated with the ability to cause severe dysentery?",
+      "options": [
+        "Giardia lamblia",
+        "Cryptosporidium hominis",
+        "Cyclospora cayetanesis",
+        "Entamoeba histolytica"
+      ],
+      "answer": "Entamoeba histolytica",
+      "explanation": "Entamoeba histolytica is the causative agent of amoebiasis, which can range from asymptomatic infection to severe amoebic dysentery (bloody diarrhea, abdominal pain, fever) and invasive extraintestinal disease (e.g., liver abscesses)."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "text": "Which protozoan has a unique appearance, with a blue halo, when viewed using ultraviolet fluorescence microscopy?",
+      "options": [
+        "Giardia lamblia",
+        "Cryptosporidium hominis",
+        "Cyclospora cayetanesis",
+        "Entamoeba histolytica"
+      ],
+      "answer": "Cyclospora cayetanesis",
+      "explanation": "Oocysts of Cyclospora cayetanensis autofluoresce (show a blue or green halo) when viewed under UV fluorescence microscopy, which is a useful diagnostic feature."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "text": "The micrograph shows protozoans attached to the intestinal wall of a gerbil. Based on what you know about protozoan intestinal parasites, what is it? (Micrograph of kite-shaped cells with tails. Figure 24.41 credit: Dr. Stan Erlandsen, Centers for Disease Control and Prevention)",
+      "options": [
+        "Giardia lamblia",
+        "Cryptosporidium hominis",
+        "Cyclospora cayetanesis",
+        "Entamoeba histolytica"
+      ],
+      "answer": "Giardia lamblia",
+      "explanation": "Giardia lamblia trophozoites have a characteristic pear-shaped or kite-shaped appearance with multiple flagella (tails) and often a 'face-like' appearance due to paired nuclei. They attach to the intestinal wall."
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "text": "What is another name for Trichuris trichiura?",
+      "options": [
+        "pinworm",
+        "whipworm",
+        "hookworm",
+        "ascariasis"
+      ],
+      "answer": "whipworm",
+      "explanation": "Trichuris trichiura is commonly known as the whipworm due to its characteristic whip-like shape (thin anterior end, thicker posterior end)."
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "text": "Which type of helminth infection can be diagnosed using tape?",
+      "options": [
+        "pinworm",
+        "whipworm",
+        "hookworm",
+        "tapeworm"
+      ],
+      "answer": "pinworm",
+      "explanation": "Pinworm (Enterobius vermicularis) infections are diagnosed by applying adhesive tape to the perianal area in the morning to collect eggs laid by female worms, then examining the tape under a microscope (tape test or cellulose tape slide test)."
+    },
+    {
+      "id": 17,
+      "type": "fill-in-the-blank",
+      "text": "The part of the gastrointestinal tract with the largest natural microbiota is the _________.",
+      "answer": ["large intestine (colon)"],
+      "explanation": "The large intestine, particularly the colon, harbors the vast majority and highest density of microorganisms in the human gastrointestinal tract."
+    },
+    {
+      "id": 18,
+      "type": "fill-in-the-blank",
+      "text": "When plaque becomes heavy and hardened, it is called dental calculus or _________.",
+      "answer": ["tartar"],
+      "explanation": "Dental calculus, commonly known as tartar, is mineralized (hardened) dental plaque."
+    },
+    {
+      "id": 19,
+      "type": "fill-in-the-blank",
+      "text": "Antibiotic associated pseudomembranous colitis is caused by _________.",
+      "answer": ["Clostridioides difficile (formerly Clostridium difficile)"],
+      "explanation": "Clostridioides difficile is a bacterium that can overgrow in the colon after antibiotic therapy disrupts the normal gut microbiota, leading to pseudomembranous colitis."
+    },
+    {
+      "id": 20,
+      "type": "fill-in-the-blank",
+      "text": "Jaundice results from a buildup of _________.",
+      "answer": ["bilirubin"],
+      "explanation": "Jaundice, a yellowing of the skin and eyes, is caused by an accumulation of bilirubin (a breakdown product of heme) in the blood, often due to liver dysfunction or bile duct obstruction."
+    },
+    {
+      "id": 21,
+      "type": "fill-in-the-blank",
+      "text": "Chronic _________ infections cause the unique sign of disease of greasy stool and are often resistant to treatment.",
+      "answer": ["Giardia (or giardiasis)"],
+      "explanation": "Giardiasis, caused by Giardia lamblia, can lead to chronic diarrhea with malabsorption, resulting in greasy, foul-smelling stools (steatorrhea). Some infections can be persistent and difficult to treat."
+    },
+    {
+      "id": 22,
+      "type": "fill-in-the-blank",
+      "text": "Liver flukes are often found in the _________ duct.",
+      "answer": ["bile"],
+      "explanation": "Liver flukes, such as Clonorchis sinensis and Fasciola hepatica, typically inhabit the bile ducts and gallbladder of their hosts."
+    },
+    {
+      "id": 23,
+      "type": "short-answer",
+      "text": "How does the diarrhea caused by dysentery differ from other types of diarrhea?",
+      "answer": "Dysentery is a severe form of diarrhea characterized by the presence of blood and mucus in the stool. It is often accompanied by abdominal pain, fever, and tenesmus (painful straining to defecate). Other types of diarrhea are typically watery and do not contain visible blood or significant mucus.",
+      "explanation": "Dysentery is characterized by bloody and mucoid stools, often with fever and abdominal cramps, indicating inflammation and damage to the intestinal lining. Other diarrheas are usually watery without blood/mucus."
+    },
+    {
+      "id": 24,
+      "type": "short-answer",
+      "text": "Why do sugary foods promote dental caries?",
+      "answer": "Bacteria in dental plaque, particularly Streptococcus mutans, metabolize sugars (especially sucrose) through fermentation, producing acids (like lactic acid). These acids demineralize tooth enamel, leading to dental caries (cavities). Sugars also provide S. mutans with substrates to produce extracellular polysaccharides (glucans), which help them adhere to teeth and contribute to plaque biofilm formation.",
+      "explanation": "Oral bacteria (e.g., Streptococcus mutans) ferment sugars, producing acids that demineralize tooth enamel. Sugars also help these bacteria produce sticky polysaccharides that contribute to plaque formation."
+    },
+    {
+      "id": 25,
+      "type": "short-answer",
+      "text": "Which forms of viral hepatitis are transmitted through the fecal-oral route?",
+      "answer": "Hepatitis A virus (HAV) and Hepatitis E virus (HEV) are primarily transmitted through the fecal-oral route, often via contaminated food or water.",
+      "explanation": "Hepatitis A (HAV) and Hepatitis E (HEV) are transmitted via the fecal-oral route."
+    },
+    {
+      "id": 26,
+      "type": "short-answer",
+      "text": "What is an O&P exam?",
+      "answer": "An O&P exam stands for \"Ova and Parasites\" exam. It is a microscopic examination of a stool sample to detect the presence of protozoan cysts or trophozoites, and helminth eggs or larvae, which can identify various intestinal parasitic infections.",
+      "explanation": "O&P stands for Ova (eggs) and Parasites. It's a laboratory test performed on a stool sample to detect the presence of intestinal parasites (protozoa and helminths) and their eggs."
+    },
+    {
+      "id": 27,
+      "type": "short-answer",
+      "text": "Why does the coughing up of worms play an important part in the life cycle of some helminths, such as the roundworm Ascaris lumbricoides?",
+      "answer": "In the life cycle of Ascaris lumbricoides, ingested eggs hatch in the intestine, and larvae penetrate the intestinal wall, enter the bloodstream, and migrate to the lungs. In the lungs, they mature further, break into the alveoli, and are coughed up into the pharynx. They are then swallowed, returning to the small intestine where they mature into adult worms. Coughing up and re-swallowing the larvae is essential for them to complete their development in the intestine.",
+      "explanation": "For Ascaris, larvae migrate from the intestine to the lungs. They are then coughed up and swallowed, allowing them to return to the small intestine to mature into adults and complete their life cycle."
+    },
+    {
+      "id": 28,
+      "type": "critical-thinking",
+      "text": "Why does use of antibiotics and/or proton pump inhibitors contribute to the development of Clostridioides difficile infections?",
+      "answer": "Antibiotics disrupt the normal gut microbiota, killing beneficial bacteria that would normally compete with C. difficile and keep its numbers in check. This allows C. difficile spores (which are resistant to many antibiotics) to germinate and the vegetative cells to proliferate and produce toxins. Proton pump inhibitors (PPIs) reduce stomach acid production. Stomach acid is a natural barrier against ingested C. difficile spores. Lower stomach acidity may allow more spores to survive passage through the stomach and reach the colon, increasing the risk of infection, especially if the gut microbiota is already compromised.",
+      "explanation": "Antibiotics disrupt the normal gut flora, allowing C. difficile (often already present or acquired) to overgrow. Proton pump inhibitors reduce stomach acidity, which normally helps kill ingested C. difficile spores, thus increasing the chance of colonization."
+    },
+    {
+      "id": 29,
+      "type": "critical-thinking",
+      "text": "Why did scientists initially think it was unlikely that a bacterium caused peptic ulcers?",
+      "answer": "Scientists initially thought it was unlikely that a bacterium caused peptic ulcers because the stomach environment is extremely acidic (low pH). It was believed that such a harsh acidic environment would be inhospitable to most bacteria and that they could not survive, let alone colonize the stomach and cause chronic inflammation leading to ulcers. The discovery of Helicobacter pylori, which has mechanisms to survive in stomach acid (e.g., urease production), challenged this dogma.",
+      "explanation": "The stomach is highly acidic, an environment previously thought to be too harsh for bacteria to survive and colonize. It was believed ulcers were primarily caused by stress and lifestyle factors."
+    },
+    {
+      "id": 30,
+      "type": "critical-thinking",
+      "text": "Does it makes a difference in treatment to know if a particular illness is caused by a bacterium (an infection) or a toxin (an intoxication)?",
+      "answer": "Yes, it makes a significant difference. If an illness is caused by a bacterial infection, antibiotics may be effective in killing the bacteria and resolving the infection. If the illness is caused by pre-formed bacterial toxins in food (an intoxication), antibiotics will not be effective against the toxins themselves (though they might be used if live bacteria are also ingested and causing infection). Treatment for intoxications is often supportive (e.g., hydration, antiemetics) and may involve antitoxins if available. The onset of symptoms is also typically much faster with intoxications than with infections.",
+      "explanation": "Yes. Infections involve live, replicating bacteria and are treated with antibiotics. Intoxications are caused by pre-formed toxins; antibiotics are ineffective against the toxins, and treatment is supportive (or with antitoxins if available). Onset is usually faster for intoxications."
+    },
+    {
+      "id": 31,
+      "type": "critical-thinking",
+      "text": "Based on what you know about HBV, what are some ways that its transmission could be reduced in a health-care setting?",
+      "answer": "HBV is transmitted through blood and body fluids. Ways to reduce transmission in healthcare settings include: 1. Universal precautions: Treating all blood and body fluids as potentially infectious. 2. Vaccination: HBV vaccination for all healthcare workers. 3. Safe injection practices: Never reusing needles or syringes; proper disposal of sharps. 4. Personal protective equipment (PPE): Using gloves, gowns, masks, and eye protection when exposure to blood or body fluids is anticipated. 5. Sterilization and disinfection: Proper sterilization of reusable medical equipment and disinfection of surfaces. 6. Post-exposure prophylaxis: For unvaccinated individuals exposed to HBV.",
+      "explanation": "HBV is bloodborne. Prevention includes: universal precautions, HBV vaccination of healthcare workers, use of PPE (gloves, masks), safe needle practices (no recapping, sharps disposal), proper sterilization of instruments, and post-exposure prophylaxis."
+    },
+    {
+      "id": 32,
+      "type": "critical-thinking",
+      "text": "Cases of strongyloidiasis are often more severe in patients who are using corticosteroids to treat another disorder. Explain why this might occur.",
+      "answer": "Corticosteroids are immunosuppressive drugs. Strongyloides stercoralis can establish a chronic, often asymptomatic or mild, infection that is kept in check by the host's immune system. When a patient takes corticosteroids, their immune response is suppressed. This can allow the parasite to replicate uncontrollably (autoinfection cycle accelerates), leading to hyperinfection syndrome or disseminated strongyloidiasis, where large numbers of larvae migrate to various organs. This results in severe, often life-threatening illness. The impaired cell-mediated immunity caused by corticosteroids is particularly problematic for controlling Strongyloides.",
+      "explanation": "Corticosteroids suppress the immune system. This can allow a normally controlled or mild Strongyloides infection to become a hyperinfection or disseminated disease, as the host's immune defenses are unable to limit parasite replication and spread."
+    }
+  ]
+}

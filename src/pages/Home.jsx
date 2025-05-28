@@ -40,7 +40,7 @@ function Home() {
 
         const chapterData = await Promise.all(
           chapterFiles.map(async (file) => {
-            const response = await fetch(file)
+            const response = await fetch(`/${file}`)
             if (!response.ok) {
               throw new Error(`Failed to fetch ${file}`)
             }

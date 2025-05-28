@@ -1,0 +1,307 @@
+{
+  "title": "Microbiology Questions - Chapter 23",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "text": "When it first leaves the kidney, urine flows through",
+      "options": [
+        "the urinary bladder.",
+        "the urethra.",
+        "the ureter.",
+        "the glomeruli."
+      ],
+      "answer": "the ureter.",
+      "explanation": "Urine is formed in the kidneys, then flows through the ureters to the urinary bladder for storage, and is finally expelled through the urethra. Glomeruli are capillary networks within the kidneys where filtration begins."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "text": "What part of the male urogenital tract is shared by the urinary and reproductive systems?",
+      "options": [
+        "the prostate gland",
+        "the seminal vesicles",
+        "the vas deferens",
+        "the urethra"
+      ],
+      "answer": "the urethra",
+      "explanation": "In males, the urethra serves as a common pathway for both urine from the bladder and semen from the reproductive organs."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "text": "Which species is not associated with NGU?",
+      "options": [
+        "Neisseria gonorrhoeae",
+        "Mycoplasma hominis",
+        "Chlamydia trachomatis",
+        "Mycoplasma genitalium"
+      ],
+      "answer": "Neisseria gonorrhoeae",
+      "explanation": "NGU (Nongonococcal Urethritis) is urethritis not caused by Neisseria gonorrhoeae. Chlamydia trachomatis, Mycoplasma genitalium, and Mycoplasma hominis are common causes of NGU."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "text": "A strain of bacteria associated with a bladder infection shows gram-negative rods. What species is most likely to be the causative agent?",
+      "options": [
+        "Mycoplasma hominis",
+        "Escherichia coli",
+        "Neisseria gonorrhoeae",
+        "Chlamydia trachomatis"
+      ],
+      "answer": "Escherichia coli",
+      "explanation": "Escherichia coli, a gram-negative rod, is the most common cause of urinary tract infections (UTIs), including bladder infections (cystitis). Mycoplasma and Chlamydia lack typical cell walls or are obligate intracellular, and Neisseria gonorrhoeae are gram-negative cocci."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "text": "Treponemal and non-treponemal serological testing can be used to test for",
+      "options": [
+        "vaginosis.",
+        "chlamydia.",
+        "syphilis.",
+        "gonorrhea."
+      ],
+      "answer": "syphilis.",
+      "explanation": "Syphilis, caused by Treponema pallidum, is diagnosed using serological tests that detect either antibodies against treponemal antigens (treponemal tests) or antibodies against non-treponemal antigens (reagin, detected by non-treponemal tests like RPR or VDRL)."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "text": "Lymphogranuloma venereum is caused by serovars of",
+      "options": [
+        "Neisseria gonorrhoeae.",
+        "Chlamydia trachomatis.",
+        "Treponema pallidum.",
+        "Haemophilis ducreyi."
+      ],
+      "answer": "Chlamydia trachomatis.",
+      "explanation": "Lymphogranuloma venereum (LGV) is a sexually transmitted infection caused by specific invasive serovars (L1, L2, L2a, L2b, or L3) of Chlamydia trachomatis."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "text": "The latent stage of syphilis, which may last for years, can occur between",
+      "options": [
+        "the secondary and tertiary stages.",
+        "the primary and secondary stages.",
+        "initial infection and the primary stage.",
+        "any of the three stages."
+      ],
+      "answer": "the secondary and tertiary stages.",
+      "explanation": "Latent syphilis is a period where there are no clinical signs or symptoms of infection. It typically occurs after the secondary stage resolves and before the potential development of tertiary syphilis."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "text": "Based on its shape, which microbe is this? (Micrograph of spiral cells. Figure 23.26 credit: modification of work by Centers for Disease Control and Prevention)",
+      "options": [
+        "Neisseria gonorrhoeae",
+        "Chlamydia trachomatis",
+        "Treponema pallidum",
+        "Haemophilis ducreyi"
+      ],
+      "answer": "Treponema pallidum",
+      "explanation": "Treponema pallidum, the causative agent of syphilis, is a spirochete, characterized by its slender, spiral (corkscrew) shape. Neisseria are cocci, Chlamydia are very small intracellular bacteria, and Haemophilus ducreyi are coccobacilli."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "text": "Genital herpes is most commonly caused by",
+      "options": [
+        "herpes simplex virus 1.",
+        "varicella-zoster virus.",
+        "herpes simplex virus 2.",
+        "cytomegalovirus."
+      ],
+      "answer": "herpes simplex virus 2.",
+      "explanation": "While both HSV-1 and HSV-2 can cause genital herpes, herpes simplex virus 2 (HSV-2) is historically the more common cause. HSV-1 is increasingly recognized as a cause of genital herpes as well, often through oral-genital contact."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "text": "Koilocytes are characteristic of",
+      "options": [
+        "cells infected with human papillomavirus",
+        "cells infected with herpes simplex virus 2",
+        "cells infected with all forms of herpesviruses",
+        "cervical cancer cells"
+      ],
+      "answer": "cells infected with human papillomavirus",
+      "explanation": "Koilocytes are squamous epithelial cells with nuclear atypia and a perinuclear halo, which are characteristic cytological changes seen in cells infected with human papillomavirus (HPV)."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "text": "Which oral medication is recommended as an initial topical treatment for genital yeast infections?",
+      "options": [
+        "penicillin",
+        "acyclovir",
+        "fluconazole",
+        "miconazole"
+      ],
+      "answer": "miconazole",
+      "explanation": "Miconazole is an antifungal medication available in topical formulations (creams, suppositories) for treating genital yeast infections (vulvovaginal candidiasis). Fluconazole is an oral antifungal. Penicillin is an antibacterial, and acyclovir is an antiviral."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "text": "What is the only common infection of the reproductive tract caused by a protozoan?",
+      "options": [
+        "gonorrhea",
+        "chlamydia",
+        "trichomoniasis",
+        "candidiasis"
+      ],
+      "answer": "trichomoniasis",
+      "explanation": "Trichomoniasis is a sexually transmitted infection caused by the flagellated protozoan Trichomonas vaginalis. Gonorrhea and chlamydia are bacterial; candidiasis is fungal."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "text": "Which test is preferred for detecting T. vaginalis because of its high sensitivity?",
+      "options": [
+        "NAAT",
+        "wet mounts",
+        "Pap tests",
+        "all of the above are equally good"
+      ],
+      "answer": "NAAT",
+      "explanation": "Nucleic Acid Amplification Tests (NAATs) are highly sensitive and specific for detecting Trichomonas vaginalis and are preferred over wet mounts (microscopy) or Pap tests for diagnosis."
+    },
+    {
+      "id": 14,
+      "type": "fill-in-the-blank",
+      "text": "The genus of bacteria found in the vagina that is important in maintaining a healthy environment, including an acidic pH, is _____.",
+      "answer": ["Lactobacillus"],
+      "explanation": "Lactobacillus species are dominant in a healthy vaginal microbiota, producing lactic acid which helps maintain an acidic pH, inhibiting the growth of pathogenic microbes."
+    },
+    {
+      "id": 15,
+      "type": "fill-in-the-blank",
+      "text": "Pyelonephritis is a potentially severe infection of the _____.",
+      "answer": ["kidneys"],
+      "explanation": "Pyelonephritis is an inflammation of the kidney, typically due to a bacterial infection that has ascended from the lower urinary tract."
+    },
+    {
+      "id": 16,
+      "type": "fill-in-the-blank",
+      "text": "Soft chancres on the genitals are characteristic of the sexually transmitted disease known as _____.",
+      "answer": ["chancroid"],
+      "explanation": "Chancroid, caused by Haemophilus ducreyi, is characterized by painful, soft genital ulcers (chancres)."
+    },
+    {
+      "id": 17,
+      "type": "fill-in-the-blank",
+      "text": "Condylomata are _____.",
+      "answer": ["genital warts (caused by HPV)"],
+      "explanation": "Condylomata acuminata, commonly known as genital warts, are caused by certain types of human papillomavirus (HPV)."
+    },
+    {
+      "id": 18,
+      "type": "fill-in-the-blank",
+      "text": "The most common Candida species associated with yeast infections is _____.",
+      "answer": ["Candida albicans"],
+      "explanation": "Candida albicans is the yeast species most frequently responsible for vulvovaginal candidiasis (yeast infections) and other forms of candidiasis."
+    },
+    {
+      "id": 19,
+      "type": "fill-in-the-blank",
+      "text": "Trichomoniasis is caused by _____.",
+      "answer": ["Trichomonas vaginalis"],
+      "explanation": "Trichomoniasis is a sexually transmitted infection caused by the protozoan parasite Trichomonas vaginalis."
+    },
+    {
+      "id": 20,
+      "type": "short-answer",
+      "text": "When the microbial balance of the vagina is disrupted, leading to overgrowth of resident bacteria without necessarily causing inflammation, the condition is called _____. ",
+      "answer": "Bacterial vaginosis (BV)",
+      "explanation": "Bacterial vaginosis is a polymicrobial syndrome characterized by a shift in the vaginal microbiota from predominantly Lactobacillus species to an overgrowth of anaerobic bacteria, often without significant inflammation."
+    },
+    {
+      "id": 21,
+      "type": "short-answer",
+      "text": "Explain the difference between a sexually transmitted infection and a sexually transmitted disease.",
+      "answer": "A sexually transmitted infection (STI) refers to the colonization of the body by a pathogen that is transmitted through sexual contact. An individual can be infected (i.e., have an STI) without showing any signs or symptoms of illness. A sexually transmitted disease (STD) occurs when the infection leads to overt signs and symptoms, or damage to the body. Essentially, an infection is the presence of the pathogen, while a disease is the clinical manifestation of that infection.",
+      "explanation": "An STI is the presence of a pathogen acquired through sexual contact; it may be asymptomatic. An STD is when that infection causes noticeable symptoms or illness."
+    },
+    {
+      "id": 22,
+      "type": "short-answer",
+      "text": "In the figure shown here, where would cystitis occur? (1) a structure on top of structure 2. (2) a brown structure that is approximately oval shaped with an indent in one side. (3) a yellow tube coming from 2. (4) blue tube leading to 2. (5) red tube leading to (2). (6) bones in the region. (7) sac that 3 feeds into. (8) tube out of 7.",
+      "answer": "Cystitis would occur in structure 7. Based on the description, structure 2 is likely a kidney, structure 3 a ureter, structure 7 the urinary bladder, and structure 8 the urethra. Cystitis is an inflammation/infection of the urinary bladder.",
+      "explanation": "Assuming a standard diagram of the urinary system: 2=kidney, 3=ureter, 7=urinary bladder, 8=urethra. Cystitis is an infection of the urinary bladder (7)."
+    },
+    {
+      "id": 23,
+      "type": "short-answer",
+      "text": "What is pyuria?",
+      "answer": "Pyuria is the presence of pus (or a high number of white blood cells, specifically neutrophils) in the urine. It is a common sign of a urinary tract infection (UTI) or other inflammatory conditions of the urinary tract.",
+      "explanation": "Pyuria means the presence of white blood cells (pus) in the urine, indicating an infection or inflammation in the urinary tract."
+    },
+    {
+      "id": 24,
+      "type": "short-answer",
+      "text": "Compare gonococcal and nongonoccocal urethritis with respect to their symptoms and the pathogens that cause each disease.",
+      "answer": "Gonococcal urethritis (GU) is caused by Neisseria gonorrhoeae. Symptoms in males often include purulent (pus-like) urethral discharge and dysuria (painful urination); females may be asymptomatic or have vaginal discharge, dysuria, or abdominal pain. Nongonococcal urethritis (NGU) is caused by other pathogens, most commonly Chlamydia trachomatis, but also Mycoplasma genitalium, Ureaplasma urealyticum, or Trichomonas vaginalis. NGU symptoms are often milder than GU, with clearer or mucoid discharge, or may be asymptomatic, especially in females. Both can lead to complications if untreated.",
+      "explanation": "GU: Caused by Neisseria gonorrhoeae; often purulent discharge. NGU: Caused by Chlamydia trachomatis, Mycoplasma spp., etc.; often milder, clearer discharge, or asymptomatic. Both cause urethral inflammation and dysuria."
+    },
+    {
+      "id": 25,
+      "type": "short-answer",
+      "text": "Is it true that human papillomaviruses can always be detected by the presence of genital warts?",
+      "answer": "No, it is not true. Many HPV infections are asymptomatic and do not cause genital warts. Genital warts are caused by specific low-risk types of HPV. High-risk HPV types, which are associated with cervical and other cancers, often do not cause warts and infections can be subclinical, detectable only through screening tests like Pap smears or HPV DNA tests.",
+      "explanation": "No. Many HPV infections are asymptomatic. Only certain HPV types cause visible genital warts. High-risk HPV types that can lead to cancer often cause no warts."
+    },
+    {
+      "id": 26,
+      "type": "short-answer",
+      "text": "How is neonatal herpes transmitted?",
+      "answer": "Neonatal herpes is most commonly transmitted during childbirth (intrapartum) when an infant passes through an infected maternal genital tract if the mother has an active genital herpes (HSV) outbreak (with or without visible lesions). Less commonly, it can be transmitted in utero (transplacental) or postnatally through direct contact with an active lesion on the mother or another caregiver.",
+      "explanation": "Primarily during vaginal delivery if the mother has an active genital herpes infection. Less commonly, it can be transmitted in utero or postnatally via direct contact with lesions."
+    },
+    {
+      "id": 27,
+      "type": "short-answer",
+      "text": "Name three organisms (a bacterium, a fungus, and a protozoan) that are associated with vaginitis.",
+      "answer": "Bacterium: Gardnerella vaginalis (associated with bacterial vaginosis, which can present with vaginitis-like symptoms or be a component of mixed infections causing vaginitis).\nFungus: Candida albicans (causes vulvovaginal candidiasis or yeast infection).\nProtozoan: Trichomonas vaginalis (causes trichomoniasis).",
+      "explanation": "Bacterium: Gardnerella vaginalis (common in bacterial vaginosis). Fungus: Candida albicans (yeast infection). Protozoan: Trichomonas vaginalis (trichomoniasis)."
+    },
+    {
+      "id": 28,
+      "type": "critical-thinking",
+      "text": "Epidemiological data show that the use of antibiotics is often followed by cases of vaginosis or vaginitis. Can you explain this finding?",
+      "answer": "Antibiotics, especially broad-spectrum ones, can disrupt the normal vaginal microbiota. They can kill or inhibit the growth of beneficial Lactobacillus species, which help maintain an acidic pH and suppress the growth of potentially pathogenic organisms. When lactobacilli are reduced, other resident bacteria (like Gardnerella vaginalis and anaerobes associated with bacterial vaginosis) or yeasts (like Candida albicans) can overgrow, leading to conditions like bacterial vaginosis or vulvovaginal candidiasis (yeast infection), both of which can cause symptoms of vaginitis.",
+      "explanation": "Antibiotics can kill beneficial Lactobacillus in the vagina. This disrupts the normal microbial balance and pH, allowing opportunistic bacteria (causing bacterial vaginosis) or yeast (causing candidiasis) to overgrow, leading to vaginitis."
+    },
+    {
+      "id": 29,
+      "type": "critical-thinking",
+      "text": "What are some factors that would increase an individual’s risk of contracting leptospirosis?",
+      "answer": "Factors increasing risk of leptospirosis (caused by Leptospira interrogans) include: 1. Occupational exposure: Farmers, veterinarians, sewer workers, slaughterhouse workers, and rice field workers are at higher risk due to contact with infected animals or contaminated water/soil. 2. Recreational activities: Swimming, wading, or kayaking in contaminated freshwater (lakes, rivers) especially after heavy rainfall or flooding. 3. Contact with infected animals: Direct or indirect contact with urine or tissues of infected animals (rodents, dogs, livestock). 4. Poor sanitation: Conditions that promote rodent populations. 5. Living in or traveling to endemic areas: Leptospirosis is more common in tropical and subtropical regions with high rainfall.",
+      "explanation": "Risk factors include contact with water or soil contaminated with infected animal urine (e.g., through farming, swimming in contaminated water, certain occupations like veterinary work or sewer work), and contact with infected animals."
+    },
+    {
+      "id": 30,
+      "type": "critical-thinking",
+      "text": "Chlamydia is often asymptomatic. Why might it be important for an individual to know if they were infected?",
+      "answer": "Even if asymptomatic, an untreated Chlamydia infection can lead to serious long-term complications, especially in women. These include pelvic inflammatory disease (PID), which can cause chronic pelvic pain, infertility, and ectopic pregnancy. In men, it can cause epididymitis. Furthermore, an infected individual, even if asymptomatic, can unknowingly transmit the infection to sexual partners. Knowing about the infection allows for treatment to prevent these complications and to prevent further spread.",
+      "explanation": "Untreated asymptomatic chlamydia can lead to serious complications like pelvic inflammatory disease (PID), infertility, and ectopic pregnancy. Asymptomatic individuals can also unknowingly transmit the infection to partners. Diagnosis allows for treatment and prevention of spread/complications."
+    },
+    {
+      "id": 31,
+      "type": "critical-thinking",
+      "text": "Why does the CDC recommend a two-drug treatment regimen to cover both C. trachomatis and N. gonorrhoeae if testing to distinguish between the two is not available? Additionally, how does the two-drug treatment regimen address antibiotic resistance?",
+      "answer": "The CDC recommends dual therapy because: 1. Co-infection is common: Individuals infected with N. gonorrhoeae are often also infected with C. trachomatis. Treating for both ensures comprehensive care if specific diagnostic tests are unavailable or results are delayed. 2. Symptoms can be similar: This makes clinical distinction difficult. 3. Prevents complications: Untreated infections can lead to serious sequelae. Regarding antibiotic resistance, particularly for N. gonorrhoeae which has developed resistance to many antibiotics, using two drugs with different mechanisms of action (e.g., ceftriaxone plus azithromycin or doxycycline) can be more effective at eradicating the infection and may help slow the development of resistance to either drug. If one drug is less effective due to emerging resistance, the other may still be effective.",
+      "explanation": "Co-infection with gonorrhea and chlamydia is common, and symptoms can overlap. Dual therapy ensures both are treated, preventing complications. For gonorrhea, using two drugs with different mechanisms helps combat and slow the spread of antibiotic resistance."
+    },
+    {
+      "id": 32,
+      "type": "critical-thinking",
+      "text": "Recently, studies have shown a reduction in the prevalence of some strains of HPV in younger females. What might be the reason for this?",
+      "answer": "The most likely reason for the reduction in the prevalence of some HPV strains in younger females is the introduction and widespread use of HPV vaccines. Vaccines like Gardasil and Cervarix target the high-risk HPV types most commonly associated with cervical cancer (e.g., HPV 16 and 18) and, in some cases, types causing genital warts (e.g., HPV 6 and 11). As vaccination coverage increases in adolescent populations, the transmission of these targeted HPV strains decreases, leading to a lower prevalence in vaccinated cohorts and potentially some herd immunity effects.",
+      "explanation": "The primary reason is likely the introduction and uptake of HPV vaccines, which protect against the most common cancer-causing and wart-causing HPV strains. Increased vaccination rates lead to lower prevalence of these strains."
+    }
+  ]
+}
