@@ -15,7 +15,10 @@ import {
   MenuItem,
   Select,
   InputLabel,
-  Divider
+  Divider,
+  Card,
+  CardContent,
+  CardActions
 } from '@mui/material'
 import { checkAnswer, getFeedback } from '../utils/questionUtils'
 
@@ -32,6 +35,7 @@ function QuestionRenderer({
   const [isCorrect, setIsCorrect] = useState(savedResult)
   const [feedback, setFeedback] = useState(null)
   const [matchingAnswers, setMatchingAnswers] = useState({})
+  const [showExplanation, setShowExplanation] = useState(false)
 
   useEffect(() => {
     // Reset state when question changes
@@ -49,6 +53,7 @@ function QuestionRenderer({
     setSubmitted(savedResult !== null)
     setIsCorrect(savedResult)
     setFeedback(null)
+    setShowExplanation(false)
   }, [question, savedAnswer, savedResult])
 
   const handleSubmit = () => {
@@ -114,7 +119,78 @@ function QuestionRenderer({
     return 'primary'; // Other options remain default
   }
 
+  const toggleExplanation = () => {
+    setShowExplanation(!showExplanation);
+  }
+
   const renderQuestionContent = () => {
+    // For short answer and critical thinking questions, render as flashcards
+    if (question.type === 'short-answer' || question.type === 'critical-thinking') {
+      return (
+        <Card variant="outlined" sx={{ mb: 3 }}>
+          <CardContent>
+            <Typography variant="body1" paragraph>
+              {question.text}
+            </Typography>
+            
+            {question.imageUrl && (
+              <Box sx={{ my: 2, textAlign: 'center' }}>
+                <img 
+                  src={question.imageUrl} 
+                  alt="Question illustration" 
+                  style={{ maxWidth: '100%', maxHeight: '300px' }}
+                />
+              </Box>
+            )}
+            
+            {!submitted ? (
+              <TextField
+                fullWidth
+                label="Your Answer"
+                variant="outlined"
+                value={answer}
+                onChange={(e) => setAnswer(e.target.value)}
+                multiline
+                rows={4}
+                margin="normal"
+              />
+            ) : (
+              <Box sx={{ mt: 3 }}>
+                <Typography variant="subtitle1" fontWeight="bold" gutterBottom>
+                  Your Answer:
+                </Typography>
+                <Typography variant="body1" paragraph sx={{ pl: 2 }}>
+                  {answer}
+                </Typography>
+                
+                {showExplanation && (
+                  <>
+                    <Typography variant="subtitle1" fontWeight="bold" gutterBottom>
+                      Model Answer:
+                    </Typography>
+                    <Typography variant="body1" paragraph sx={{ pl: 2 }}>
+                      {question.answer}
+                    </Typography>
+                  </>
+                )}
+              </Box>
+            )}
+          </CardContent>
+          <CardActions>
+            {submitted && (
+              <Button 
+                size="small" 
+                onClick={toggleExplanation}
+                color="primary"
+              >
+                {showExplanation ? "Hide Explanation" : "Show Explanation"}
+              </Button>
+            )}
+          </CardActions>
+        </Card>
+      )
+    }
+
     switch (question.type) {
       case 'multiple-choice':
         return (
@@ -290,7 +366,7 @@ function QuestionRenderer({
                   <Box sx={{ mt: 1 }}>
                     {question.pairs ? 
                       (matchingAnswers[item] !== question.pairs.find(p => p.item === item)?.description && (
-                        <Typography variant="body2\" color="success.main">
+                        <Typography variant="body2" color="success.main">
                           Correct match: {question.pairs.find(p => p.item === item)?.description}
                         </Typography>
                       )) :
@@ -340,24 +416,6 @@ function QuestionRenderer({
               />
             ))}
           </FormGroup>
-        )
-      
-      case 'short-answer':
-      case 'critical-thinking':
-        return (
-          <TextField
-            fullWidth
-            label="Your Answer"
-            variant="outlined"
-            value={answer}
-            onChange={(e) => setAnswer(e.target.value)}
-            disabled={submitted}
-            margin="normal"
-            multiline
-            rows={4}
-            error={submitted && showFeedback && !isCorrect}
-            color={submitted && showFeedback && isCorrect ? 'success' : undefined}
-          />
         )
       
       default:
