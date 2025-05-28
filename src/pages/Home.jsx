@@ -79,10 +79,10 @@ function Home() {
   if (error) {
     return (
       <div className="text-center">
-        <div className="text-red-500 mb-4">{error}</div>
+        <div className="text-red-600 mb-4">{error}</div>
         <button 
           onClick={() => window.location.reload()} 
-          className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+          className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
         >
           Retry
         </button>
@@ -93,8 +93,8 @@ function Home() {
   return (
     <div>
       <div className="text-center mb-10">
-        <h1 className="text-3xl font-bold mb-4">Microbiology Quiz</h1>
-        <p className="text-lg">Select a chapter to start the quiz:</p>
+        <h1 className="text-3xl font-bold mb-4 text-gray-900">Microbiology Quiz</h1>
+        <p className="text-lg text-gray-800">Select a chapter to start the quiz:</p>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -102,12 +102,12 @@ function Home() {
           <Link 
             key={chapter.id}
             to={`/quiz/${chapter.id}`}
-            className="bg-white hover:bg-blue-50 border border-gray-200 rounded-lg shadow-md p-6 transition-colors"
+            className="bg-white hover:bg-blue-50 border border-gray-300 rounded-lg shadow-md p-6 transition-colors"
           >
-            <h2 className="text-xl font-semibold mb-2">Chapter {chapter.id}</h2>
-            <p className="text-gray-600 mb-4">{chapter.title}</p>
+            <h2 className="text-xl font-semibold mb-2 text-gray-900">Chapter {chapter.id}</h2>
+            <p className="text-gray-700 mb-4">{chapter.title}</p>
             <div className="flex justify-between items-center">
-              <span className="text-sm text-gray-500">{chapter.questionCount} questions</span>
+              <span className="text-sm text-gray-600">{chapter.questionCount} questions</span>
               <span className="bg-blue-100 text-blue-800 text-xs font-medium px-2.5 py-0.5 rounded">Start Quiz</span>
             </div>
           </Link>

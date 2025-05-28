@@ -39,15 +39,15 @@ function Results() {
   return (
     <div>
       <div className="text-center mb-8">
-        <h1 className="text-3xl font-bold mb-2">Quiz Results</h1>
-        <p className="text-xl">{results.chapterTitle}</p>
+        <h1 className="text-3xl font-bold mb-2 text-gray-900">Quiz Results</h1>
+        <p className="text-xl text-gray-800">{results.chapterTitle}</p>
       </div>
 
       <div className="bg-white border border-gray-200 rounded-lg shadow-md p-6 mb-8">
         <div className="flex flex-col md:flex-row justify-between items-center mb-6">
           <div>
-            <h2 className="text-2xl font-bold">{score}%</h2>
-            <p className="text-gray-600">
+            <h2 className="text-2xl font-bold text-gray-900">{score}%</h2>
+            <p className="text-gray-700">
               {correctAnswers} out of {results.totalQuestions} correct
             </p>
           </div>
@@ -60,12 +60,12 @@ function Results() {
                 style={{ width: `${score}%` }}
               ></div>
             </div>
-            <p className="mt-2 text-gray-600">{feedback}</p>
+            <p className="mt-2 text-gray-700">{feedback}</p>
           </div>
         </div>
 
         <div className="border-t border-gray-200 pt-4">
-          <h3 className="text-lg font-semibold mb-4">Question Review</h3>
+          <h3 className="text-lg font-semibold mb-4 text-gray-900">Question Review</h3>
           <div className="space-y-6">
             {results.answers.map((answer, index) => (
               <div 
@@ -74,20 +74,20 @@ function Results() {
                   answer.isCorrect ? 'bg-green-50 border border-green-200' : 'bg-red-50 border border-red-200'
                 }`}
               >
-                <p className="font-medium mb-2">
+                <p className="font-medium mb-2 text-gray-900">
                   {index + 1}. {answer.question}
                 </p>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-2">
                   <div>
-                    <p className="text-sm text-gray-600">Your answer:</p>
-                    <p className={`font-medium ${answer.isCorrect ? 'text-green-600' : 'text-red-600'}`}>
+                    <p className="text-sm text-gray-700">Your answer:</p>
+                    <p className={`font-medium ${answer.isCorrect ? 'text-green-700' : 'text-red-700'}`}>
                       {answer.userAnswer || 'No answer provided'}
                     </p>
                   </div>
                   {!answer.isCorrect && (
                     <div>
-                      <p className="text-sm text-gray-600">Correct answer:</p>
-                      <p className="font-medium text-green-600">
+                      <p className="text-sm text-gray-700">Correct answer:</p>
+                      <p className="font-medium text-green-700">
                         {Array.isArray(answer.correctAnswer) 
                           ? answer.correctAnswer.join(' or ') 
                           : answer.correctAnswer}
@@ -96,8 +96,8 @@ function Results() {
                   )}
                 </div>
                 <div className="mt-2 p-3 bg-gray-50 rounded text-sm">
-                  <p className="font-medium mb-1">Explanation:</p>
-                  <p>{answer.explanation}</p>
+                  <p className="font-medium mb-1 text-gray-800">Explanation:</p>
+                  <p className="text-gray-800">{answer.explanation}</p>
                 </div>
               </div>
             ))}
@@ -108,13 +108,13 @@ function Results() {
       <div className="flex justify-between">
         <button
           onClick={() => navigate('/')}
-          className="bg-gray-500 hover:bg-gray-600 text-white px-4 py-2 rounded"
+          className="bg-gray-600 hover:bg-gray-700 text-white px-4 py-2 rounded"
         >
           Back to Home
         </button>
         <button
           onClick={() => navigate(`/quiz/${results.chapterId}`)}
-          className="bg-blue-500 hover:bg-blue-700 text-white px-4 py-2 rounded"
+          className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded"
         >
           Retry Chapter
         </button>

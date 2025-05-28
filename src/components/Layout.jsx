@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 
 function Layout({ children }) {
   return (
-    <div className="min-h-screen flex flex-col">
+    <div className="min-h-screen flex flex-col bg-gray-50">
       <header className="bg-blue-700 text-white shadow-md">
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
           <Link to="/" className="text-xl font-bold flex items-center">
