@@ -1,0 +1,378 @@
+{
+  "title": "Multiple Choice Questions - Chapter 1",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "text": "Which of the following foods is NOT made by fermentation?",
+      "options": [
+        "beer",
+        "bread",
+        "cheese",
+        "orange juice"
+      ],
+      "answer": "orange juice",
+      "explanation": "Beer, bread, and cheese are produced through fermentation. Orange juice is typically a fresh or pasteurized product, not made by fermentation."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "text": "Who is considered the “father of Western medicine”?",
+      "options": [
+        "Marcus Terentius Varro",
+        "Thucydides",
+        "Antonie van Leeuwenhoek",
+        "Hippocrates"
+      ],
+      "answer": "Hippocrates",
+      "explanation": "Hippocrates is widely regarded as the “father of Western medicine” for his systematic approach to medicine and the Hippocratic Oath."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "text": "Who was the first to observe “animalcules” under the microscope?",
+      "options": [
+        "Antonie van Leeuwenhoek",
+        "Ötzi the Iceman",
+        "Marcus Terentius Varro",
+        "Robert Koch"
+      ],
+      "answer": "Antonie van Leeuwenhoek",
+      "explanation": "Antonie van Leeuwenhoek, using his handcrafted microscopes, was the first to observe and describe microorganisms, which he called “animalcules”."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "text": "Who proposed that swamps might harbor tiny, disease-causing animals too small to see?",
+      "options": [
+        "Thucydides",
+        "Marcus Terentius Varro",
+        "Hippocrates",
+        "Louis Pasteur"
+      ],
+      "answer": "Marcus Terentius Varro",
+      "explanation": "Marcus Terentius Varro, a Roman scholar, suggested that unseen creatures in swamps could cause disease."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "text": "Which of the following was NOT a kingdom in Linnaeus’s taxonomy?",
+      "options": [
+        "animal",
+        "mineral",
+        "protist",
+        "plant"
+      ],
+      "answer": "protist",
+      "explanation": "Linnaeus's original taxonomy included the kingdoms Animalia, Plantae, and Mineralia. The kingdom Protista was proposed later by Ernst Haeckel."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "text": "Which of the following is a correct usage of binomial nomenclature?",
+      "options": [
+        "Homo Sapiens",
+        "homo sapiens",
+        "Homo sapiens",
+        "Homo Sapiens"
+      ],
+      "answer": "Homo sapiens",
+      "explanation": "In binomial nomenclature, the genus name is capitalized, the species name is lowercase, and both are italicized (or underlined)."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "text": "Which scientist proposed adding a kingdom for protists?",
+      "options": [
+        "Carolus Linnaeus",
+        "Carl Woese",
+        "Robert Whittaker",
+        "Ernst Haeckel"
+      ],
+      "answer": "Ernst Haeckel",
+      "explanation": "Ernst Haeckel proposed the kingdom Protista in 1866 to classify organisms that did not fit neatly into the plant or animal kingdoms."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "text": "Which of the following is NOT a domain in Woese and Fox’s phylogenetic tree?",
+      "options": [
+        "Plantae",
+        "Bacteria",
+        "Archaea",
+        "Eukarya"
+      ],
+      "answer": "Plantae",
+      "explanation": "Woese and Fox's three-domain system includes Bacteria, Archaea, and Eukarya. Plantae is a kingdom within the Eukarya domain."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "text": "Which of the following is the standard resource for identifying bacteria?",
+      "options": [
+        "Systema Naturae",
+        "Bergey’s Manual of Determinative Bacteriology",
+        "Woese and Fox’s phylogenetic tree",
+        "Haeckel’s General Morphology of Organisms"
+      ],
+      "answer": "Bergey’s Manual of Determinative Bacteriology",
+      "explanation": "Bergey’s Manual of Determinative Bacteriology is a key resource for the identification of bacterial species based on their characteristics."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "text": "Which of the following types of microorganisms is photosynthetic?",
+      "options": [
+        "yeast",
+        "virus",
+        "helminth",
+        "alga"
+      ],
+      "answer": "alga",
+      "explanation": "Algae are photosynthetic microorganisms. Yeast are fungi, viruses are acellular, and helminths are parasitic worms."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "text": "Which of the following is a prokaryotic microorganism?",
+      "options": [
+        "helminth",
+        "protozoan",
+        "cyanobacterium",
+        "mold"
+      ],
+      "answer": "cyanobacterium",
+      "explanation": "Cyanobacteria are prokaryotic microorganisms. Helminths, protozoa, and molds (fungi) are eukaryotic."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "text": "Which of the following is acellular?",
+      "options": [
+        "virus",
+        "bacterium",
+        "fungus",
+        "protozoan"
+      ],
+      "answer": "virus",
+      "explanation": "Viruses are acellular, meaning they are not composed of cells and require a host cell to replicate."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "text": "Which of the following is a type of fungal microorganism?",
+      "options": [
+        "bacterium",
+        "protozoan",
+        "alga",
+        "yeast"
+      ],
+      "answer": "yeast",
+      "explanation": "Yeast is a unicellular fungus. Bacteria are prokaryotes, protozoa are protists, and algae are photosynthetic organisms."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "text": "Which of the following is not a subfield of microbiology?",
+      "options": [
+        "bacteriology",
+        "botany",
+        "clinical microbiology",
+        "virology"
+      ],
+      "answer": "botany",
+      "explanation": "Botany is the study of plants. Bacteriology (study of bacteria), clinical microbiology (study of microbes in disease), and virology (study of viruses) are subfields of microbiology."
+    },
+    {
+      "id": 15,
+      "type": "fill-in-the-blank",
+      "text": "Thucydides is known as the father of _______________.",
+      "answer": ["scientific history"],
+      "explanation": "Thucydides advocated for evidence-based analysis of cause-and-effect reasoning, making him the father of scientific history."
+    },
+    {
+      "id": 16,
+      "type": "fill-in-the-blank",
+      "text": "Researchers think that Ötzi the Iceman may have been infected with _____ disease.",
+      "answer": ["Lyme"],
+      "explanation": "Analysis of Ötzi the Iceman's body and belongings suggests he may have had Lyme disease, among other conditions."
+    },
+    {
+      "id": 17,
+      "type": "fill-in-the-blank",
+      "text": "The process by which microbes turn grape juice into wine is called _______________.",
+      "answer": ["fermentation"],
+      "explanation": "Fermentation is a metabolic process by which microorganisms like yeast convert sugars (like those in grape juice) into alcohol and carbon dioxide, producing wine."
+    },
+    {
+      "id": 18,
+      "type": "fill-in-the-blank",
+      "text": "In binomial nomenclature, an organism’s scientific name includes its ________ and __________.",
+      "answer": ["genus", "species"],
+      "explanation": "Binomial nomenclature, developed by Carolus Linnaeus, assigns each organism a two-part scientific name: the genus (capitalized) followed by the species (lowercase), both italicized."
+    },
+    {
+      "id": 19,
+      "type": "fill-in-the-blank",
+      "text": "Haeckel proposed adding the kingdoms ________ and ________ to his phylogenetic tree.",
+      "answer": ["Protista", "Monera"],
+      "explanation": "Ernst Haeckel initially proposed the kingdom Protista, and later Monera, to classify organisms that didn't fit neatly into the existing plant and animal kingdoms."
+    },
+    {
+      "id": 20,
+      "type": "fill-in-the-blank",
+      "text": "__________ are organisms without membrane-bound nuclei.",
+      "answer": ["Prokaryotes"],
+      "explanation": "Prokaryotes are organisms whose cells lack a nucleus and other membrane-bound organelles."
+    },
+    {
+      "id": 21,
+      "type": "fill-in-the-blank",
+      "text": "______ are microorganisms that are not included in phylogenetic trees because they are acellular.",
+      "answer": ["Viruses"],
+      "explanation": "Viruses are acellular (not made of cells) and are thus not typically included in the phylogenetic trees of life which are based on cellular organisms."
+    },
+    {
+      "id": 22,
+      "type": "fill-in-the-blank",
+      "text": "A ________ is a disease-causing microorganism.",
+      "answer": ["pathogen"],
+      "explanation": "A pathogen is any microorganism (such as a bacterium, virus, or fungus) that can cause disease."
+    },
+    {
+      "id": 23,
+      "type": "fill-in-the-blank",
+      "text": "Multicellular parasitic worms studied by microbiologists are called __________.",
+      "answer": ["helminths"],
+      "explanation": "Helminths are multicellular parasitic worms, often studied in microbiology because their eggs and larvae can be microscopic and they cause infectious diseases."
+    },
+    {
+      "id": 24,
+      "type": "fill-in-the-blank",
+      "text": "The study of viruses is __________.",
+      "answer": ["virology"],
+      "explanation": "Virology is the branch of microbiology focused on the study of viruses."
+    },
+    {
+      "id": 25,
+      "type": "fill-in-the-blank",
+      "text": "The cells of prokaryotic organisms lack a _______.",
+      "answer": ["nucleus"],
+      "explanation": "A defining characteristic of prokaryotic cells is the absence of a membrane-bound nucleus."
+    },
+    {
+      "id": 26,
+      "type": "short-answer",
+      "text": "What did Thucydides learn by observing the Athenian plague?",
+      "answer": "Thucydides observed that survivors of the Athenian plague did not get re-infected with the disease, even when taking care of actively sick people. This observation shows an early understanding of the concept of immunity.",
+      "explanation": "Thucydides noted that individuals who had recovered from the plague could care for the sick without becoming ill again, suggesting they had acquired immunity."
+    },
+    {
+      "id": 27,
+      "type": "short-answer",
+      "text": "Why was the invention of the microscope important for microbiology?",
+      "answer": "The invention of the microscope was crucial because it allowed for the first direct observation of microorganisms. This opened up the entire field of microbiology by making these previously invisible organisms visible and thus available for study.",
+      "explanation": "Microscopes made it possible to see microorganisms for the first time, which was fundamental to establishing microbiology as a science. It allowed scientists like Leeuwenhoek to discover and describe bacteria and protozoa."
+    },
+    {
+      "id": 28,
+      "type": "short-answer",
+      "text": "What are some ways people use microbes?",
+      "answer": "People use microbes in many ways, including: food production (e.g., fermentation for bread, cheese, beer, yogurt), production of antibiotics and other pharmaceuticals, bioremediation (cleaning up pollutants), agriculture (e.g., nitrogen fixation), and in research as model organisms.",
+      "explanation": "Microbes are used in food fermentation (bread, cheese, alcoholic beverages), producing antibiotics and vaccines, bioremediation (degrading pollutants), and in biotechnology for producing enzymes and other useful compounds."
+    },
+    {
+      "id": 29,
+      "type": "short-answer",
+      "text": "What is a phylogenetic tree?",
+      "answer": "A phylogenetic tree is a diagram that represents the evolutionary relationships among different biological species or other entities based upon similarities and differences in their physical or genetic characteristics. The closer two groups are in the tree, the more closely related they are presumed to be.",
+      "explanation": "A phylogenetic tree is a branching diagram showing the inferred evolutionary relationships among various biological species or other entities based upon similarities and differences in their physical or genetic characteristics."
+    },
+    {
+      "id": 30,
+      "type": "short-answer",
+      "text": "Which of the five kingdoms in Whittaker’s phylogenetic tree are prokaryotic, and which are eukaryotic?",
+      "answer": "In Whittaker’s five-kingdom system: Kingdom Monera is prokaryotic. Kingdoms Protista, Fungi, Plantae, and Animalia are eukaryotic.",
+      "explanation": "Whittaker's five kingdoms: Monera (prokaryotic); Protista, Fungi, Plantae, and Animalia (all eukaryotic)."
+    },
+    {
+      "id": 31,
+      "type": "short-answer",
+      "text": "What molecule did Woese and Fox use to construct their phylogenetic tree?",
+      "answer": "Woese and Fox used ribosomal RNA (rRNA), specifically the small subunit ribosomal RNA (SSU rRNA), to construct their phylogenetic tree.",
+      "explanation": "Carl Woese and George Fox used the nucleotide sequences of small subunit ribosomal RNA (SSU rRNA) to create their phylogenetic tree, leading to the three-domain system."
+    },
+    {
+      "id": 32,
+      "type": "short-answer",
+      "text": "Name some techniques that can be used to identify and differentiate species of bacteria.",
+      "answer": "Techniques include: Gram staining, metabolic tests (e.g., sugar fermentation, enzyme production), serological tests (using antibodies), genetic sequencing (e.g., 16S rRNA sequencing), MALDI-TOF mass spectrometry, and observation of colony morphology and microscopic appearance.",
+      "explanation": "Bacterial identification methods include microscopic examination (shape, arrangement, staining like Gram stain), biochemical tests (metabolic capabilities), serological tests (antigen-antibody reactions), and genetic analysis (like 16S rRNA sequencing)."
+    },
+    {
+      "id": 33,
+      "type": "short-answer",
+      "text": "Describe the differences between bacteria and archaea.",
+      "answer": "Bacteria and archaea are both prokaryotic, but differ in several key ways: 1. Cell wall composition: Bacterial cell walls contain peptidoglycan; archaeal cell walls do not (they have pseudopeptidoglycan or other polymers). 2. Cell membrane lipids: Bacteria have ester-linked fatty acids; archaea have ether-linked isoprenoids. 3. rRNA sequences: They have distinct rRNA sequences. 4. Environment: Many archaea are extremophiles (live in extreme environments), though they are also found in moderate environments.",
+      "explanation": "Key differences: Bacteria have peptidoglycan in their cell walls, while archaea do not. Their cell membrane lipids differ (ester-linked in bacteria, ether-linked in archaea). They also have distinct ribosomal RNA sequences. Archaea are often found in extreme environments."
+    },
+    {
+      "id": 34,
+      "type": "short-answer",
+      "text": "Name three structures that various protozoa use for locomotion.",
+      "answer": "Protozoa use cilia, flagella, and pseudopods (or pseudopodia) for locomotion.",
+      "explanation": "Protozoa can move using: 1. Cilia (short, hair-like appendages). 2. Flagella (long, whip-like appendages). 3. Pseudopods ('false feet,' temporary cytoplasmic extensions)."
+    },
+    {
+      "id": 35,
+      "type": "short-answer",
+      "text": "Describe the actual and relative sizes of a virus, a bacterium, and a plant or animal cell.",
+      "answer": "Viruses are the smallest (typically 20-300 nanometers). Bacteria are larger than viruses but smaller than eukaryotic cells (typically 0.5-5 micrometers). Plant and animal cells (eukaryotic cells) are the largest of the three (typically 10-100 micrometers). So, a typical bacterium is about 10 times larger than a virus, and a typical animal/plant cell is about 10-100 times larger than a bacterium.",
+      "explanation": "Relative sizes: Viruses are smallest (e.g., ~100 nm). Bacteria are larger (e.g., ~1 µm). Plant/animal cells (eukaryotic) are largest (e.g., ~10-100 µm). A virus is much smaller than a bacterium, which is much smaller than a typical eukaryotic cell."
+    },
+    {
+      "id": 36,
+      "type": "critical-thinking",
+      "text": "Explain how the discovery of fermented foods likely benefited our ancestors.",
+      "answer": "Fermented foods likely benefited our ancestors in several ways: 1. Preservation: Fermentation can extend the shelf life of food, preventing spoilage and allowing food to be stored for longer periods, especially before refrigeration. 2. Increased nutritional value: Microbes can synthesize vitamins (e.g., B vitamins) or break down complex compounds, making nutrients more bioavailable. 3. Detoxification: Fermentation can break down some naturally occurring toxins in food. 4. Improved digestibility: Microbes can predigest complex carbohydrates and proteins, making them easier for humans to digest. 5. Protection against pathogens: The beneficial microbes in fermented foods can outcompete harmful pathogens, and the acidic environment created by fermentation can inhibit pathogen growth.",
+      "explanation": "Fermentation provided benefits like food preservation, enhanced nutritional value, improved digestibility, detoxification, and protection from pathogenic microbes."
+    },
+    {
+      "id": 37,
+      "type": "critical-thinking",
+      "text": "What evidence would you use to support this statement: Ancient people thought that disease was transmitted by things they could not see.",
+      "answer": "Evidence includes: 1. Practices like quarantining individuals with certain diseases (e.g., leprosy) suggest an understanding that illness could spread from person to person, even if the agent was unseen. 2. Writings from scholars like Marcus Terentius Varro (1st century BC) who proposed that 'minute creatures, invisible to the eye, float in the air and cause serious diseases.' 3. Rituals and practices aimed at purification or warding off 'evil spirits' or 'bad air' (miasma) associated with disease, implying a belief in unseen harmful entities. 4. The development of sanitation practices in some ancient cultures (e.g., Roman aqueducts and sewers) suggests an awareness of a link between cleanliness and disease prevention, possibly related to unseen contaminants.",
+      "explanation": "Evidence includes historical accounts of quarantine practices, writings from ancient scholars like Varro mentioning 'minute creatures,' and sanitation efforts, all suggesting a belief in unseen disease-causing agents."
+    },
+    {
+      "id": 38,
+      "type": "critical-thinking",
+      "text": "Why is using binomial nomenclature more useful than using common names?",
+      "answer": "Binomial nomenclature (genus and species) provides a standardized, universal system for naming organisms. Common names can vary by language, region, and even among individuals, leading to confusion. A single scientific name ensures that scientists worldwide are referring to the exact same organism, facilitating clear communication and accurate record-keeping. Common names can also be misleading (e.g., a jellyfish isn't a fish).",
+      "explanation": "Binomial nomenclature is universal, precise, and avoids the ambiguity and regional variations of common names, ensuring clear scientific communication."
+    },
+    {
+      "id": 39,
+      "type": "critical-thinking",
+      "text": "Label the three Domains found on modern phylogenetic trees.The phylogenetic Tree of Life. A drawing of branching lines. The central line at the bottom branches into two main branches. On the left branch is a purple branch that contains the following sub-branches: Green filamentous bacteria, Gram positives, Cyanobacteria, Proteobacteria, and Spirocheres. The branch to the right subdivides into a red and a brown branch. The brown branch contains the following sub-branches: Smile molds, Plants, Fungi and Animals. The red branch contains the following sub-branches: Thermoproteus, Methanococcus, Methanobacterium, and Halophiles.",
+      "answer": "Based on the description: The purple branch represents the Domain Bacteria. The red branch (Thermoproteus, Methanococcus, etc.) represents the Domain Archaea. The brown branch (Slime molds, Plants, Fungi, Animals) represents the Domain Eukarya.",
+      "explanation": "The tree described shows three main branches originating from a common ancestor. The branch with typical bacterial groups is Bacteria. The branch with extremophiles like methanogens and halophiles is Archaea. The branch containing plants, animals, fungi, and protists (slime molds) is Eukarya.",
+      "imageUrl": "https://openstax.org/apps/archive/20250226.165223/resources/e6b8e02e9a80c604810f66c0e836eba7522906db"
+    },
+    {
+      "id": 40,
+      "type": "critical-thinking",
+      "text": "Contrast the behavior of a virus outside versus inside a cell.",
+      "answer": "Outside a cell, a virus is an inert particle (virion). It has no metabolism, cannot replicate, and does not exhibit characteristics of life. It is essentially a package of genetic material (DNA or RNA) within a protein coat (capsid), sometimes with an outer envelope. Inside a host cell, the virus becomes active. It hijacks the host cell's machinery (ribosomes, enzymes, ATP) to replicate its genetic material and synthesize viral proteins. These components then assemble into new virions, which are eventually released from the host cell, often causing cell damage or death.",
+      "explanation": "Outside a cell, a virus is inert and non-living, unable to replicate or metabolize. Inside a host cell, it uses the cell's machinery to replicate itself, effectively 'coming alive' through the host."
+    },
+    {
+      "id": 41,
+      "type": "critical-thinking",
+      "text": "Where would a virus, bacterium, animal cell, and a prion belong on this chart?A bar along the bottom indicates size of various objects. At the far right is a from egg at approximately 1 mm. To the left are a human egg and a pollen grain at approximately 0.1 mm. Next is a red blood cell at just under 10 µm. Next is a mitochondrion at approximately 1 µm. Next are proteins which range from 5-10 nm. Next are lipids which range from 2-5 nm. Next is C60 (fullerene molecule) which is approximately 1 nm. Finally, atoms are approximately 0.1 nm.",
+      "answer": "Virus: Would be placed between proteins and the mitochondrion, typically in the range of 20-300 nanometers (nm). So, larger than proteins but smaller than a mitochondrion. Bacterium: Would be placed around the size of a mitochondrion or slightly larger, typically 0.5-5 micrometers (µm). Animal cell: Would be placed to the left of the human egg/pollen grain, typically 10-100 µm (e.g., larger than a red blood cell). Prion: A prion is an infectious protein, so it would belong in the 'proteins' range, approximately 5-10 nm.",
+      "explanation": "Animal cell: ~10-100 µm (larger than red blood cell). Bacterium: ~1-5 µm (around mitochondrion size). Virus: ~20-300 nm (between proteins and mitochondrion). Prion: ~5-10 nm (within the protein size range).",
+      "imageUrl": "https://openstax.org/apps/archive/20250226.165223/resources/c8d602336dc7b0496b60c77cfe9bb927af5b5622"
+    }
+  ]
+}

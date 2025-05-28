@@ -1,0 +1,367 @@
+{
+  "title": "Microbiology Questions - Chapter 25",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "text": "Which term refers to an inflammation of the blood vessels?",
+      "options": [
+        "lymphangitis",
+        "endocarditis",
+        "pericarditis",
+        "vasculitis"
+      ],
+      "answer": "vasculitis",
+      "explanation": "Vasculitis is the general term for inflammation of blood vessels. Lymphangitis is inflammation of lymphatic vessels. Endocarditis is inflammation of the endocardium (inner lining of the heart chambers and valves). Pericarditis is inflammation of the pericardium (the sac surrounding the heart)."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "text": "Which of the following is located in the interstitial spaces within tissues and releases nutrients, immune factors, and oxygen to those tissues?",
+      "options": [
+        "lymphatics",
+        "arterioles",
+        "capillaries",
+        "veins"
+      ],
+      "answer": "capillaries",
+      "explanation": "Capillaries are the smallest blood vessels and form networks within tissues. Their thin walls allow for the exchange of oxygen, nutrients, waste products, and immune factors between the blood and the interstitial fluid surrounding cells."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "text": "Which of these conditions results in the formation of a bubo?",
+      "options": [
+        "lymphangitis",
+        "lymphadenitis",
+        "ischemia",
+        "vasculitis"
+      ],
+      "answer": "lymphadenitis",
+      "explanation": "A bubo is a visibly swollen and inflamed lymph node, which is a sign of lymphadenitis (inflammation of lymph nodes). This is characteristic of diseases like bubonic plague."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "text": "Which of the following is where are most microbes filtered out of the fluids that accumulate in the body tissues?",
+      "options": [
+        "spleen",
+        "lymph nodes",
+        "pericardium",
+        "blood capillaries"
+      ],
+      "answer": "lymph nodes",
+      "explanation": "Lymph nodes are strategically located throughout the body and filter lymph fluid, trapping and destroying microbes and foreign particles. The spleen filters blood."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "text": "Which of the following diseases is caused by a spirochete?",
+      "options": [
+        "tularemia",
+        "relapsing fever",
+        "rheumatic fever",
+        "Rocky Mountain spotted fever"
+      ],
+      "answer": "relapsing fever",
+      "explanation": "Relapsing fever is caused by spirochetes of the genus Borrelia. Tularemia is caused by Francisella tularensis (a coccobacillus). Rheumatic fever is an inflammatory complication of Streptococcus pyogenes infection. Rocky Mountain spotted fever is caused by Rickettsia rickettsii (a coccobacillus)."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "text": "Which of the following diseases is transmitted by body lice?",
+      "options": [
+        "tularemia",
+        "bubonic plague",
+        "murine typhus",
+        "epidemic typhus"
+      ],
+      "answer": "epidemic typhus",
+      "explanation": "Epidemic typhus, caused by Rickettsia prowazekii, is transmitted by the human body louse. Murine typhus is transmitted by fleas. Bubonic plague is primarily transmitted by fleas. Tularemia is transmitted by ticks, deer flies, or contact with infected animals."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "text": "What disease is most associated with Clostridium perfringens?",
+      "options": [
+        "endocarditis",
+        "osteomyelitis",
+        "gas gangrene",
+        "rat bite fever"
+      ],
+      "answer": "gas gangrene",
+      "explanation": "Clostridium perfringens is the primary causative agent of gas gangrene (myonecrosis), a severe infection characterized by tissue death and gas production."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "text": "Which bacterial pathogen causes plague?",
+      "options": [
+        "Yersinia pestis",
+        "Bacillus moniliformis",
+        "Bartonella quintana",
+        "Rickettsia rickettsii"
+      ],
+      "answer": "Yersinia pestis",
+      "explanation": "Plague (bubonic, septicemic, pneumonic) is caused by the bacterium Yersinia pestis."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "text": "Which of the following viruses is most widespread in the human population?",
+      "options": [
+        "human immunodeficiency virus",
+        "Ebola virus",
+        "Epstein-Barr virus",
+        "hantavirus"
+      ],
+      "answer": "Epstein-Barr virus",
+      "explanation": "Epstein-Barr virus (EBV or HHV-4), the cause of infectious mononucleosis, is extremely common, with estimates suggesting over 90% of adults worldwide have been infected, often asymptomatically in childhood."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "text": "Which of these viruses is spread through mouse urine or feces?",
+      "options": [
+        "Epstein-Barr",
+        "hantavirus",
+        "human immunodeficiency virus",
+        "cytomegalovirus"
+      ],
+      "answer": "hantavirus",
+      "explanation": "Hantaviruses are primarily transmitted to humans through inhalation of aerosols from the urine, feces, or saliva of infected rodents (like deer mice)."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "text": "A patient at a clinic has tested positive for HIV. Her blood contained 700/µL CD4 T cells and she does not have any apparent illness. Her infection is in which stage?",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": "1",
+      "explanation": "According to CDC guidelines, HIV infection Stage 1 is defined by a CD4+ T lymphocyte count of ≥500 cells/µL or a CD4+ T lymphocyte percentage of ≥29% of total lymphocytes, without any AIDS-defining conditions. A count of 700/µL fits Stage 1."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "text": "Which of the following diseases is caused by a helminth?",
+      "options": [
+        "leishmaniasis",
+        "malaria",
+        "Chagas disease",
+        "schistosomiasis"
+      ],
+      "answer": "schistosomiasis",
+      "explanation": "Schistosomiasis is caused by parasitic flatworms (helminths) of the genus Schistosoma. Leishmaniasis, malaria, and Chagas disease are caused by protozoan parasites."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "text": "Which of these is the most common form of leishmaniasis?",
+      "options": [
+        "cutaneous",
+        "mucosal",
+        "visceral",
+        "intestinal"
+      ],
+      "answer": "cutaneous",
+      "explanation": "Cutaneous leishmaniasis, characterized by skin sores, is the most common form of the disease. Visceral leishmaniasis (kala-azar) is more severe but less common. Mucosal leishmaniasis is also less common."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "text": "Which of the following is a causative agent of malaria?",
+      "options": [
+        "Trypanosoma cruzi",
+        "Toxoplasma gondii",
+        "Plasmodium falciparum",
+        "Schistosoma mansoni"
+      ],
+      "answer": "Plasmodium falciparum",
+      "explanation": "Malaria is caused by protozoan parasites of the genus Plasmodium. Plasmodium falciparum is one of the most common and the most deadly species. Trypanosoma cruzi causes Chagas disease. Toxoplasma gondii causes toxoplasmosis. Schistosoma mansoni causes schistosomiasis."
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "text": "Which of the following diseases does not involve an arthropod vector?",
+      "options": [
+        "schistosomiasis",
+        "malaria",
+        "Chagas disease",
+        "babesiosis"
+      ],
+      "answer": "schistosomiasis",
+      "explanation": "Schistosomiasis is transmitted through contact with freshwater contaminated with larval forms (cercariae) released by infected freshwater snails (intermediate hosts), not by an arthropod vector. Malaria (mosquitoes), Chagas disease (triatomine bugs), and babesiosis (ticks) are arthropod-borne."
+    },
+    {
+      "id": 16,
+      "type": "fill-in-the-blank",
+      "text": "Vasculitis can cause blood to leak from damaged vessels, forming purple spots called ________.",
+      "answer": ["petechiae (or purpura)"],
+      "explanation": "Petechiae are small (pinpoint) purple or red spots due to minor bleeding from broken capillaries. Larger spots are called purpura. These can occur in vasculitis."
+    },
+    {
+      "id": 17,
+      "type": "fill-in-the-blank",
+      "text": "The lymph reenters the vascular circulation at ________.",
+      "answer": ["the subclavian veins"],
+      "explanation": "Lymph fluid is returned to the bloodstream primarily via the thoracic duct and the right lymphatic duct, which empty into the left and right subclavian veins, respectively."
+    },
+    {
+      "id": 18,
+      "type": "fill-in-the-blank",
+      "text": "Lyme disease is characterized by a(n) ________ that forms at the site of infection.",
+      "answer": ["erythema migrans (bull's-eye rash)"],
+      "explanation": "Erythema migrans, an expanding circular rash often with central clearing (bull's-eye appearance), is a characteristic early sign of Lyme disease at the site of the tick bite."
+    },
+    {
+      "id": 19,
+      "type": "fill-in-the-blank",
+      "text": "________ refers to a loss of blood pressure resulting from a system-wide infection.",
+      "answer": ["Septic shock"],
+      "explanation": "Septic shock is a life-threatening condition characterized by dangerously low blood pressure (hypotension) due to a dysregulated host response to severe infection (sepsis)."
+    },
+    {
+      "id": 20,
+      "type": "fill-in-the-blank",
+      "text": "________ is a cancer that forms in patients with HHV-4 and malaria coinfections.",
+      "answer": ["Burkitt's lymphoma"],
+      "explanation": "Burkitt's lymphoma is a type of non-Hodgkin lymphoma strongly associated with Epstein-Barr virus (EBV or HHV-4) infection. Endemic Burkitt's lymphoma is particularly common in regions with high rates of malaria, suggesting malaria as a cofactor."
+    },
+    {
+      "id": 21,
+      "type": "fill-in-the-blank",
+      "text": "________ are transmitted by vectors such as ticks or mosquitoes.",
+      "answer": ["Arboviruses (or vector-borne pathogens)"],
+      "explanation": "Arboviruses (arthropod-borne viruses) are specifically viruses transmitted by arthropods. More broadly, many vector-borne pathogens (including bacteria, protozoa) are transmitted by ticks or mosquitoes."
+    },
+    {
+      "id": 22,
+      "type": "fill-in-the-blank",
+      "text": "Infectious mononucleosis is caused by ________ infections.",
+      "answer": ["Epstein-Barr virus (EBV or HHV-4)"],
+      "explanation": "Infectious mononucleosis (often called 'mono' or 'kissing disease') is primarily caused by the Epstein-Barr virus."
+    },
+    {
+      "id": 23,
+      "type": "fill-in-the-blank",
+      "text": "The ________ mosquito is the biological vector for malaria.",
+      "answer": ["Anopheles"],
+      "explanation": "Female Anopheles mosquitoes are the biological vectors that transmit Plasmodium parasites, the causative agents of malaria."
+    },
+    {
+      "id": 24,
+      "type": "fill-in-the-blank",
+      "text": "The kissing bug is the biological vector for ________.",
+      "answer": ["Chagas disease"],
+      "explanation": "Triatomine bugs, also known as 'kissing bugs,' are the biological vectors for Trypanosoma cruzi, the protozoan parasite that causes Chagas disease."
+    },
+    {
+      "id": 25,
+      "type": "fill-in-the-blank",
+      "text": "Cercarial dermatitis is also known as ________.",
+      "answer": ["swimmer's itch"],
+      "explanation": "Cercarial dermatitis, an itchy rash, is commonly called swimmer's itch. It's an allergic reaction to cercariae (larval forms) of schistosomes that normally infect birds or aquatic mammals but can penetrate human skin."
+    },
+    {
+      "id": 26,
+      "type": "short-answer",
+      "text": "How do lymph nodes help to maintain a microbial-free circulatory and lymphatic system?",
+      "answer": "Lymph nodes act as filters for lymph fluid. As lymph passes through a lymph node, macrophages and dendritic cells within the node engulf and destroy microbes and foreign particles. Lymphocytes (B and T cells) in the lymph nodes can also be activated to initiate an adaptive immune response against specific pathogens encountered in the lymph, further helping to clear infections.",
+      "explanation": "Lymph nodes filter lymph, trapping pathogens. Immune cells within the nodes (macrophages, lymphocytes) then destroy these pathogens and can initiate an adaptive immune response, preventing systemic spread."
+    },
+    {
+      "id": 27,
+      "type": "short-answer",
+      "text": "What are the three forms of plague and how are they contracted?",
+      "answer": "1. Bubonic plague: Contracted through the bite of an infected flea or direct contact with infected animal tissues. Bacteria multiply in lymph nodes, causing buboes. 2. Septicemic plague: Occurs when Yersinia pestis bacteria directly enter the bloodstream (e.g., from flea bites, handling infected animals, or as a complication of untreated bubonic or pneumonic plague). 3. Pneumonic plague: Contracted by inhaling respiratory droplets from an infected person or animal, or as a complication of untreated bubonic or septicemic plague when bacteria spread to the lungs. It is the most contagious and rapidly fatal form.",
+      "explanation": "Bubonic: flea bite, bacteria to lymph nodes. Septicemic: bacteria directly into bloodstream. Pneumonic: inhalation of droplets or spread from other forms to lungs."
+    },
+    {
+      "id": 28,
+      "type": "short-answer",
+      "text": "Compare epidemic and murine typhus.",
+      "answer": "Epidemic typhus: Caused by Rickettsia prowazekii, transmitted by human body lice. Associated with crowded, unsanitary conditions. Symptoms include high fever, rash, severe headache, and delirium. Higher mortality rate if untreated. Murine (endemic) typhus: Caused by Rickettsia typhi, transmitted by fleas (often from rodents). Generally milder than epidemic typhus, with symptoms like fever, headache, rash, and muscle aches. Lower mortality rate.",
+      "explanation": "Epidemic typhus (R. prowazekii, body lice vector) is generally more severe with higher mortality than Murine typhus (R. typhi, flea vector). Both cause fever, rash, and headache."
+    },
+    {
+      "id": 29,
+      "type": "short-answer",
+      "text": "Describe the progression of an HIV infection over time with regard to the number of circulating viruses, host antibodies, and CD4 T cells.",
+      "answer": "Acute HIV infection: High viral load (circulating virus), temporary drop in CD4 T cells, then development of host antibodies (seroconversion). Clinical latency: Viral load stabilizes at a lower level (set point), CD4 T cell count gradually declines, antibody levels remain high. AIDS (Stage 3): Viral load increases significantly, CD4 T cell count drops below 200 cells/µL (or AIDS-defining illness occurs), antibody levels may eventually wane in very late stages. The host becomes severely immunocompromised.",
+      "explanation": "Initially: high viral load, CD4 T cells dip then recover somewhat, antibodies rise. Latency: viral load lower but persistent, CD4 T cells gradually decline, antibodies high. AIDS: viral load high, CD4 T cells very low, severe immunodeficiency."
+    },
+    {
+      "id": 30,
+      "type": "short-answer",
+      "text": "Describe the general types of diagnostic tests used to diagnose patients infected with HIV.",
+      "answer": "1. Antibody tests: Detect antibodies produced by the host in response to HIV infection (e.g., ELISA, rapid tests). A confirmatory test (e.g., Western blot, or more commonly now, a second different antibody test or an HIV-1/HIV-2 differentiation assay) is usually needed. 2. Antigen/Antibody tests (Combination or 4th generation tests): Detect both HIV antibodies and the p24 antigen (a viral protein that appears early in infection). 3. Nucleic Acid Tests (NATs): Detect viral RNA directly (e.g., RT-PCR). Used for early detection, confirming infection, and monitoring viral load.",
+      "explanation": "Tests include: Antibody tests (detect anti-HIV antibodies), Antigen/Antibody combination tests (detect p24 antigen and antibodies), and Nucleic Acid Tests (NATs, detect HIV RNA)."
+    },
+    {
+      "id": 31,
+      "type": "short-answer",
+      "text": "Identify the general categories of drugs used in ART used to treat patients infected with HIV.",
+      "answer": "Antiretroviral therapy (ART) typically involves a combination of drugs from different classes: 1. Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs/NtRTIs). 2. Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs). 3. Protease Inhibitors (PIs). 4. Integrase Strand Transfer Inhibitors (INSTIs). 5. Fusion Inhibitors. 6. CCR5 Antagonists (Entry Inhibitors).",
+      "explanation": "ART drug classes include: NRTIs, NNRTIs, Protease Inhibitors, Integrase Inhibitors, Fusion Inhibitors, and Entry Inhibitors (like CCR5 antagonists)."
+    },
+    {
+      "id": 32,
+      "type": "short-answer",
+      "text": "Describe main cause of Plasmodium falciparum infection symptoms.",
+      "answer": "The main symptoms of P. falciparum malaria (fever, chills, anemia, organ damage) are primarily caused by the asexual erythrocytic (blood) stage of the parasite's life cycle. When merozoites invade red blood cells (RBCs), replicate, and then cause the RBCs to rupture, they release more merozoites, parasite metabolic waste products, and cellular debris into the bloodstream. This synchronous rupture triggers a strong inflammatory response, leading to cyclical fevers and chills. Anemia results from RBC destruction. P. falciparum can also cause RBCs to adhere to capillary walls (cytoadherence), obstructing blood flow and leading to severe complications like cerebral malaria.",
+      "explanation": "Symptoms are mainly due to the rupture of infected red blood cells by Plasmodium merozoites, releasing parasitic waste and cellular debris, which triggers inflammatory responses (fever, chills). Anemia results from RBC destruction. Cytoadherence of infected RBCs in P. falciparum causes severe complications."
+    },
+    {
+      "id": 33,
+      "type": "short-answer",
+      "text": "Why should pregnant people avoid cleaning their cat’s litter box or do so with protective gloves?",
+      "answer": "Cats can be infected with Toxoplasma gondii, a protozoan parasite. Infected cats shed T. gondii oocysts in their feces. If a pregnant person ingests these oocysts (e.g., by handling contaminated litter and then touching their mouth), they can acquire toxoplasmosis. Congenital toxoplasmosis (infection passed to the fetus) can cause serious birth defects, neurological damage, or fetal death, especially if infection occurs early in pregnancy. Using gloves and thorough handwashing reduces the risk.",
+      "explanation": "Cat feces can contain Toxoplasma gondii oocysts. If a pregnant person ingests these, they can transmit toxoplasmosis to the fetus, potentially causing severe birth defects or other complications. Gloves and handwashing minimize risk."
+    },
+    {
+      "id": 34,
+      "type": "critical-thinking",
+      "text": "What term refers to the red streaks seen on this patient’s skin? What is likely causing this condition? (An arm with a dark red spot on the elbow with red lines emanating from it under the skin. Figure 25.35 credit: modification of work by Centers for Disease Control and Prevention)",
+      "answer": "The red streaks are characteristic of lymphangitis, which is an inflammation of the lymphatic vessels. This is likely caused by an infection (often bacterial, such as Streptococcus pyogenes or Staphylococcus aureus) that has entered through a wound or break in the skin (perhaps at the dark red spot on the elbow) and is spreading along the lymphatic channels.",
+      "explanation": "The red streaks are indicative of lymphangitis, an inflammation of lymphatic vessels. This is typically caused by a bacterial infection spreading from a point of entry (like a wound) along the lymphatic system."
+    },
+    {
+      "id": 35,
+      "type": "critical-thinking",
+      "text": "Why would septicemia be considered a more serious condition than bacteremia?",
+      "answer": "Bacteremia refers to the presence of bacteria in the blood. While serious, it may be transient and not always cause severe illness. Septicemia, however, implies that bacteria are actively multiplying in the bloodstream and are associated with systemic signs of illness (sepsis). Sepsis is a life-threatening organ dysfunction caused by a dysregulated host response to infection. Septicemia can rapidly progress to sepsis and septic shock, which involves severe hypotension and organ failure, making it far more immediately dangerous than simple bacteremia.",
+      "explanation": "Bacteremia is the presence of bacteria in blood. Septicemia means bacteria are multiplying in the blood and causing a systemic illness (sepsis). Sepsis can lead to organ dysfunction and septic shock, making septicemia more immediately life-threatening."
+    },
+    {
+      "id": 36,
+      "type": "critical-thinking",
+      "text": "Why are most vascular pathogens poorly communicable from person to person?",
+      "answer": "Many vascular pathogens (those infecting the bloodstream or circulatory system) require specific modes of transmission to enter the bloodstream. This often involves: 1. Arthropod vectors (e.g., ticks, mosquitoes, fleas, lice) that inject the pathogen directly into the blood during a bite. 2. Contaminated needles or medical procedures. 3. Deep wounds that allow direct entry into tissues and then the bloodstream. Casual person-to-person contact (like respiratory droplets or skin contact) is usually not sufficient for these pathogens to access the vascular system and establish infection, unlike pathogens that primarily infect mucosal surfaces like the respiratory or gastrointestinal tracts.",
+      "explanation": "Vascular pathogens typically require direct entry into the bloodstream. This often occurs via arthropod vectors, contaminated needles, or deep wounds, rather than through casual person-to-person contact like respiratory droplets, which transmit other types of pathogens more easily."
+    },
+    {
+      "id": 37,
+      "type": "critical-thinking",
+      "text": "How have human behaviors contributed to the spread or control of arthropod-borne vascular diseases?",
+      "answer": "Spread: 1. Encroachment on natural habitats: Increases contact with arthropod vectors and animal reservoirs. 2. Travel and trade: Can introduce vectors and pathogens to new areas. 3. Poor sanitation and water management: Can create breeding sites for mosquitoes. 4. Deforestation/Climate change: Can alter vector distribution and activity. Control: 1. Vector control measures: Insecticide use, draining standing water, bed nets. 2. Personal protective measures: Repellents, protective clothing. 3. Vaccination: Where available (e.g., yellow fever). 4. Public health surveillance and education: Early detection and response to outbreaks, promoting awareness.",
+      "explanation": "Spread: Deforestation, urbanization near vector habitats, travel, climate change. Control: Vector control (insecticides, habitat reduction), personal protection (repellents, nets), vaccination, public health surveillance."
+    },
+    {
+      "id": 38,
+      "type": "critical-thinking",
+      "text": "Which is a bigger threat to the US population, Ebola or yellow fever? Why?",
+      "answer": "Currently, yellow fever could be considered a bigger potential threat to the US population if introduced, although both are serious. Reasons: 1. Vector presence: The Aedes aegypti mosquito, a competent vector for yellow fever, is present in parts of the southern US. While Ebola can be transmitted person-to-person via direct contact with body fluids, it does not have an established arthropod vector in the US. 2. Vaccine: A highly effective vaccine exists for yellow fever, but its uptake might not be universal if an outbreak occurred. There are now FDA-approved vaccines for Ebola, but their deployment would depend on the specific outbreak scenario. 3. Historical context: Yellow fever caused significant outbreaks in the US historically. While Ebola outbreaks have been devastating in Africa, sustained transmission in the US has been prevented by strong public health responses. However, the risk for both depends on importation of cases and the effectiveness of public health measures.",
+      "explanation": "Yellow fever might be a bigger potential threat due to the presence of its mosquito vector (Aedes aegypti) in parts of the US. While Ebola is highly virulent, its person-to-person transmission (via body fluids) has been contained in the US with robust public health measures. Both depend on importation and control."
+    },
+    {
+      "id": 39,
+      "type": "critical-thinking",
+      "text": "What measures can be taken to reduce the likelihood of malaria reemerging in the US?",
+      "answer": "1. Vector control: Continued surveillance and control of Anopheles mosquito populations, including insecticide application where necessary and elimination of breeding sites. 2. Surveillance and diagnosis: Maintaining robust public health surveillance systems to quickly detect imported malaria cases and ensure prompt diagnosis and treatment to prevent local transmission. 3. Case management: Effective treatment of infected individuals to clear parasites and prevent them from being a source for mosquito infection. 4. Public awareness: Educating travelers to malaria-endemic areas about preventive measures (prophylaxis, repellents, bed nets) and the importance of seeking medical attention if symptoms develop after travel. 5. Blood supply screening: Although rare, transfusion-transmitted malaria is possible, so vigilance in blood donor screening is important.",
+      "explanation": "Measures include: mosquito vector control (Anopheles), surveillance for imported cases, prompt diagnosis and treatment of cases, public education for travelers, and maintaining a strong public health infrastructure."
+    }
+  ]
+}

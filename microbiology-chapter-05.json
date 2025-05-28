@@ -1,0 +1,370 @@
+{
+  "title": "Microbiology Questions - Chapter 5",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "text": "Which genus includes the causative agent for malaria?",
+      "options": [
+        "Euglena",
+        "Paramecium",
+        "Plasmodium",
+        "Trypanosoma"
+      ],
+      "answer": "Plasmodium",
+      "explanation": "Malaria is caused by protozoan parasites of the genus Plasmodium, such as P. falciparum and P. vivax."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "text": "Which protist is a concern because of its ability to contaminate water supplies and cause diarrheal illness?",
+      "options": [
+        "Plasmodium vivax",
+        "Toxoplasma gondii",
+        "Giardia lamblia",
+        "Trichomonas vaginalis"
+      ],
+      "answer": "Giardia lamblia",
+      "explanation": "Giardia lamblia (also known as Giardia intestinalis or Giardia duodenalis) is a flagellated protozoan parasite that colonizes the small intestine, causing giardiasis, a common diarrheal disease often transmitted through contaminated water."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "text": "A fluke is classified within which of the following?",
+      "options": [
+        "Nematoda",
+        "Rotifera",
+        "Platyhelminthes",
+        "Annelida"
+      ],
+      "answer": "Platyhelminthes",
+      "explanation": "Flukes, or trematodes, are parasitic flatworms belonging to the phylum Platyhelminthes."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "text": "A nonsegmented worm is found during a routine colonoscopy of an individual who reported having abdominal cramps, nausea, and vomiting. This worm is likely which of the following?",
+      "options": [
+        "nematode",
+        "fluke",
+        "trematode",
+        "annelid"
+      ],
+      "answer": "nematode",
+      "explanation": "Nematodes (roundworms) are nonsegmented worms. Flukes (trematodes) are flatworms, and annelids are segmented worms."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "text": "A segmented worm has male and female reproductive organs in each segment. Some use hooks to attach to the intestinal wall. Which type of worm is this?",
+      "options": [
+        "fluke",
+        "nematode",
+        "cestode",
+        "annelid"
+      ],
+      "answer": "cestode",
+      "explanation": "Cestodes (tapeworms) are segmented flatworms (Platyhelminthes) where each segment (proglottid) contains reproductive organs. They often have a scolex with hooks and suckers for attachment."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "text": "Mushrooms are a type of which of the following?",
+      "options": [
+        "conidia",
+        "ascus",
+        "polar tubule",
+        "basidiocarp"
+      ],
+      "answer": "basidiocarp",
+      "explanation": "Mushrooms are the fleshy, spore-bearing fruiting bodies (basidiocarps) of many fungi in the phylum Basidiomycota."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "text": "Which of the following is the most common cause of human yeast infections?",
+      "options": [
+        "Candida albicans",
+        "Blastomyces dermatitidis",
+        "Cryptococcus neoformans",
+        "Aspergillus fumigatus"
+      ],
+      "answer": "Candida albicans",
+      "explanation": "Candida albicans is a dimorphic yeast that is a common member of the human microbiota but can cause opportunistic infections like thrush and vaginal yeast infections."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "text": "Which of the following is an ascomycete fungus associated with bat droppings that can cause a respiratory infection if inhaled?",
+      "options": [
+        "Candida albicans",
+        "Histoplasma capsulatum",
+        "Rhizopus stolonifera",
+        "Trichophyton rubrum"
+      ],
+      "answer": "Histoplasma capsulatum",
+      "explanation": "Histoplasma capsulatum is a dimorphic fungus (phylum Ascomycota) found in soil enriched with bird or bat guano. Inhalation of its spores can cause histoplasmosis, a respiratory infection."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "text": "Which polysaccharide found in red algal cell walls is a useful solidifying agent?",
+      "options": [
+        "chitin",
+        "cellulose",
+        "phycoerythrin",
+        "agar"
+      ],
+      "answer": "agar",
+      "explanation": "Agar, a gelatinous substance derived from the cell walls of red algae (Rhodophyta), is widely used as a solidifying agent in microbiological media and food products."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "text": "Which is the term for the hard outer covering of some dinoflagellates?",
+      "options": [
+        "theca",
+        "thallus",
+        "mycelium",
+        "shell"
+      ],
+      "answer": "theca",
+      "explanation": "Many dinoflagellates have an armor-like outer covering composed of cellulose plates called a theca."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "text": "Which protists are associated with red tides?",
+      "options": [
+        "red algae",
+        "brown algae",
+        "dinoflagellates",
+        "green algae"
+      ],
+      "answer": "dinoflagellates",
+      "explanation": "Red tides are harmful algal blooms often caused by high concentrations of certain species of dinoflagellates, which can produce toxins."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "text": "You encounter a lichen with leafy structures. Which term describes this lichen?",
+      "options": [
+        "crustose",
+        "foliose",
+        "fruticose",
+        "agarose"
+      ],
+      "answer": "foliose",
+      "explanation": "Foliose lichens have leaf-like lobes. Crustose lichens are crust-like and adhere tightly to the substrate, while fruticose lichens are branched and shrub-like."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "text": "Which of the following is the term for the outer layer of a lichen?",
+      "options": [
+        "the cortex",
+        "the medulla",
+        "the thallus",
+        "the theca"
+      ],
+      "answer": "the cortex",
+      "explanation": "The thallus is the entire body of the lichen. The cortex is the dense outer protective layer of fungal hyphae in a lichen's thallus. The medulla is the looser inner layer."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "text": "The fungus in a lichen is which of the following?",
+      "options": [
+        "a basidiomycete",
+        "an ascomycete",
+        "a zygomycete",
+        "an apicomplexan"
+      ],
+      "answer": "an ascomycete",
+      "explanation": "The fungal partner (mycobiont) in most lichens is an ascomycete, although some lichens involve basidiomycetes."
+    },
+    {
+      "id": 15,
+      "type": "fill-in-the-blank",
+      "text": "The plasma membrane of a protist is called the __________.",
+      "answer": ["plasmalemma"],
+      "explanation": "The plasmalemma is the term often used for the plasma membrane of protists, particularly in older literature or specific contexts."
+    },
+    {
+      "id": 16,
+      "type": "fill-in-the-blank",
+      "text": "Animals belong to the same supergroup as the kingdom __________.",
+      "answer": ["Fungi"],
+      "explanation": "Animals and Fungi are both in the supergroup Opisthokonta, along with choanoflagellates and a few other groups."
+    },
+    {
+      "id": 17,
+      "type": "fill-in-the-blank",
+      "text": "Flukes are in class _________.",
+      "answer": ["Trematoda"],
+      "explanation": "Flukes belong to the class Trematoda within the phylum Platyhelminthes."
+    },
+    {
+      "id": 18,
+      "type": "fill-in-the-blank",
+      "text": "A species of worm in which there are distinct male and female individuals is described as _________.",
+      "answer": ["dioecious"],
+      "explanation": "Dioecious refers to organisms where male and female reproductive organs are found in separate individuals. Monoecious (or hermaphroditic) organisms have both male and female reproductive organs in the same individual."
+    },
+    {
+      "id": 19,
+      "type": "fill-in-the-blank",
+      "text": "Nonseptate hyphae are also called _________.",
+      "answer": ["coenocytic"],
+      "explanation": "Coenocytic hyphae lack septa (cross-walls) and are multinucleate, continuous cytoplasmic masses."
+    },
+    {
+      "id": 20,
+      "type": "fill-in-the-blank",
+      "text": "Unicellular fungi are called _________.",
+      "answer": ["yeasts"],
+      "explanation": "Yeasts are unicellular fungi that typically reproduce asexually by budding or fission."
+    },
+    {
+      "id": 21,
+      "type": "fill-in-the-blank",
+      "text": "Some fungi have proven medically useful because they can be used to produce _________.",
+      "answer": ["antibiotics"],
+      "explanation": "Many antibiotics, such as penicillin (from Penicillium fungi) and cephalosporins, are derived from fungi. Fungi also produce other medically useful compounds like immunosuppressants (e.g., cyclosporine)."
+    },
+    {
+      "id": 22,
+      "type": "fill-in-the-blank",
+      "text": "Structures in chloroplasts used to synthesize and store starch are called ________.",
+      "answer": ["pyrenoids"],
+      "explanation": "Pyrenoids are microcompartments found within the chloroplasts of many algae and hornworts, involved in carbon concentration and starch synthesis."
+    },
+    {
+      "id": 23,
+      "type": "fill-in-the-blank",
+      "text": "Algae with chloroplasts with three or four membranes are a result of ________ ________.",
+      "answer": ["secondary endosymbiosis"],
+      "explanation": "Secondary endosymbiosis occurs when a eukaryotic cell engulfs another eukaryotic cell that has already undergone primary endosymbiosis (e.g., a red or green alga). This results in chloroplasts with more than two membranes."
+    },
+    {
+      "id": 24,
+      "type": "short-answer",
+      "text": "What are kinetoplastids?",
+      "answer": "Kinetoplastids are a group of flagellated protozoans belonging to the class Kinetoplastea (within Euglenozoa). They are characterized by the presence of a kinetoplast, which is a dense granule of DNA located within a single large mitochondrion, usually near the base of the flagellum. Many kinetoplastids are parasitic, including important human pathogens like Trypanosoma (causes sleeping sickness and Chagas disease) and Leishmania (causes leishmaniasis).",
+      "explanation": "Kinetoplastids are flagellated protists distinguished by a kinetoplast, a DNA-containing granule within their single large mitochondrion. Examples include Trypanosoma and Leishmania."
+    },
+    {
+      "id": 25,
+      "type": "short-answer",
+      "text": "Aside from a risk of birth defects, what other effect might a toxoplasmosis infection have?",
+      "answer": "In immunocompetent individuals, toxoplasmosis (caused by Toxoplasma gondii) is often asymptomatic or causes mild flu-like symptoms. However, in immunocompromised individuals (e.g., those with HIV/AIDS or undergoing chemotherapy), it can lead to severe complications such as encephalitis (inflammation of the brain), chorioretinitis (eye infection that can lead to blindness), and other systemic infections. There is also some research suggesting potential links between chronic toxoplasmosis and certain neurological or behavioral changes, though this is an area of ongoing investigation.",
+      "explanation": "In immunocompromised individuals, toxoplasmosis can cause severe conditions like encephalitis or chorioretinitis. There's also ongoing research into potential long-term neurological or behavioral effects."
+    },
+    {
+      "id": 26,
+      "type": "short-answer",
+      "text": "What is the function of the ciliate macronucleus?",
+      "answer": "The macronucleus in ciliates is polyploid and contains many copies of a subset of genes. Its primary function is to control the everyday metabolic activities of the cell (vegetative functions) by actively transcribing genes for protein synthesis. It is not involved in sexual reproduction (conjugation), which is the role of the smaller, diploid micronucleus.",
+      "explanation": "The macronucleus controls the daily metabolic functions of the ciliate cell through gene expression. It is the 'somatic' or 'vegetative' nucleus."
+    },
+    {
+      "id": 27,
+      "type": "short-answer",
+      "text": "What is the best defense against tapeworm infection?",
+      "answer": "The best defense against tapeworm infection involves several measures: 1. Thoroughly cooking meat (especially pork, beef, and fish) to temperatures that kill tapeworm larvae (cysticerci). 2. Practicing good hygiene, including washing hands before eating and after handling raw meat. 3. Ensuring proper sanitation to prevent fecal contamination of food and water, which can spread tapeworm eggs. 4. For some tapeworms (like Taenia solium), proper inspection of meat can also help identify heavily infected carcasses.",
+      "explanation": "Key defenses include thoroughly cooking meat, good personal hygiene, and proper sanitation to prevent ingestion of tapeworm eggs or larvae."
+    },
+    {
+      "id": 28,
+      "type": "short-answer",
+      "text": "Which genera of fungi are common dermatophytes (fungi that cause skin infections)?",
+      "answer": "Common genera of dermatophytes include Trichophyton, Microsporum, and Epidermophyton. These fungi are responsible for various superficial mycoses of the skin, hair, and nails, collectively known as tinea infections (e.g., athlete's foot, ringworm, jock itch).",
+      "explanation": "Trichophyton, Microsporum, and Epidermophyton are the main genera of dermatophytes causing infections like ringworm and athlete's foot."
+    },
+    {
+      "id": 29,
+      "type": "short-answer",
+      "text": "What is a dikaryotic cell?",
+      "answer": "A dikaryotic cell is a fungal cell that contains two genetically distinct haploid nuclei that have not fused. This condition (n+n) arises after plasmogamy (fusion of cytoplasm from two parent hyphae) but before karyogamy (fusion of the nuclei). Dikaryotic hyphae are characteristic of the Ascomycota and Basidiomycota life cycles and can persist for a significant portion of the fungus's life.",
+      "explanation": "A dikaryotic cell is a fungal cell with two separate haploid nuclei from different parents, resulting from plasmogamy without immediate karyogamy."
+    },
+    {
+      "id": 30,
+      "type": "short-answer",
+      "text": "What is a distinctive feature of diatoms?",
+      "answer": "A distinctive feature of diatoms (Bacillariophyta) is their cell walls, called frustules, which are made of silica (hydrated silicon dioxide, essentially glass). These frustules are intricately patterned and consist of two overlapping halves (like a petri dish), providing structural support and protection. Diatoms are major primary producers in aquatic environments.",
+      "explanation": "Diatoms have unique cell walls made of silica called frustules, which are often ornately patterned."
+    },
+    {
+      "id": 31,
+      "type": "short-answer",
+      "text": "Why are algae not considered parasitic?",
+      "answer": "Algae are primarily photosynthetic organisms, meaning they produce their own food (autotrophs) using light energy, carbon dioxide, and water. Parasites, by definition, live in or on another organism (the host) and derive nutrients at the host's expense, causing harm. Since algae are producers and do not typically harm a host to obtain nutrients, they are not considered parasitic. Some algae can form symbiotic relationships (like lichens or with corals), but these are generally mutualistic or commensal, not parasitic.",
+      "explanation": "Algae are autotrophs (photosynthetic) and produce their own food; they do not live at the expense of a host organism like parasites do."
+    },
+    {
+      "id": 32,
+      "type": "short-answer",
+      "text": "Which groups contain the multicellular algae?",
+      "answer": "Multicellular algae are found primarily in three main groups: 1. Rhodophyta (red algae): Most are multicellular marine seaweeds. 2. Phaeophyta (brown algae): Includes large multicellular seaweeds like kelp. 3. Chlorophyta (green algae): While many green algae are unicellular, this group also includes many multicellular forms, such as sea lettuce (Ulva) and filamentous algae.",
+      "explanation": "Multicellular algae are predominantly found among the red algae (Rhodophyta), brown algae (Phaeophyta), and some green algae (Chlorophyta)."
+    },
+    {
+      "id": 33,
+      "type": "short-answer",
+      "text": "What are three ways that lichens are environmentally valuable?",
+      "answer": "1. Pioneer species: Lichens can colonize bare rock and other harsh environments, initiating soil formation by breaking down rock and trapping organic matter, paving the way for other plants. 2. Bioindicators: Many lichens are very sensitive to air pollution (especially sulfur dioxide). Their presence, absence, or health can indicate air quality. 3. Food source and habitat: Lichens serve as a food source for various animals (e.g., reindeer, caribou) and provide habitat and shelter for small invertebrates.",
+      "explanation": "Lichens are valuable as: 1. Pioneer organisms in soil formation. 2. Bioindicators of air quality. 3. Food source and habitat for wildlife."
+    },
+    {
+      "id": 34,
+      "type": "critical-thinking",
+      "text": "The protist shown has which of the following?\npseudopodia\nflagella\na shell\ncilia\nA micrograph of an oval cell with a large sphere in the center and many short hair-like projections on the outside.\nFigure 5.40 (credit: modification of work by Richard Robinson)",
+      "options": [
+        "pseudopodia",
+        "flagella",
+        "a shell",
+        "cilia"
+      ],
+      "answer": "cilia",
+      "explanation": "The micrograph shows a protist (likely a Paramecium or similar ciliate) covered in numerous short, hair-like projections, which are cilia used for locomotion and feeding.",
+      "imageUrl": "https://openstax.org/apps/archive/20250226.165223/resources/f93a8e6f9c479dcf4e94fdd9306b5ab0593e1f38"
+    },
+    {
+      "id": 35,
+      "type": "critical-thinking",
+      "text": "Protist taxonomy has changed greatly in recent years as relationships have been re-examined using newer approaches. How do newer approaches differ from older approaches?",
+      "answer": "Older approaches to protist taxonomy relied heavily on morphological characteristics (e.g., cell shape, organelles, mode of locomotion, nutritional strategy). Newer approaches increasingly use molecular data, especially DNA and RNA sequence analysis (e.g., rRNA gene sequencing, whole-genome sequencing), and ultrastructural analysis (electron microscopy) to infer evolutionary relationships (phylogeny). These molecular methods often reveal relationships not apparent from morphology alone and have led to significant revisions of protist classification, moving away from purely form-based groups to more evolutionarily meaningful clades.",
+      "explanation": "Older methods relied on morphology (shape, locomotion). Newer methods emphasize molecular data (DNA/RNA sequences) and ultrastructure to establish evolutionary relationships, leading to more accurate phylogenetic classifications."
+    },
+    {
+      "id": 36,
+      "type": "critical-thinking",
+      "text": "What characteristics might make you think a protist could be pathogenic? Are certain nutritional characteristics, methods of locomotion, or morphological differences likely to be associated with the ability to cause disease?",
+      "answer": "Characteristics suggesting pathogenicity: 1. Heterotrophic nutrition, especially if it involves phagocytosis of host cells or absorption of nutrients from host tissues (parasitism). 2. Ability to invade host tissues or cells. 3. Production of toxins or enzymes that damage host cells. 4. Mechanisms to evade the host immune system (e.g., antigenic variation, intracellular lifestyle). While no single method of locomotion is exclusively linked to pathogenicity, flagella or pseudopods can aid in motility and tissue invasion. Morphological adaptations like apical complexes (in Apicomplexans) are specifically for host cell penetration. An intracellular lifestyle is strongly associated with pathogenicity.",
+      "explanation": "Pathogenic protists are often heterotrophic parasites. They may possess structures for host cell invasion (e.g., apical complex) or motility (flagella, pseudopods) that aid in infection. An intracellular lifestyle or ability to evade host immunity are also key indicators."
+    },
+    {
+      "id": 37,
+      "type": "critical-thinking",
+      "text": "Given the life cycle of the Schistosoma parasite, suggest a method of prevention of the disease.",
+      "answer": "The Schistosoma life cycle involves freshwater snails as intermediate hosts and human contact with contaminated water for infection. Prevention methods could include: 1. Improving sanitation: Proper disposal of human urine and feces to prevent eggs from reaching freshwater sources. 2. Snail control: Reducing snail populations in infested waters (e.g., using molluscicides or biological control). 3. Avoiding contact with contaminated water: Educating people to avoid swimming, wading, or washing in known infested water sources. 4. Providing safe water supplies: Ensuring access to clean water for drinking, bathing, and agriculture. 5. Mass drug administration: Treating infected individuals to reduce egg output and transmission.",
+      "explanation": "Prevention strategies for schistosomiasis include: proper sanitation (preventing eggs from entering water), snail control (intermediate host), avoiding contact with contaminated freshwater, providing safe water sources, and treating infected individuals."
+    },
+    {
+      "id": 38,
+      "type": "critical-thinking",
+      "text": "Which of the drawings shows septate hyphae?\na) a long strand with walls dividing it into rectanges. B) A long square with no walls between the nuclei.",
+      "answer": "Drawing A, which shows a long strand with walls dividing it into rectangles (cells), depicts septate hyphae. Septa are the cross-walls. Drawing B, with no walls between the nuclei, depicts coenocytic (nonseptate) hyphae.",
+      "explanation": "Septate hyphae have cross-walls (septa) that divide the hyphae into individual cells, as shown in drawing A. Drawing B shows coenocytic (nonseptate) hyphae, which lack such divisions.",
+      "imageUrl": "https://openstax.org/apps/archive/20250226.165223/resources/710ab5a240ef26f2993c7b19016870c1544bd571"
+    },
+    {
+      "id": 39,
+      "type": "critical-thinking",
+      "text": "Explain the benefit of research into the pathways involved in the synthesis of chitin in fungi.",
+      "answer": "Chitin is a major structural component of fungal cell walls but is absent in human cells. Understanding the pathways of chitin synthesis in fungi can lead to the development of antifungal drugs that specifically target these pathways. Such drugs would have selective toxicity, inhibiting fungal growth or killing fungal cells without harming human cells. This is crucial for treating fungal infections (mycoses), as fungi are eukaryotes like humans, making it harder to find unique drug targets compared to bacteria.",
+      "explanation": "Chitin is essential for fungal cell walls but not found in humans. Targeting chitin synthesis pathways allows for the development of antifungal drugs with selective toxicity, minimizing harm to human cells while effectively treating fungal infections."
+    }
+  ]
+}
