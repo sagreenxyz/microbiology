@@ -15,7 +15,10 @@ import {
   DialogActions,
   DialogContent,
   DialogContentText,
-  DialogTitle
+  DialogTitle,
+  Stepper,
+  Step,
+  StepLabel
 } from '@mui/material'
 import { loadQuizQuestions } from '../utils/dataLoader'
 import { useUserProgress } from '../contexts/UserProgressContext'
@@ -108,6 +111,7 @@ function QuizQuestions() {
 
   // Calculate progress
   const progress = getChapterProgress(subject, chapter, 'quiz')
+  const questionsProgress = getChapterProgress(subject, chapter, 'chapter')
   
   // Get current question
   const indexOfLastQuestion = currentPage * questionsPerPage
@@ -192,6 +196,19 @@ function QuizQuestions() {
         Chapter {chapter} Quiz
       </Typography>
 
+      {/* Learning Path Stepper */}
+      <Stepper activeStep={2} sx={{ mb: 4 }}>
+        <Step completed={true}>
+          <StepLabel>Read Summary</StepLabel>
+        </Step>
+        <Step completed={questionsProgress.attempted > 0}>
+          <StepLabel>Practice Questions</StepLabel>
+        </Step>
+        <Step completed={progress.attempted > 0}>
+          <StepLabel>Take Quiz</StepLabel>
+        </Step>
+      </Stepper>
+
       {quizSubmitted && (
         <Paper sx={{ p: 3, mb: 3, bgcolor: 'background.paper' }}>
           <Typography variant="h5" gutterBottom>
@@ -210,7 +227,7 @@ function QuizQuestions() {
           />
           
           {score >= 80 ? (
-            <Alert severity="success\" sx={{ mt: 2 }}>
+            <Alert severity="success" sx={{ mt: 2 }}>
               Excellent work! You've mastered this chapter.
             </Alert>
           ) : score >= 60 ? (
@@ -222,6 +239,19 @@ function QuizQuestions() {
               You might need to review this chapter more thoroughly.
             </Alert>
           )}
+        </Paper>
+      )}
+
+      {!quizSubmitted && (
+        <Paper sx={{ p: 2, mb: 3 }}>
+          <Typography variant="body1">
+            Quiz progress: {answeredQuestions}/{totalQuestions} questions answered
+          </Typography>
+          <LinearProgress 
+            variant="determinate" 
+            value={(answeredQuestions / totalQuestions) * 100} 
+            sx={{ mt: 1 }}
+          />
         </Paper>
       )}
 
@@ -262,9 +292,9 @@ function QuizQuestions() {
       <Box sx={{ display: 'flex', justifyContent: 'space-between', mt: 3 }}>
         <Button 
           variant="contained" 
-          onClick={() => navigate(`/subjects/${subject}/${chapter}/summary`)}
+          onClick={() => navigate(`/subjects/${subject}/${chapter}/questions`)}
         >
-          Back to Summary
+          Back to Practice Questions
         </Button>
         
         {!quizSubmitted && answeredQuestions === totalQuestions && (
@@ -274,6 +304,16 @@ function QuizQuestions() {
             onClick={() => setShowSubmitDialog(true)}
           >
             Submit Quiz
+          </Button>
+        )}
+        
+        {quizSubmitted && (
+          <Button 
+            variant="contained" 
+            color="primary"
+            onClick={() => navigate(`/subjects/${subject}`)}
+          >
+            Back to Chapter List
           </Button>
         )}
       </Box>

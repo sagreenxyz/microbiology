@@ -10,7 +10,10 @@ import {
   Link,
   Pagination,
   Paper,
-  Alert
+  Alert,
+  Stepper,
+  Step,
+  StepLabel
 } from '@mui/material'
 import { loadChapterQuestions } from '../utils/dataLoader'
 import { useUserProgress } from '../contexts/UserProgressContext'
@@ -63,6 +66,7 @@ function ChapterQuestions() {
 
   // Calculate progress
   const progress = getChapterProgress(subject, chapter, 'chapter')
+  const quizProgress = getChapterProgress(subject, chapter, 'quiz')
   
   // Get current question
   const indexOfLastQuestion = currentPage * questionsPerPage
@@ -112,6 +116,10 @@ function ChapterQuestions() {
     )
   }
 
+  // Calculate completion percentage
+  const attemptedCount = Object.values(progress).attempted || 0
+  const completionPercentage = (attemptedCount / questions.length) * 100
+
   return (
     <Container>
       <Breadcrumbs aria-label="breadcrumb" sx={{ mb: 2 }}>
@@ -141,6 +149,19 @@ function ChapterQuestions() {
         Chapter {chapter} Practice Questions
       </Typography>
 
+      {/* Learning Path Stepper */}
+      <Stepper activeStep={1} sx={{ mb: 4 }}>
+        <Step completed={true}>
+          <StepLabel>Read Summary</StepLabel>
+        </Step>
+        <Step completed={progress.attempted > 0}>
+          <StepLabel>Practice Questions</StepLabel>
+        </Step>
+        <Step completed={quizProgress.attempted > 0}>
+          <StepLabel>Take Quiz</StepLabel>
+        </Step>
+      </Stepper>
+
       {progress.attempted > 0 && (
         <Paper sx={{ p: 2, mb: 3 }}>
           <Typography variant="body1">
@@ -150,6 +171,16 @@ function ChapterQuestions() {
             variant="determinate" 
             value={progress.percentage} 
             sx={{ mt: 1 }}
+          />
+          
+          <Typography variant="body2" sx={{ mt: 1 }}>
+            Completion: {attemptedCount}/{questions.length} questions attempted ({Math.round(completionPercentage)}%)
+          </Typography>
+          <LinearProgress 
+            variant="determinate" 
+            value={completionPercentage} 
+            sx={{ mt: 1 }}
+            color="secondary"
           />
         </Paper>
       )}
@@ -199,7 +230,7 @@ function ChapterQuestions() {
           color="secondary"
           onClick={() => navigate(`/subjects/${subject}/${chapter}/quiz`)}
         >
-          Take Quiz
+          {quizProgress.attempted > 0 ? 'Continue Quiz' : 'Take Quiz'}
         </Button>
       </Box>
     </Container>
