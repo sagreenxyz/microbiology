@@ -89,6 +89,31 @@ function QuestionRenderer({
     })
   }
 
+  const getRadioColor = (option) => {
+    if (!submitted || !showFeedback) return 'primary';
+    
+    if (question.answer === option) {
+      return 'success'; // Correct answer is always green
+    } else if (answer === option) {
+      return 'error'; // User's incorrect selection is red
+    }
+    
+    return 'primary'; // Other options remain default
+  }
+
+  const getCheckboxColor = (option) => {
+    if (!submitted || !showFeedback) return 'primary';
+    
+    if (Array.isArray(question.answer) && question.answer.includes(option)) {
+      return 'success'; // Correct answer is always green
+    } else if (Array.isArray(answer) && answer.includes(option) && 
+              (!Array.isArray(question.answer) || !question.answer.includes(option))) {
+      return 'error'; // User's incorrect selection is red
+    }
+    
+    return 'primary'; // Other options remain default
+  }
+
   const renderQuestionContent = () => {
     switch (question.type) {
       case 'multiple-choice':
@@ -103,9 +128,28 @@ function QuestionRenderer({
                 <FormControlLabel
                   key={index}
                   value={option}
-                  control={<Radio />}
+                  control={
+                    <Radio 
+                      color={getRadioColor(option)}
+                      sx={{
+                        '&.Mui-checked': {
+                          color: submitted && showFeedback ? 
+                            (question.answer === option ? 'success.main' : 
+                             answer === option ? 'error.main' : undefined) : 
+                            undefined
+                        }
+                      }}
+                    />
+                  }
                   label={option}
                   disabled={submitted}
+                  sx={{
+                    ...(submitted && showFeedback && question.answer === option && {
+                      backgroundColor: 'rgba(76, 175, 80, 0.1)', // Light green background for correct answer
+                      borderRadius: 1,
+                      px: 1
+                    })
+                  }}
                 />
               ))}
             </RadioGroup>
@@ -122,15 +166,53 @@ function QuestionRenderer({
             >
               <FormControlLabel
                 value="true"
-                control={<Radio />}
+                control={
+                  <Radio 
+                    color={getRadioColor('true')}
+                    sx={{
+                      '&.Mui-checked': {
+                        color: submitted && showFeedback ? 
+                          (question.answer === 'true' ? 'success.main' : 
+                           answer === 'true' ? 'error.main' : undefined) : 
+                          undefined
+                      }
+                    }}
+                  />
+                }
                 label="True"
                 disabled={submitted}
+                sx={{
+                  ...(submitted && showFeedback && question.answer === 'true' && {
+                    backgroundColor: 'rgba(76, 175, 80, 0.1)',
+                    borderRadius: 1,
+                    px: 1
+                  })
+                }}
               />
               <FormControlLabel
                 value="false"
-                control={<Radio />}
+                control={
+                  <Radio 
+                    color={getRadioColor('false')}
+                    sx={{
+                      '&.Mui-checked': {
+                        color: submitted && showFeedback ? 
+                          (question.answer === 'false' ? 'success.main' : 
+                           answer === 'false' ? 'error.main' : undefined) : 
+                          undefined
+                      }
+                    }}
+                  />
+                }
                 label="False"
                 disabled={submitted}
+                sx={{
+                  ...(submitted && showFeedback && question.answer === 'false' && {
+                    backgroundColor: 'rgba(76, 175, 80, 0.1)',
+                    borderRadius: 1,
+                    px: 1
+                  })
+                }}
               />
             </RadioGroup>
           </FormControl>
@@ -146,6 +228,8 @@ function QuestionRenderer({
             onChange={(e) => setAnswer(e.target.value)}
             disabled={submitted}
             margin="normal"
+            error={submitted && showFeedback && !isCorrect}
+            color={submitted && showFeedback && isCorrect ? 'success' : undefined}
           />
         )
       
@@ -182,6 +266,14 @@ function QuestionRenderer({
                     onChange={(e) => handleMatchingChange(item, e.target.value)}
                     disabled={submitted}
                     label="Match with"
+                    error={submitted && showFeedback && 
+                      (question.pairs ? 
+                        matchingAnswers[item] !== question.pairs.find(p => p.item === item)?.description :
+                        question.answers && matchingAnswers[item] !== question.answers[item])}
+                    color={submitted && showFeedback && 
+                      (question.pairs ? 
+                        matchingAnswers[item] === question.pairs.find(p => p.item === item)?.description :
+                        question.answers && matchingAnswers[item] === question.answers[item]) ? 'success' : undefined}
                   >
                     <MenuItem value="">
                       <em>Select an option</em>
@@ -193,6 +285,23 @@ function QuestionRenderer({
                     ))}
                   </Select>
                 </FormControl>
+                
+                {submitted && showFeedback && (
+                  <Box sx={{ mt: 1 }}>
+                    {question.pairs ? 
+                      (matchingAnswers[item] !== question.pairs.find(p => p.item === item)?.description && (
+                        <Typography variant="body2" color="success.main">
+                          Correct match: {question.pairs.find(p => p.item === item)?.description}
+                        </Typography>
+                      )) :
+                      (question.answers && matchingAnswers[item] !== question.answers[item] && (
+                        <Typography variant="body2" color="success.main">
+                          Correct match: {question.answers[item]}
+                        </Typography>
+                      ))
+                    }
+                  </Box>
+                )}
               </Box>
             ))}
           </Box>
@@ -209,9 +318,25 @@ function QuestionRenderer({
                     checked={Array.isArray(answer) && answer.includes(option)}
                     onChange={() => handleCheckboxChange(option)}
                     disabled={submitted}
+                    color={getCheckboxColor(option)}
+                    sx={{
+                      '&.Mui-checked': {
+                        color: submitted && showFeedback ? 
+                          (Array.isArray(question.answer) && question.answer.includes(option) ? 'success.main' : 
+                           Array.isArray(answer) && answer.includes(option) ? 'error.main' : undefined) : 
+                          undefined
+                      }
+                    }}
                   />
                 }
                 label={option}
+                sx={{
+                  ...(submitted && showFeedback && Array.isArray(question.answer) && question.answer.includes(option) && {
+                    backgroundColor: 'rgba(76, 175, 80, 0.1)',
+                    borderRadius: 1,
+                    px: 1
+                  })
+                }}
               />
             ))}
           </FormGroup>
@@ -230,6 +355,8 @@ function QuestionRenderer({
             margin="normal"
             multiline
             rows={4}
+            error={submitted && showFeedback && !isCorrect}
+            color={submitted && showFeedback && isCorrect ? 'success' : undefined}
           />
         )
       
