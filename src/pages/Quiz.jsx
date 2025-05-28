@@ -12,6 +12,7 @@ function Quiz() {
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(null)
   const [chapterTitle, setChapterTitle] = useState('')
+  const [score, setScore] = useState(0)
 
   useEffect(() => {
     const fetchQuestions = async () => {
@@ -39,6 +40,18 @@ function Quiz() {
       ...prev,
       [questionId]: answer
     }))
+
+    // Update score for multiple choice and true/false questions
+    const question = questions.find(q => q.id === questionId)
+    if (question && (question.type === 'multiple-choice' || question.type === 'true-false')) {
+      const isCorrect = Array.isArray(question.answer) 
+        ? question.answer.includes(answer)
+        : question.answer === answer
+      
+      if (isCorrect) {
+        setScore(prevScore => prevScore + 1)
+      }
+    }
   }
 
   const handleNext = () => {
@@ -50,6 +63,7 @@ function Quiz() {
         chapterId,
         chapterTitle,
         totalQuestions: questions.length,
+        score,
         answers: Object.entries(answers).map(([questionId, userAnswer]) => {
           const question = questions.find(q => q.id.toString() === questionId)
           const isCorrect = Array.isArray(question.answer) 
@@ -119,19 +133,29 @@ function Quiz() {
 
   const currentQuestion = questions[currentQuestionIndex]
   const progress = ((currentQuestionIndex + 1) / questions.length) * 100
+  
+  // Calculate how many multiple choice and true/false questions we have
+  const scorableQuestions = questions.filter(q => 
+    q.type === 'multiple-choice' || q.type === 'true-false'
+  ).length
 
   return (
     <div>
       <div className="mb-6">
         <h1 className="text-2xl font-bold mb-2 text-gray-900">{chapterTitle}</h1>
+        <div className="flex justify-between items-center mb-2">
+          <div className="text-sm text-gray-600">
+            Question {currentQuestionIndex + 1} of {questions.length}
+          </div>
+          <div className="text-sm font-medium text-gray-800">
+            Score: {score}/{scorableQuestions}
+          </div>
+        </div>
         <div className="w-full bg-gray-200 rounded-full h-2.5">
           <div 
             className="bg-blue-600 h-2.5 rounded-full" 
             style={{ width: `${progress}%` }}
           ></div>
-        </div>
-        <div className="text-sm text-gray-600 mt-1">
-          Question {currentQuestionIndex + 1} of {questions.length}
         </div>
       </div>
 
