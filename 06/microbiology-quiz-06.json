@@ -1,0 +1,278 @@
+{
+  "title": "Microbiology Quiz - Chapter 6 Questions",
+  "questions": [
+    {
+      "id": 1,
+      "type": "select all that apply",
+      "text": "Which of the following are characteristics of Viruses?",
+      "options": [
+        "All of these",
+        "Genome is surrounded by a protein capsid",
+        "Obligate intracellular parasites with host and cell-type specificity",
+        "Infectious, acellular pathogens"
+      ],
+      "answer": [
+        "All of these",
+        "Genome is surrounded by a protein capsid",
+        "Obligate intracellular parasites with host and cell-type specificity",
+        "Infectious, acellular pathogens"
+      ],
+      "explanation": "Viruses are infectious, acellular pathogens that are obligate intracellular parasites, meaning they require a host cell to replicate. Their genome (DNA or RNA) is encased in a protein capsid, and they exhibit host and cell-type specificity."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "text": "Viruses formed from only a nucleic acid and capsid are called ___________ viruses.",
+      "options": [
+        "bacteriophage",
+        "enveloped",
+        "prion",
+        "naked"
+      ],
+      "answer": "naked",
+      "explanation": "Naked viruses, or nonenveloped viruses, consist only of a nucleic acid genome surrounded by a protein capsid."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "text": "The naked atadenovirus uses spikes made of _________________ from its capsid to bind to host cells.",
+      "options": [
+        "carbohydrates",
+        "none of these",
+        "glycoproteins",
+        "lipids"
+      ],
+      "answer": "glycoproteins",
+      "explanation": "Many viruses, including adenoviruses, use glycoprotein spikes extending from their capsid (or envelope, if present) to attach to host cell receptors."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "text": "Match the virus detection method of EIA to its proper description.",
+      "options": [
+        "making cDNA from RNA",
+        "using antibodies to detect viral antigens (proteins)",
+        "using primers to amplify DNA",
+        "isolating antibodies from a patient, adding them to a virus, and seeing if the virus can clump erythrocytes"
+      ],
+      "answer": "using antibodies to detect viral antigens (proteins)",
+      "explanation": "Enzyme Immunoassays (EIA) are a common method for detecting viruses by using antibodies to identify specific viral antigens (proteins) or by detecting host antibodies against the virus."
+    },
+    {
+      "id": 5,
+      "type": "select all that apply",
+      "text": "Which of the following statement are true regarding HeLa cells? (select all that are true)",
+      "options": [
+        "HeLa cells were tumor cells isolated from Henrietta Lacks.",
+        "These HeLa cell lines allow scientists to culture and study viruses.",
+        "They were used to develop the first continuous tissue-culture cell line.",
+        "Viruses are facultative intracellular entities."
+      ],
+      "answer": [
+        "HeLa cells were tumor cells isolated from Henrietta Lacks.",
+        "These HeLa cell lines allow scientists to culture and study viruses.",
+        "They were used to develop the first continuous tissue-culture cell line."
+      ],
+      "explanation": "HeLa cells, derived from cervical cancer cells of Henrietta Lacks, were the first human cell line to be continuously cultured and have been invaluable for virology research. Viruses are obligate, not facultative, intracellular parasites."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "text": "With a few exceptions, RNA viruses that infect animal cells replicate in the_______________ .",
+      "options": [
+        "ribosomes",
+        "nucleus",
+        "mitochondria",
+        "cytoplasm"
+      ],
+      "answer": "cytoplasm",
+      "explanation": "Most RNA viruses replicate their genomes in the cytoplasm of the host cell, using their own RNA-dependent RNA polymerase. Influenza viruses are a notable exception, replicating in the nucleus."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "text": "____________________ occurs when a bacteriophage transfers bacterial DNA from one bacterium to another during sequential infections.",
+      "options": [
+        "Transference",
+        "Translation",
+        "Transitional",
+        "Transduction"
+      ],
+      "answer": "Transduction",
+      "explanation": "Transduction is a process of horizontal gene transfer in bacteria where bacterial DNA is transferred from one bacterium to another by a bacteriophage."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "text": "Until the late 1930s and the advent of the  _______________ microscope, no one had seen a virus. Yet treatments for preventing or curing viral infections were used and developed long before that.",
+      "options": [
+        "light",
+        "compound",
+        "inverted",
+        "electron"
+      ],
+      "answer": "electron",
+      "explanation": "Viruses are too small to be seen with light microscopes. The invention of the electron microscope in the 1930s allowed for the first visualization of viruses."
+    },
+    {
+      "id": 9,
+      "type": "select all that apply",
+      "text": "Which of the following are true regarding viroids, virusoids and prions?",
+      "options": [
+        "Viroids cannot replicate their genome in host cells.",
+        "A prion is a misfolded rogue form of a normal protein found in the cell.",
+        "The first viroid discovered was found to cause potato tuber spindle disease.",
+        "Virusoids require that the cell also be infected with a specific “helper” virus."
+      ],
+      "answer": [
+        "A prion is a misfolded rogue form of a normal protein found in the cell.",
+        "The first viroid discovered was found to cause potato tuber spindle disease.",
+        "Virusoids require that the cell also be infected with a specific “helper” virus."
+      ],
+      "explanation": "Prions are infectious proteins. Viroids are small, circular RNAs that can replicate in host cells (e.g., potato tuber spindle viroid). Virusoids are small RNAs that require a helper virus for replication."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "text": "In naming viruses, the family name ends with ________ and genus name ends with _________.",
+      "options": [
+        "−virion; virus",
+        "−virus; −viridae",
+        "-virus; virion",
+        "−viridae; −virus"
+      ],
+      "answer": "−viridae; −virus",
+      "explanation": "According to the International Committee on Taxonomy of Viruses (ICTV), virus family names end in -viridae, and genus names end in -virus."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "text": "Not all animal viruses undergo replication by the lytic cycle. There are viruses that are capable of remaining hidden or dormant inside the cell in a process called______________ .",
+      "options": [
+        "persistence",
+        "transcriptase",
+        "dormancy",
+        "latency"
+      ],
+      "answer": "latency",
+      "explanation": "Latency is a period of dormancy in which some viruses can remain within host cells without causing immediate disease, potentially reactivating later."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "text": "Although there are no current treatments for prion infections, which of the following could be used?",
+      "options": [
+        "sulfa drugs",
+        "nucleases",
+        "antibiotics",
+        "proteases"
+      ],
+      "answer": "proteases",
+      "explanation": "Prions are misfolded proteins. Proteases are enzymes that break down proteins, so theoretically, they could degrade prions. However, developing effective and safe protease-based treatments for prion diseases is highly challenging."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "text": "An acellular entity composed of a small circular RNA molecule without a capsid and is not capable of replicating its genome is known as which of the following?",
+      "options": [
+        "virion",
+        "provirus",
+        "virusoid",
+        "viroid"
+      ],
+      "answer": "virusoid",
+      "explanation": "Virusoids are small, circular, single-stranded RNAs that depend on a helper virus for replication and encapsidation. Viroids can replicate autonomously."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "text": "Viruses that infect plants are considered ______________ parasites, which means that they can establish an infection without killing the host.",
+      "options": [
+        "osmotic",
+        "biotrophic",
+        "pathogenic",
+        "hetermorphic"
+      ],
+      "answer": "biotrophic",
+      "explanation": "Biotrophic plant pathogens, including many plant viruses, establish an infection and obtain nutrients from living host cells without immediately killing them."
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "text": "Unlike bacteria, many of which can be grown on an artificial nutrient medium, ___________ require a living __________ cell for replication.",
+      "options": [
+        "animals, endoparasitic",
+        "viruses, host",
+        "plants, ectoparasitic",
+        "viruses, endoparasitic"
+      ],
+      "answer": "viruses, host",
+      "explanation": "Viruses are obligate intracellular parasites and require a living host cell to replicate because they lack their own metabolic machinery."
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "text": "An example of an immortal cell line is the HeLa cell line, which was originally cultivated from tumor cells obtained from ________________  _________________, a patient who died of cervical cancer in 1951.",
+      "options": [
+        "Harry Lacks",
+        "Henrietta Lucas",
+        "Henrietta Leeks",
+        "Henrietta Lacks"
+      ],
+      "answer": "Henrietta Lacks",
+      "explanation": "The HeLa cell line, the first immortal human cell line, was derived from cervical cancer cells taken from Henrietta Lacks."
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "text": "The component(s) of a virus that is/are extended from the envelope for attachment is/are the:",
+      "options": [
+        "viral whiskers",
+        "spikes",
+        "nucleic acid",
+        "capsomeres"
+      ],
+      "answer": "spikes",
+      "explanation": "Viral spikes (glycoproteins) on the envelope (or capsid of naked viruses) are responsible for attaching to specific receptors on host cells."
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "text": "The third stage of a viral infection is _______________________ of new viral components.",
+      "options": [
+        "penetration",
+        "biosynthesis",
+        "maturation",
+        "attachment"
+      ],
+      "answer": "biosynthesis",
+      "explanation": "The typical stages of viral replication are attachment, penetration, biosynthesis (replication of viral genome and synthesis of viral proteins), maturation (assembly of new virions), and release."
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "text": "A virus that infects a bacterium is called a/an ___________________.",
+      "options": [
+        "eclipse",
+        "bacteriophage",
+        "viron",
+        "prion"
+      ],
+      "answer": "bacteriophage",
+      "explanation": "A bacteriophage (or phage) is a type of virus that specifically infects bacteria."
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "text": "The envelope of a virus is derived from the host’s",
+      "options": [
+        "membrane structures",
+        "cytoplasm",
+        "nucleic acids",
+        "genome"
+      ],
+      "answer": "membrane structures",
+      "explanation": "Enveloped viruses acquire their lipid envelope by budding through a host cell membrane, such as the plasma membrane, nuclear membrane, or endoplasmic reticulum."
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "title": "Microbiology Quiz - Chapter 14 Questions",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "text": "The spectrum of activity of an antibacterial drug relates to diversity of targeted bacteria. A _____________ -spectrum antimicrobial targets only specific subsets of bacterial pathogens.",
+      "options": [
+        "excise",
+        "inclusive",
+        "narrow",
+        "broad"
+      ],
+      "answer": "narrow",
+      "explanation": "Narrow-spectrum antimicrobials target a limited range of bacterial types."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "text": "What is the name given to a secondary infection in a patient having a preexisting infection?",
+      "options": [
+        "superinfection",
+        "extrainfection",
+        "biinfection",
+        "suprainfection"
+      ],
+      "answer": "superinfection",
+      "explanation": "A superinfection is a secondary infection that occurs during or after treatment for a primary infection, often due to disruption of normal microbiota."
+    },
+    {
+      "id": 3,
+      "type": "select all that apply",
+      "text": "The utility of an antibiogram is that it shows antimicrobial susceptibility trends",
+      "options": [
+        "in a localized population.",
+        "for an individual patient.",
+        "in research laboratory strains.",
+        "over a large geographic area."
+      ],
+      "answer": [
+        "in a localized population.",
+        "over a large geographic area."
+      ],
+      "explanation": "An antibiogram compiles local antimicrobial susceptibility data for specific pathogens isolated in a particular healthcare setting or community, helping guide empiric therapy. Aggregated data can also show trends over larger geographic areas."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "text": "Which clinical situation would be appropriate for treatment with a narrow-spectrum antimicrobial drug?",
+      "options": [
+        "treatment of a polymicrobic mixed infection in the intestine",
+        "prophylaxis against infection after a surgical procedure",
+        "treatment of strep throat caused by culture identified Streptococcus pyogenes",
+        "empiric therapy of pneumonia while waiting for culture results"
+      ],
+      "answer": "treatment of strep throat caused by culture identified Streptococcus pyogenes",
+      "explanation": "When the causative pathogen is identified (e.g., Streptococcus pyogenes), a narrow-spectrum antimicrobial that specifically targets that pathogen is preferred to minimize disruption of normal microbiota and reduce the risk of resistance."
+    },
+    {
+      "id": 5,
+      "type": "select all that apply",
+      "text": "When is using a broad-spectrum antimicrobial drug warranted?",
+      "options": [
+        "Broad-spectrum antimicrobial drug use also is warranted if the patient is thought to be or has been shown to be infected with a microbe resistant to narrow-spectrum alternatives.",
+        "It is never a good idea to use broad-spectrum antimicrobial drugs.",
+        "Using a broad-spectrum antimicrobial drug is warranted if the patient is suffering from a condition of unknown cause but when fatality may result if the time is taken to identify the causative agent.",
+        "Broad-spectrum antimicrobial drug use is also warranted if the patient may be suffering from an infection of multiple microbes or in preventing such an infection."
+      ],
+      "answer": [
+        "Broad-spectrum antimicrobial drug use also is warranted if the patient is thought to be or has been shown to be infected with a microbe resistant to narrow-spectrum alternatives.",
+        "Using a broad-spectrum antimicrobial drug is warranted if the patient is suffering from a condition of unknown cause but when fatality may result if the time is taken to identify the causative agent.",
+        "Broad-spectrum antimicrobial drug use is also warranted if the patient may be suffering from an infection of multiple microbes or in preventing such an infection."
+      ],
+      "explanation": "Broad-spectrum antimicrobials are used for serious infections with unknown pathogens (empiric therapy), polymicrobial infections, infections with microbes resistant to narrow-spectrum drugs, or for certain types of prophylaxis."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "text": "Some drugs are dose dependent, meaning they are ___________ effective when administered in large doses to provide high levels for a short time at the site of infection.",
+      "options": [
+        "always",
+        "less",
+        "more",
+        "not"
+      ],
+      "answer": "more",
+      "explanation": "Dose-dependent antibiotics achieve greater efficacy with higher concentrations relative to the MIC."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "text": "Which of the following antibacterial drugs does not Inhibit biosynthesis of proteins?",
+      "options": [
+        "Tetracyclines",
+        "Bacitracin",
+        "Aminoglycosides",
+        "Macrolides"
+      ],
+      "answer": "Bacitracin",
+      "explanation": "Bacitracin inhibits cell wall synthesis. Tetracyclines, aminoglycosides, and macrolides inhibit protein synthesis."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "text": "Which of the following is not a type of β-lactam antimicrobial?",
+      "options": [
+        "monobactams",
+        "cephalosporins",
+        "glycopeptides",
+        "penicillins"
+      ],
+      "answer": "glycopeptides",
+      "explanation": "Penicillins, cephalosporins, and monobactams all contain a β-lactam ring in their structure. Glycopeptides (e.g., vancomycin) have a different chemical structure and mode of action."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "text": "Where do antimicrobials come from naturally?",
+      "options": [
+        "bacteria",
+        "all of these",
+        "soil",
+        "fungi"
+      ],
+      "answer": "all of these",
+      "explanation": "Natural antimicrobials often originate from microorganisms (e.g., bacteria, fungi) and are commonly found in environments like soil where these microbes compete."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "text": "Which of the following antibacterial drugs does not cell wall biosynthesis?",
+      "options": [
+        "cephalosporins",
+        "carbapenems",
+        "penicillins",
+        "diarylquinoline"
+      ],
+      "answer": "diarylquinoline",
+      "explanation": "Diarylquinolines (e.g., bedaquiline) inhibit ATP synthase. Cephalosporins, carbapenems, and penicillins inhibit cell wall biosynthesis."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "text": "According to the text, how much of the earth is covered by water?",
+      "options": [
+        "80%",
+        "60%",
+        "90%",
+        "70%"
+      ],
+      "answer": "70%",
+      "explanation": "Approximately 70-71% of the Earth's surface is covered by water."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "text": "A scientist discovers that a soil bacterium he has been studying produces an antimicrobial that kills gram-negative bacteria. She isolates and purifies the antimicrobial compound, then chemically converts a chemical side chain to a hydroxyl group. When she tests the antimicrobial properties of this new version, she finds that this antimicrobial drug can now also kill gram-positive bacteria. The new antimicrobial drug with broad-spectrum activity is considered to be which of the following?",
+      "options": [
+        "semisynthetic",
+        "resistant",
+        "natural",
+        "synthetic"
+      ],
+      "answer": "semisynthetic",
+      "explanation": "A semisynthetic antimicrobial is a chemically modified derivative of a natural antimicrobial. The original compound was natural, and the modification makes the new version semisynthetic."
+    },
+    {
+      "id": 13,
+      "type": "select all that apply",
+      "text": "Which of the following has yielded compounds with the most antimicrobial activity?",
+      "options": [
+        "air",
+        "water",
+        "soil",
+        "volcanoes"
+      ],
+      "answer": [
+        "soil"
+      ],
+      "explanation": "Soil is a rich source of microorganisms, many of which produce natural antimicrobial compounds (e.g., antibiotics like streptomycin, neomycin, actinomycin from soil bacteria like Streptomyces). While other environments can yield antimicrobials, soil has yielded the most."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "text": "_________________________ , the first synthetic antimicrobial created, served as the foundation for the chemical development of a family of sulfa drugs.",
+      "options": [
+        "Nitronamide",
+        "Beta-Lactam",
+        "Antimycobacterial",
+        "Sulfanilamide"
+      ],
+      "answer": "Sulfanilamide",
+      "explanation": "Sulfanilamide was the first commercially available antibacterial, derived from prontosil, and led to the development of sulfa drugs."
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "text": "Which of the following antimicrobial drugs is synthetic?",
+      "options": [
+        "actinomycin",
+        "penicillin",
+        "neomycin",
+        "sulfanilamide"
+      ],
+      "answer": "sulfanilamide",
+      "explanation": "Sulfanilamide is a sulfa drug, which is a synthetic antimicrobial. Penicillin, actinomycin, and neomycin are natural antimicrobials produced by microorganisms."
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "text": "What is the name of a drug that it selectively kills or inhibits the growth of microbial targets while causing minimal or no harm to the host?",
+      "options": [
+        "non-premeable toxicity",
+        "non-selective toxicity",
+        "permeable toxicity",
+        "selective toxicity"
+      ],
+      "answer": "selective toxicity",
+      "explanation": "Selective toxicity refers to the ability of a drug to target pathogens while minimizing harm to the host, a key principle in antimicrobial therapy."
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "text": "Which of the following combinations would most likely contribute to the development of a superinfection?",
+      "options": [
+        "long-term use of narrow-spectrum antimicrobials",
+        "short-term use of broad-spectrum antimicrobials",
+        "long-term use of broad-spectrum antimicrobials",
+        "short-term use of narrow-spectrum antimicrobials"
+      ],
+      "answer": "long-term use of broad-spectrum antimicrobials",
+      "explanation": "Long-term use of broad-spectrum antimicrobials can disrupt the normal microbiota, allowing opportunistic pathogens or resistant strains to proliferate, leading to a superinfection."
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "text": "Which of the following routes of administration would be appropriate and convenient for home administration of an antimicrobial to treat a systemic infection?",
+      "options": [
+        "parenteral",
+        "topical",
+        "intravenous",
+        "oral"
+      ],
+      "answer": "oral",
+      "explanation": "Oral administration is generally the most convenient and appropriate for home use for systemic infections, provided the drug is well absorbed from the GI tract. Intravenous and parenteral routes typically require medical supervision, and topical is for localized infections."
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "text": "Which of the following terms refers to the ability of an antimicrobial drug to harm the target microbe without harming the host?",
+      "options": [
+        "mode of action",
+        "selective toxicity",
+        "therapeutic level",
+        "spectrum of activity"
+      ],
+      "answer": "selective toxicity",
+      "explanation": "Selective toxicity is a key characteristic of an effective antimicrobial, meaning it targets microbial structures or processes not found, or significantly different, in host cells."
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "text": "Which of the following techniques cannot be used to determine the minimum inhibitory concentration of an antimicrobial drug against a particular microbe?",
+      "options": [
+        "macrobroth dilution test",
+        "microbroth dilution test",
+        "Etest",
+        "Kirby-Bauer disk diffusion test"
+      ],
+      "answer": "Kirby-Bauer disk diffusion test",
+      "explanation": "The Kirby-Bauer test determines susceptibility (sensitive, intermediate, resistant) but does not directly yield an MIC value. Etest, microbroth dilution, and macrobroth dilution tests can all determine the MIC."
+    }
+  ]
+}

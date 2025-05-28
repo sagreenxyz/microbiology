@@ -1,0 +1,265 @@
+{
+  "title": "Microbiology Quiz - Chapter 5 Questions",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "text": "Paramecium spp. have hair-like appendages called ____________ for locomotion.",
+      "options": [
+        "vacuoles",
+        "cilia",
+        "flagella",
+        "microglia"
+      ],
+      "answer": "cilia",
+      "explanation": "Paramecium species use numerous short, hair-like appendages called cilia for movement and feeding."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "text": "Who are the closest relatives to Amoebozoas?",
+      "options": [
+        "Chromalveolata",
+        "Archaeplastidia",
+        "Opisthokonta",
+        "Rhizaria"
+      ],
+      "answer": "Opisthokonta",
+      "explanation": "Molecular phylogenetics places Amoebozoa as a sister group to Opisthokonta (which includes animals and fungi)."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "text": "Which protist is a concern because of its ability to contaminate water supplies and cause diarrheal illness?",
+      "options": [
+        "Plasmodium vivax",
+        "Trichomonas vaginalis",
+        "Toxoplasma gondii",
+        "Giardia lamblia"
+      ],
+      "answer": "Giardia lamblia",
+      "explanation": "Giardia lamblia is a flagellated protozoan parasite that colonizes the small intestine, causing giardiasis, often contracted from contaminated water."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "text": "Lichens attach to a surface using which structure?",
+      "options": [
+        "flagella",
+        "cilia",
+        "capsules",
+        "rhizines"
+      ],
+      "answer": "rhizines",
+      "explanation": "Rhizines are root-like hyphal structures that anchor lichens to their substrate."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "text": "Phylum__________________ (the roundworms) is a diverse group containing more than 15,000 species, of which several are important human parasites",
+      "options": [
+        "Helminths",
+        "Trichinella",
+        "Dirofilaria",
+        "Nematoda"
+      ],
+      "answer": "Nematoda",
+      "explanation": "Phylum Nematoda comprises the roundworms, many of which are free-living, but some are significant parasites of humans and animals."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "text": "When a population of _________________ becomes particularly dense, a red tide (a type of harmful algal bloom) can occur.",
+      "options": [
+        "viruses",
+        "microglia",
+        "bacteria",
+        "dinoflagellates"
+      ],
+      "answer": "dinoflagellates",
+      "explanation": "Red tides are often caused by blooms of certain species of dinoflagellates, which can produce toxins harmful to marine life and humans."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "text": "Which of the following is a distinguishing feature of apicomplexans?",
+      "options": [
+        "have calcium carbonate shells",
+        "may be photosynthetic or heterotrophic and have flagella",
+        "have cell walls with substantial cellulose",
+        "intracellular parasites with apical organelles"
+      ],
+      "answer": "intracellular parasites with apical organelles",
+      "explanation": "Apicomplexans are characterized by an apical complex, a set of organelles at one end of the cell that facilitates host cell penetration. They are obligate intracellular parasites."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "text": "The life cycle of Schistosoma spp. includes several species of water snails, which serve as secondary hosts. The parasite is transmitted to humans through contact with contaminated water and takes up residence in the _____________ of the ______________ system.",
+      "options": [
+        "muscles, respiratory",
+        "muscles, digestive",
+        "veins, digestive",
+        "veins, respiratory"
+      ],
+      "answer": "veins, digestive",
+      "explanation": "Schistosoma species (blood flukes) mature in the veins associated with the digestive system (e.g., mesenteric veins) or urinary system, depending on the species."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "text": "Most multicellular fungal bodies, commonly called molds, are made up of filaments called _____________ .",
+      "options": [
+        "hyphae",
+        "septate",
+        "mycelium",
+        "thallus"
+      ],
+      "answer": "hyphae",
+      "explanation": "The vegetative body of a mold consists of a network of thread-like filaments called hyphae. A mass of hyphae is called a mycelium."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "text": "_______________ is a protozoal mechanism of asexual reproduction whereby the nucleus of a cell divides repeatedly before the cytoplasm of the cell divides.",
+      "options": [
+        "Schizogony",
+        "Phagocytosis",
+        "Trophozoite",
+        "Pyrenoid"
+      ],
+      "answer": "Schizogony",
+      "explanation": "Schizogony, or multiple fission, is a form of asexual reproduction in some protozoa (e.g., Plasmodium) where the nucleus undergoes multiple divisions followed by cytoplasmic division to form many daughter cells."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "text": "Fungal cell walls contain___________ , as opposed to the cellulose found in the cell walls of plants and many protists.",
+      "options": [
+        "spores",
+        "lipids",
+        "chitin",
+        "carbon"
+      ],
+      "answer": "chitin",
+      "explanation": "A defining characteristic of fungal cell walls is the presence of chitin, a strong but flexible polysaccharide."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "text": "The types of algae are mainly grouped according to which of the following?",
+      "options": [
+        "where they are found",
+        "their chloroplast types",
+        "the size of their cells",
+        "their pigment types"
+      ],
+      "answer": "their pigment types",
+      "explanation": "Algae are primarily classified based on their photosynthetic pigments (e.g., chlorophylls, carotenoids, phycobilins), which give them their characteristic colors and reflect their evolutionary lineages."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "text": "______________ are unicellular fungi that are _______________intracellular parasites.",
+      "options": [
+        "Microsporidia, obligate",
+        "Ascomycota, falcultative",
+        "Ascomycota, obligate",
+        "Microsporidia, falcutative"
+      ],
+      "answer": "Microsporidia, obligate",
+      "explanation": "Microsporidia are a group of unicellular fungi that are obligate intracellular parasites of animals, including humans."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "text": "Some algae, the seaweeds, are macroscopic and may be confused with _________________ .",
+      "options": [
+        "animals",
+        "bacteria",
+        "animals",
+        "plants"
+      ],
+      "answer": "plants",
+      "explanation": "Macroscopic algae, commonly known as seaweeds, often resemble plants due to their size and sometimes complex structures, but they lack true roots, stems, and leaves."
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "text": "The protozoal disease malaria was responsible for 584,000 deaths worldwide (primarily children in Africa) in 2013, according to the World Health Organization.  Malaria is a ___________________ microbe.",
+      "options": [
+        "Eukaryotic",
+        "Prokaryotic",
+        "Viral",
+        "Bacterial"
+      ],
+      "answer": "Eukaryotic",
+      "explanation": "Malaria is caused by protozoan parasites of the genus Plasmodium, which are eukaryotic organisms."
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "text": "A fluke is classified within which of the following?",
+      "options": [
+        "Annelida",
+        "Nematoda",
+        "Platyhelminthes",
+        "Rotifera"
+      ],
+      "answer": "Platyhelminthes",
+      "explanation": "Flukes (class Trematoda) are parasitic flatworms belonging to the phylum Platyhelminthes."
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "text": "A _______________ is a combination of two organisms, a green alga or cyanobacterium and fungus, living in a symbiotic relationship",
+      "options": [
+        "algae",
+        "lichen",
+        "symbiosis",
+        "bacteria"
+      ],
+      "answer": "lichen",
+      "explanation": "A lichen is a composite organism arising from a symbiotic partnership between a fungus (the mycobiont) and an alga or cyanobacterium (the photobiont)."
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "text": "Mushrooms are a type of which of the following?",
+      "options": [
+        "basidiocarp",
+        "ascus",
+        "conidia",
+        "polar tubule"
+      ],
+      "answer": "basidiocarp",
+      "explanation": "A mushroom is the fleshy, spore-bearing fruiting body of a fungus, typically produced above ground on soil or on its food source. It is a type of basidiocarp in Basidiomycota fungi."
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "text": "A nonsegmented worm is found during a routine colonoscopy of an individual who reported having abdominal cramps, nausea, and vomiting. This worm is likely which of the following?",
+      "options": [
+        "nematode",
+        "annelid",
+        "trematode",
+        "fluke"
+      ],
+      "answer": "nematode",
+      "explanation": "Nematodes (roundworms) are nonsegmented worms. Annelids are segmented. Trematodes (flukes) are flatworms, typically leaf-shaped and nonsegmented, but 'nematode' is a more general fit for a 'nonsegmented worm' found in the colon causing GI symptoms."
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "text": "The source of agar, which is typically used in the microbiology laboratory, is which of the following?",
+      "options": [
+        "lichen",
+        "green algae",
+        "brown algae",
+        "red algae"
+      ],
+      "answer": "red algae",
+      "explanation": "Agar is a gelatinous substance derived from the cell walls of certain species of red algae, primarily from the genera Gelidium and Gracilaria."
+    }
+  ]
+}

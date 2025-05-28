@@ -1,0 +1,275 @@
+{
+  "title": "Microbiology Quiz - Chapter 3 Questions",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "text": "Who was earliest recorded scholar to articulate the theory of spontaneous generation?",
+      "options": [
+        "Aedesia",
+        "Agamemnon",
+        "Acrion",
+        "Aristotle"
+      ],
+      "answer": "Aristotle",
+      "explanation": "Aristotle was one of the earliest recorded scholars to articulate the theory of spontaneous generation, the notion that life can arise from nonliving matter."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "text": "_____________   _____________ experimental setup consisted of an open container, a container sealed with a cork top, and a container covered in mesh that let in air but not flies.",
+      "options": [
+        "Francesco Redi’s",
+        "Galileo Galilei's",
+        "Marc Amelius's",
+        "Marina Gamba's"
+      ],
+      "answer": "Francesco Redi’s",
+      "explanation": "Francesco Redi's experiments in the 17th century, using open, sealed, and mesh-covered containers with meat, provided evidence against spontaneous generation of maggots."
+    },
+    {
+      "id": 3,
+      "type": "select all that apply",
+      "text": "Which of the following are anchored into the plasma membrane by a basal body composed of nine triplets of microtubules?",
+      "options": [
+        "prokaryotic flagella only",
+        "eukaryotic cilia only",
+        "eukaryotic flagella",
+        "eukaryotic cilia"
+      ],
+      "answer": [
+        "eukaryotic flagella",
+        "eukaryotic cilia"
+      ],
+      "explanation": "Both eukaryotic flagella and cilia have a '9+2' arrangement of microtubules in their core and are anchored to the cell by a basal body, which has a '9+0' arrangement of microtubule triplets."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "text": "The English scientist Robert Hooke first used the term “__________” in 1665 to describe the small chambers within cork that he observed under a microscope of his own design.",
+      "options": [
+        "ribosomes",
+        "organisms",
+        "cells",
+        "microsomes"
+      ],
+      "answer": "cells",
+      "explanation": "Robert Hooke coined the term 'cells' after observing the box-like structures in cork, reminiscent of the cells in a monastery."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "text": "Who definitively refuted the long-disputed theory of spontaneous generation?",
+      "options": [
+        "Lazzaro Spallanzani",
+        "Galileo Galilei",
+        "Louis Pasteur",
+        "Marie Curie"
+      ],
+      "answer": "Louis Pasteur",
+      "explanation": "Louis Pasteur's swan-neck flask experiments in the 1860s are credited with definitively refuting the theory of spontaneous generation."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "text": "Which of the following is not part of the endomembrane system?",
+      "options": [
+        "the Golgi apparatus",
+        "mitochondria",
+        "lysosomes",
+        "the rough endoplasmic reticulum"
+      ],
+      "answer": "mitochondria",
+      "explanation": "The endomembrane system includes the endoplasmic reticulum, Golgi apparatus, lysosomes, and vesicles. Mitochondria (and chloroplasts) are not considered part of this system as they have their own distinct origins and membranes."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "text": "In what decade did we recognize the modern cell theory?",
+      "options": [
+        "1950s",
+        "1840s",
+        "1850s",
+        "1940s"
+      ],
+      "answer": "1850s",
+      "explanation": "The modern cell theory was largely established by the late 1850s, with key contributions from Schleiden, Schwann, and Virchow (Remak)."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "text": "Eukaryotic cells possess a _____________, which is surrounded by a complex nuclear membrane that houses the ___________ .",
+      "options": [
+        "microglia, mitochondria",
+        "nucleus, DNA",
+        "mitochondria, prokaryotes",
+        "DNA, nucleus"
+      ],
+      "answer": "nucleus, DNA",
+      "explanation": "A defining feature of eukaryotic cells is the presence of a true nucleus, which contains the cell's genetic material (DNA)."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "text": "Who was the first scientist to articulate the endosymbiotic hypothesis?",
+      "options": [
+        "Konstantin Mereschkowski",
+        "Ivan Wallin",
+        "Andreas Schimper",
+        "Robert Brown"
+      ],
+      "answer": "Konstantin Mereschkowski",
+      "explanation": "Russian botanist Konstantin Mereschkowski first articulated the endosymbiotic hypothesis for the origin of chloroplasts in 1905."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "text": "Which of the following individuals did not contribute to the establishment of cell theory?",
+      "options": [
+        "Matthias Schleiden",
+        "Girolamo Fracastoro",
+        "Robert Hooke",
+        "Robert Remak"
+      ],
+      "answer": "Girolamo Fracastoro",
+      "explanation": "Matthias Schleiden, Robert Hooke, and Robert Remak (along with Theodor Schwann and Rudolf Virchow) made significant contributions to cell theory. Girolamo Fracastoro proposed early ideas about contagious disease but was not directly involved in formulating cell theory."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "text": "In 1745, John Needham (1713–1781) published a report of his own experiments, in which he briefly boiled broth infused with plant or animal matter, hoping to kill all preexisting microbes.  He then sealed the flasks. After a few days, Needham observed that the broth had become cloudy and a single drop contained numerous microscopic creatures. He argued that the new microbes must have arisen spontaneously. What is the likely explanation for this result?",
+      "options": [
+        "Needham likely did not boil the broth enough to kill all preexisting microbes.",
+        "All of the existing microbes had been killed",
+        "None of these",
+        "Spontaneous generation"
+      ],
+      "answer": "Needham likely did not boil the broth enough to kill all preexisting microbes.",
+      "explanation": "Needham's experiments were later criticized because his brief boiling time may not have been sufficient to kill heat-resistant endospores, leading to microbial growth from surviving organisms, not spontaneous generation."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "text": "Which of the following terms refers to a prokaryotic cell that is spiral shaped?",
+      "options": [
+        "vibrio",
+        "coccus",
+        "spirillum",
+        "coccobacilli"
+      ],
+      "answer": "spirillum",
+      "explanation": "Spirillum (plural: spirilla) refers to spiral-shaped prokaryotic cells. Vibrios are comma-shaped, cocci are spherical, and coccobacilli are short rods."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "text": "_____________ is a form of transport used by bacteria, but not by eukaryotic cells, to move materials across the cell membrane and into the cell.",
+      "options": [
+        "Group translocation",
+        "Lysification",
+        "Ciliated translocation",
+        "Solo translocation"
+      ],
+      "answer": "Group translocation",
+      "explanation": "Group translocation is a distinct active transport mechanism found in some bacteria where the transported substance is chemically modified during its passage across the membrane. It is not found in eukaryotic cells."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "text": "Which bacterial structures are important for adherence to surfaces?",
+      "options": [
+        "cell walls",
+        "fimbriae & flagella",
+        "flagella & endospores",
+        "endospores"
+      ],
+      "answer": "fimbriae & flagella",
+      "explanation": "Fimbriae are short, bristle-like protein projections that allow bacteria to attach to surfaces and other cells. Flagella, while primarily for motility, can also play a role in adherence in some bacteria."
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "text": "Who conducted studies to track the source of cholera outbreaks in London which ultimately resulted in the first known public health response to an epidemic?",
+      "options": [
+        "John Snow",
+        "Louis Pasteur",
+        "Ignaz Semmelweis",
+        "Joseph Lister"
+      ],
+      "answer": "John Snow",
+      "explanation": "John Snow is considered a father of epidemiology for his work tracing the source of cholera outbreaks in London to contaminated water sources, leading to public health interventions."
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "text": "_________________ cells lack a nucleus.",
+      "options": [
+        "Eukaryotic",
+        "Prokaryotic",
+        "Plant",
+        "Animal"
+      ],
+      "answer": "Prokaryotic",
+      "explanation": "Prokaryotic cells are defined by the absence of a membrane-bound nucleus. Eukaryotic cells (including plant and animal cells) have a nucleus."
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "text": "When the concentration of solutes is greater on one side of the membrane, water diffuses across the membrane from the side with the lower concentration (more water) to the side with the higher concentration (less water) until the concentrations on both sides become equal. This diffusion of water is called _____________ .",
+      "options": [
+        "potential",
+        "membrane",
+        "osmosis",
+        "diffusion"
+      ],
+      "answer": "osmosis",
+      "explanation": "Osmosis is the net movement of water across a selectively permeable membrane from an area of lower solute concentration to an area of higher solute concentration."
+    },
+    {
+      "id": 18,
+      "type": "select all that apply",
+      "text": "Mitochondria are unable to survive outside of eukaryotic cells. If they originated from ancestral prokaryotes, as proposed by the endosymbiotic theory, then why can’t they survive independently?",
+      "options": [
+        "Over time, mitochondria and their host cells evolved to be dependent on each other.",
+        "Mitochondrial genes transferred to the cell nucleus.",
+        "The mitochondrion might not have all its genes therefore, it cannot perform all its functions if it is removed from the eukaryotic cell.",
+        "There should be no reason for the mitochondria to not survive independently."
+      ],
+      "answer": [
+        "Over time, mitochondria and their host cells evolved to be dependent on each other.",
+        "Mitochondrial genes transferred to the cell nucleus.",
+        "The mitochondrion might not have all its genes therefore, it cannot perform all its functions if it is removed from the eukaryotic cell."
+      ],
+      "explanation": "Over evolutionary time, many mitochondrial genes have been transferred to the host cell's nucleus. This, along with other co-dependencies, means mitochondria now rely on the host cell for many essential proteins and cannot survive independently."
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "text": "Ribosomes are structures responsible for ________________ synthesis.",
+      "options": [
+        "protein",
+        "carbohydrate",
+        "all of these",
+        "lipid"
+      ],
+      "answer": "protein",
+      "explanation": "Ribosomes are the cellular machinery responsible for translating mRNA into proteins."
+    },
+    {
+      "id": 20,
+      "type": "select all that apply",
+      "text": "Which best describes the function of cristae?",
+      "options": [
+        "They increase the surface area for reactions associated with cellular respiration.",
+        "They increase the capacity of the mitochondria to synthesize ATP",
+        "They provide a location for the light reactions of photosynthesis in plant cells.",
+        "They are compartments for digestive enzyme storage in eukaryotic cells."
+      ],
+      "answer": [
+        "They increase the surface area for reactions associated with cellular respiration.",
+        "They increase the capacity of the mitochondria to synthesize ATP"
+      ],
+      "explanation": "Cristae are folds of the inner mitochondrial membrane that significantly increase its surface area. This increased surface area provides more space for the electron transport chain and ATP synthase complexes, which are crucial for cellular respiration and ATP synthesis."
+    }
+  ]
+}

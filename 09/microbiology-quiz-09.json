@@ -1,0 +1,265 @@
+{
+  "title": "Microbiology Quiz - Chapter 9 Questions",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "text": "We can easily observe different requirements for molecular oxygen (since not all organisms need oxygen in order to flourish)  by growing bacteria in ___________________ tube cultures.",
+      "options": [
+        "DNA",
+        "thioglycolate",
+        "thymine",
+        "thalydamide"
+      ],
+      "answer": "thioglycolate",
+      "explanation": "Thioglycolate broth is a reducing medium used to create an oxygen gradient in a test tube, allowing for the determination of an organism's oxygen requirements (e.g., obligate aerobe, obligate anaerobe, facultative anaerobe)."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "text": "The enzyme  _________________ converts hydrogen peroxide to water and oxygen in this reaction, 2H2O2→2H2O+O2",
+      "options": [
+        "catalase",
+        "maltase",
+        "trypsin",
+        "amalayse"
+      ],
+      "answer": "catalase",
+      "explanation": "Catalase is an enzyme that detoxifies hydrogen peroxide (a reactive oxygen species) by breaking it down into water and oxygen."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "text": "Which of the following pigments are especially useful at great depths, where less light penetrates?",
+      "options": [
+        "carotenoids and chlorophylls",
+        "fucoxanthin and carotenoids",
+        "fucoxanthin and phycobilins",
+        "bacteriorhodopsin and carotenoids"
+      ],
+      "answer": "fucoxanthin and phycobilins",
+      "explanation": "Accessory pigments like fucoxanthin (found in brown algae and diatoms) and phycobilins (found in cyanobacteria and red algae) can absorb light wavelengths that penetrate deeper water, transferring energy to chlorophylls."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "text": "Which enzymes that detoxify reactive oxygen species are present or absent in obligate anaerobes and aerotolerant organisms?",
+      "options": [
+        "catalases",
+        "superoxide dismutases",
+        "peroxidases",
+        "all of these"
+      ],
+      "answer": "all of these",
+      "explanation": "Obligate anaerobes typically lack catalase, peroxidase, and superoxide dismutase. Aerotolerant anaerobes usually have superoxide dismutase and may have peroxidase, but typically lack catalase. The presence or absence of these enzymes dictates their ability to survive in oxygen."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "text": "If you grow two species of bacteria on mannitol salt agar to determine which can ferment mannitol, and you know both species can grow on the medium, which type of medium is the agar?",
+      "options": [
+        "neither a differential medium nor a selective medium",
+        "differential",
+        "selective",
+        "both a differential medium and a selective medium"
+      ],
+      "answer": "differential",
+      "explanation": "Mannitol salt agar is both selective (high salt inhibits non-halophiles) and differential (mannitol fermentation changes pH indicator). If both species grow, the selective aspect is met by both. The ability to distinguish between them based on mannitol fermentation makes it differential in this context."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "text": "Most bacteria are ______________ , meaning they grow optimally at a pH within one or two pH units of the neutral pH of 7.",
+      "options": [
+        "neutrophiles",
+        "alkaliphiles",
+        "hydrophiles",
+        "acidophiles"
+      ],
+      "answer": "neutrophiles",
+      "explanation": "Neutrophiles are organisms that grow optimally at a pH near 7.0. Acidophiles prefer acidic conditions, and alkaliphiles prefer alkaline conditions."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "text": "We are all familiar with the slimy layer on a pond surface or that makes rocks slippery. These are examples of ______________ .",
+      "options": [
+        "phytoplankton",
+        "biofilms",
+        "viruses",
+        "zooplankton"
+      ],
+      "answer": "biofilms",
+      "explanation": "Biofilms are communities of microorganisms encased in an extracellular polymeric substance (EPS) matrix, often forming slimy layers on surfaces."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "text": "Mixed bacterial infections can occur that include both facultative anaerobes and obligate anaerobes. What happens when these species coexist?",
+      "options": [
+        "When facultative anaerobes and obligate anaerobes coexist, both end up dying due to the lack of oxygen.",
+        "When facultative anaerobes and obligate anaerobes coexist, only the obligate anaerobes survive.",
+        "When facultative anaerobes and obligate anaerobes coexist, the facultative anaerobes use up any oxygen present, which allows the obligate anaerobes to thrive.",
+        "When facultative anaerobes and obligate anaerobes coexist, only the facultative anaerobes survive."
+      ],
+      "answer": "When facultative anaerobes and obligate anaerobes coexist, the facultative anaerobes use up any oxygen present, which allows the obligate anaerobes to thrive.",
+      "explanation": "Facultative anaerobes can consume available oxygen, creating an anoxic environment that then allows obligate anaerobes (which are killed by oxygen) to grow."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "text": "Which of the following methods would be used to measure the concentration of bacterial contamination in processed peanut butter?",
+      "options": [
+        "turbidity measurement",
+        "dry weight measurement",
+        "direct counting of bacteria on a calibrated slide under the microscope",
+        "total plate count"
+      ],
+      "answer": "total plate count",
+      "explanation": "Total plate count (viable plate count) is used to determine the number of viable (living) bacteria in a sample like food by plating dilutions and counting colonies. Turbidity and direct counting are less suitable for opaque or complex food matrices."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "text": "Helicobacter pylori, the bacteria responsible for peptic ulcers (or stomach ulcers) are painful sores on the stomach lining, is caused  by stress.",
+      "options": [
+        "none of these",
+        "true",
+        "sometimes true if combined with spicy foods",
+        "false"
+      ],
+      "answer": "false",
+      "explanation": "Peptic ulcers are primarily caused by infection with Helicobacter pylori bacteria or by long-term use of nonsteroidal anti-inflammatory drugs (NSAIDs), not directly by stress, although stress can exacerbate symptoms."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "text": "A Geobacillus is best decribed as a(n) ________________________ .",
+      "options": [
+        "halotolerant",
+        "acidophile",
+        "alkaliphile",
+        "thermophile"
+      ],
+      "answer": "thermophile",
+      "explanation": "Geobacillus species are known thermophiles, meaning they thrive at high temperatures (typically 50-80 °C)."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "text": "If a culture starts with 100 cells, how many cells will be present after five generations with no cell death?",
+      "options": [
+        "1600",
+        "200",
+        "3200",
+        "400"
+      ],
+      "answer": "3200",
+      "explanation": "Bacterial growth by binary fission is exponential (2^n). After 5 generations, the number of cells will be 100 * 2^5 = 100 * 32 = 3200."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "text": "Where is Lake Whillans located?",
+      "options": [
+        "Antarctica",
+        "Iceland",
+        "Arctic",
+        "Europe"
+      ],
+      "answer": "Antarctica",
+      "explanation": "Lake Whillans is a subglacial lake located in Antarctica, beneath the Whillans Ice Stream."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "text": "____________________ are microorganisms that can grow at 0 °C and below, have an optimum growth temperature close to 15 °C.",
+      "options": [
+        "Mesophiles",
+        "Halophiles",
+        "Thermophiles",
+        "Psychrophiles"
+      ],
+      "answer": "Psychrophiles",
+      "explanation": "Psychrophiles are cold-loving microorganisms that grow optimally at low temperatures, typically 15 °C or lower, and can grow near 0 °C."
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "text": "Bacteria that grow best in a higher concentration of CO2 and a lower concentration of oxygen than present in the atmosphere are called _________________ .",
+      "options": [
+        "cathonic",
+        "catnophiles",
+        "bacilli",
+        "capnophiles"
+      ],
+      "answer": "capnophiles",
+      "explanation": "Capnophiles are microorganisms that require or grow optimally in an atmosphere enriched with carbon dioxide (typically 5-10% CO2)."
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "text": "careless use and overuse of artificial fertilizers (which provide nitrogen and phosphorus to the plants) have been demonstrated to have significant negative impacts on aquatic ecosystems by allowing what to be produced?  What type of organism is this?",
+      "options": [
+        "viral particles, algae",
+        "red tides, bacteria",
+        "red tides, algae",
+        "microglial cells, bacteria"
+      ],
+      "answer": "red tides, algae",
+      "explanation": "Excess nitrogen and phosphorus from fertilizer runoff can cause eutrophication in aquatic systems, leading to harmful algal blooms (HABs), some of which are known as red tides, caused by certain species of algae (often dinoflagellates)."
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "text": "Energy from light is captured by pigments and converted into chemical energy that drives carbon fixation and other metabolic processes. The portion of the electromagnetic spectrum that is absorbed by these organisms is defined as photosynthetically active radiation (PAR). It lies within the visible light spectrum ranging from _______________ nanometers (nm) and extends in the near infrared for some photosynthetic bacteria.",
+      "options": [
+        "300 to 500",
+        "700/900",
+        "100 to 700",
+        "400 to 700"
+      ],
+      "answer": "400 to 700",
+      "explanation": "Photosynthetically Active Radiation (PAR) generally corresponds to the visible light spectrum, approximately 400 nm (violet) to 700 nm (red), which photosynthetic organisms use for photosynthesis."
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "text": "What is the name given to bacteria that can break down (\"eat\") crude oil?",
+      "options": [
+        "hydrocarbon",
+        "hemoclastic",
+        "hydrocarbonoclastic",
+        "heliocarbonoclastic"
+      ],
+      "answer": "hydrocarbonoclastic",
+      "explanation": "Hydrocarbonoclastic bacteria (HCB) are microorganisms capable of degrading hydrocarbons, such as those found in crude oil, and are important in bioremediation."
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "text": "In which phase would you expect to observe the most endospores in a Bacillus cell culture?",
+      "options": [
+        "lag phase",
+        "log phase",
+        "log, lag, and death phases would all have roughly the same number of endospores.",
+        "death phase"
+      ],
+      "answer": "death phase",
+      "explanation": "Endospore formation in bacteria like Bacillus is typically triggered by nutrient depletion or other harsh environmental conditions, which are characteristic of the stationary and death phases of a batch culture."
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "text": "During which phase would penicillin, an antibiotic that inhibits cell-wall synthesis, be most effective?",
+      "options": [
+        "lag phase",
+        "stationary phase",
+        "log phase",
+        "death phase"
+      ],
+      "answer": "log phase",
+      "explanation": "Penicillin targets actively synthesizing peptidoglycan in the cell wall. Bacteria are most actively growing and synthesizing cell walls during the log (exponential growth) phase, making them most susceptible to penicillin at this stage."
+    }
+  ]
+}

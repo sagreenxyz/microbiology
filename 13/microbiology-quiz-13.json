@@ -1,0 +1,268 @@
+{
+  "title": "Microbiology Quiz - Chapter 13 Questions",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "text": "The Centers for Disease Control and Prevention (CDC) and the National Institutes of Health (NIH) have established four classification levels, called “biological safety levels” (BSLs).  Which one of these levels is the most dangerous?",
+      "options": [
+        "3",
+        "4",
+        "2",
+        "1"
+      ],
+      "answer": "4",
+      "explanation": "BSL-4 is the highest level of biocontainment and is used for work with dangerous and exotic microbes that pose a high risk of aerosol-transmitted laboratory infections and life-threatening disease for which there are no vaccines or treatments."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "text": "Which medical instrument to its proper classification of \"semi-critical\"?",
+      "options": [
+        "catheter",
+        "sphygmomanometer",
+        "gastrointestinal endoscope",
+        "sonogram probe"
+      ],
+      "answer": "gastrointestinal endoscope",
+      "explanation": "Semi-critical items (e.g., gastrointestinal endoscopes) contact mucous membranes or nonintact skin and require high-level disinfection. Catheters are often critical (enter sterile tissue). Sphygmomanometers and sonogram probes are typically non-critical (contact intact skin)."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "text": "Metal cans of food contaminated with C. botulinum will bulge due to the microbe’s production of ___________ .",
+      "options": [
+        "gases",
+        "carbohydrates",
+        "lipids",
+        "proteins"
+      ],
+      "answer": "gases",
+      "explanation": "Clostridium botulinum is an anaerobic bacterium that can produce gas (e.g., CO2, H2) as a byproduct of its metabolism, causing cans of contaminated food to bulge."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "text": "The thermal death point (TDP) of a microorganism is the __________________ temperature at which all microbes are killed in a ______ -minute exposure.",
+      "options": [
+        "highest, 20",
+        "lowest, 10",
+        "highest, 30",
+        "lowest, 20"
+      ],
+      "answer": "lowest, 10",
+      "explanation": "The thermal death point (TDP) is defined as the lowest temperature at which all microorganisms in a particular liquid suspension are killed in 10 minutes."
+    },
+    {
+      "id": 5,
+      "type": "select all that apply",
+      "text": "Which agent is not matched to its mechanism of action? (check all that apply)",
+      "options": [
+        "gamma rays - damage DNA molecules",
+        "heavy metals - bind to sulfur-containing amino acids to inhibit enzyme activity",
+        "soaps - denature proteins and disrupt membrane integrity",
+        "alcohols - physically remove a microbe from a surface"
+      ],
+      "answer": [
+        "soaps - denature proteins and disrupt membrane integrity",
+        "alcohols - physically remove a microbe from a surface"
+      ],
+      "explanation": "Soaps primarily work as surfactants, mechanically removing microbes and disrupting cell membranes to some extent, but not primarily by denaturing proteins. Alcohols denature proteins and disrupt membranes; they don't primarily physically remove microbes (though the act of wiping with alcohol does)."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "text": "Which of the following is used to determine if a solution of disinfectant actively used in the clinical setting is contaminated?",
+      "options": [
+        "the phenol coefficient test",
+        "the disk-diffusion method",
+        "the use-dilution test",
+        "the in-use test"
+      ],
+      "answer": "the in-use test",
+      "explanation": "The in-use test is designed to determine if an actively used solution of disinfectant in a clinical setting is microbially contaminated."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "text": "Many chemical preservatives, such as potassium sorbate, preserve food products in which of the following ways?",
+      "options": [
+        "all of these",
+        "by altering the pH",
+        "by changing the osmolarity",
+        "by drying foods"
+      ],
+      "answer": "by altering the pH",
+      "explanation": "Sorbates (like potassium sorbate) are organic acids that inhibit microbial growth by increasing the acidity (lowering the pH) of the food product, interfering with enzyme activity and cell membrane function."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "text": "Nisin is an antimicrobial peptide produced by which bacterium?",
+      "options": [
+        "Listeria monocytogenes",
+        "Streptomyces natalensis",
+        "Lactococcus lactis",
+        "Lactobacillus acidophilus"
+      ],
+      "answer": "Lactococcus lactis",
+      "explanation": "Nisin is a bacteriocin (an antimicrobial peptide) produced by the bacterium Lactococcus lactis, commonly used as a food preservative."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "text": "Which of the following terms is used to describe the time required to kill all of the microbes within a sample at a given temperature?",
+      "options": [
+        "decimal reduction time",
+        "thermal death time",
+        "thermal death point",
+        "D-value"
+      ],
+      "answer": "thermal death time",
+      "explanation": "Thermal death time (TDT) is the length of time needed to kill all microorganisms in a sample at a specific temperature. The D-value (decimal reduction time) is the time to kill 90%."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "text": "Which of the following best describes a microbial control protocol that inhibits the growth of molds and yeast?",
+      "options": [
+        "fungistatic",
+        "fungicidal",
+        "bactericidal",
+        "bacteriostatic"
+      ],
+      "answer": "fungistatic",
+      "explanation": "A fungistatic agent inhibits the growth of fungi (molds and yeasts) without necessarily killing them. Fungicidal agents kill fungi."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "text": "Why is size one of the limiting factors to sterilization of an item in an autoclave?",
+      "options": [
+        "air is heavier than steam and sinks to the bottom of the autoclave and must be vented out",
+        "there are no limiting factors",
+        "the amount of Nitrogen available in the autoclave",
+        "air is lighter than steam and sinks to the bottom of the autoclave and must be vented out"
+      ],
+      "answer": "air is heavier than steam and sinks to the bottom of the autoclave and must be vented out",
+      "explanation": "Effective autoclaving relies on saturated steam directly contacting all surfaces. Air is denser than steam and can create cool pockets if not properly vented, preventing sterilization. Large or improperly loaded items can trap air."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "text": "To prevent the spread of human disease, it is necessary to control the growth and abundance of microbes in or on various items frequently used by humans. Inanimate items, such as doorknobs, toys, or towels, which may harbor microbes and aid in disease transmission, are called _______________ .",
+      "options": [
+        "pathogens",
+        "fomites",
+        "viruses",
+        "formatites"
+      ],
+      "answer": "fomites",
+      "explanation": "Fomites are inanimate objects that can become contaminated with infectious agents and serve as a vehicle for their transmission."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "text": "__________________ in various forms, from high-energy radiation to sunlight, can be used to kill microbes or inhibit their growth.",
+      "options": [
+        "Pasteurization",
+        "Radiation",
+        "Sterilization",
+        "Sonication"
+      ],
+      "answer": "Radiation",
+      "explanation": "Radiation, including ionizing radiation (like gamma rays) and non-ionizing radiation (like UV light from sunlight), can damage microbial DNA and other cellular components, leading to cell death or growth inhibition."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "text": "____________________ were first synthesized in the 20th century and are cationic  molecules known for their antiseptic properties.",
+      "options": [
+        "Phenolics",
+        "Alcohols",
+        "Bisbiguanides",
+        "Surfactants"
+      ],
+      "answer": "Bisbiguanides",
+      "explanation": "Bisbiguanides, such as chlorhexidine, are cationic antiseptic compounds that disrupt cell membranes and were developed in the 20th century."
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "text": "The Association of Official Agricultural Chemists International (AOAC), a nonprofit group that establishes many protocol standards, has determined that a minimum of _____________ replicates must show no microbial growth in such a test to achieve a passing result, and the results must be repeatable from different batches of disinfectant and when performed on different days. Disinfectant manufacturers perform use-dilution tests to validate the efficacy claims for their products, as designated by the EPA.",
+      "options": [
+        "59 of 60",
+        "29 of 30",
+        "39 of 40",
+        "49 of 50"
+      ],
+      "answer": "59 of 60",
+      "explanation": "The AOAC use-dilution test requires that for a disinfectant to pass, at least 59 out of 60 replicates must show no microbial growth after exposure to the disinfectant."
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "text": "What is the term used to  inactivate most microbes on the surface of a fomite by using antimicrobial chemicals or heat?",
+      "options": [
+        "Disinfection",
+        "Sterilization",
+        "Sanitization",
+        "Antisepsis"
+      ],
+      "answer": "Disinfection",
+      "explanation": "Disinfection is a process that eliminates most or all pathogenic microorganisms, except bacterial spores, on inanimate objects (fomites)."
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "text": "Which of the following types of medical items requires sterilization?",
+      "options": [
+        "respiratory masks",
+        "bed linens",
+        "needles",
+        "blood pressure cuffs"
+      ],
+      "answer": "needles",
+      "explanation": "Critical medical items, such as needles, that enter sterile tissues or the bloodstream must be sterilized to prevent infection."
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "text": "Which of the following is suitable for use on tissues for microbial control to prevent infection?",
+      "options": [
+        "disinfectant",
+        "antiseptic",
+        "sterilant",
+        "water"
+      ],
+      "answer": "antiseptic",
+      "explanation": "An antiseptic is an antimicrobial substance that is applied to living tissue/skin to reduce the possibility of infection, sepsis, or putrefaction."
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "text": "The decimal reduction time refers to the amount of time it takes to which of the following?",
+      "options": [
+        "reduce a microbial population by 90%",
+        "reduce a microbial population by 0.1%",
+        "completely eliminate a microbial population",
+        "reduce a microbial population by 10%"
+      ],
+      "answer": "reduce a microbial population by 90%",
+      "explanation": "The decimal reduction time (D-value) is the time required at a specific temperature (or with a specific dose of radiation/chemical) to kill 90% (or one log10 reduction) of the target microbial population."
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "text": "Which of the following methods brings about cell lysis due to cavitation induced by rapid localized pressure changes?",
+      "options": [
+        "ultraviolet radiation",
+        "gamma irradiation",
+        "sonication",
+        "microwaving"
+      ],
+      "answer": "sonication",
+      "explanation": "Sonication uses high-frequency sound waves to create cavitation (formation and collapse of microbubbles), which generates localized pressure changes and shear forces that can lyse cells."
+    }
+  ]
+}

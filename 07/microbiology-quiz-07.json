@@ -1,0 +1,265 @@
+{
+  "title": "Microbiology Quiz - Chapter 7 Questions",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "text": "What are some examples of macronutrients?",
+      "options": [
+        "All of these",
+        "Hydrogen",
+        "Nitrogen",
+        "Carbon"
+      ],
+      "answer": "All of these",
+      "explanation": "Carbon, Hydrogen, and Nitrogen are all essential macronutrients required in large quantities by living organisms."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "text": "Carbon forms ____ chemical bonds, whereas nitrogen forms _____ , hydrogen forms _____ , and oxygen forms _____ .",
+      "options": [
+        "1, 2, 3, 4",
+        "2, 3, 4, 1",
+        "4, 3, 1, 2",
+        "4, 3, 2, 1"
+      ],
+      "answer": "4, 3, 1, 2",
+      "explanation": "Typically, carbon forms 4 covalent bonds, nitrogen forms 3, hydrogen forms 1, and oxygen forms 2 to achieve stable electron configurations."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "text": "Which are the components found in starch?",
+      "options": [
+        "cellulose and glycogen",
+        "amylose and glycogen",
+        "amylose and amylopectin",
+        "glucosamine and muramic acid"
+      ],
+      "answer": "amylose and amylopectin",
+      "explanation": "Starch is a polysaccharide composed of two glucose polymers: amylose (a linear chain) and amylopectin (a branched chain)."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "text": "What is the best description of a FAME molecule?",
+      "options": [
+        "produces a mass spectrum to compare with references without requiring HPLC",
+        "uses HPLC, digestion, then mass spectrometry",
+        "produces gas chromatograms of fatty acids to compare with references",
+        "uses saponification to release fatty acids for further analysis to produce gas chromatograms"
+      ],
+      "answer": "produces gas chromatograms of fatty acids to compare with references",
+      "explanation": "FAME (Fatty Acid Methyl Ester) analysis involves converting fatty acids into their methyl esters, which are volatile and can be separated and identified using gas chromatography (GC). The resulting chromatogram is a profile used for microbial identification."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "text": "Folded proteins that are fully functional in their normal biological role are said to possess a native structure. When a protein loses its three-dimensional shape, it may no longer be functional. These unfolded proteins are _________________ .",
+      "options": [
+        "denatured",
+        "unnatured",
+        "renatured",
+        "full"
+      ],
+      "answer": "denatured",
+      "explanation": "Denaturation is the process where a protein loses its native, functional three-dimensional structure due to factors like heat, pH changes, or chemicals."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "text": "What type of macromolecule is chitin?",
+      "options": [
+        "protein",
+        "lipid",
+        "carbohydrate",
+        "nucleic acid"
+      ],
+      "answer": "carbohydrate",
+      "explanation": "Chitin is a complex polysaccharide, a type of carbohydrate, that forms the cell walls of fungi and the exoskeletons of arthropods."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "text": "Amino acids may chemically bond together by reaction of the carboxylic acid group of one molecule with the amine group of another. This reaction forms a ________bond and a water molecule and is an example of a ___________ synthesis.",
+      "options": [
+        "peptide, dehydration",
+        "covalent, dehydration",
+        "hydration, peptide",
+        "hydrogen, dehydration"
+      ],
+      "answer": "peptide, dehydration",
+      "explanation": "Amino acids are linked by peptide bonds, formed through a dehydration synthesis reaction where a molecule of water is removed."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "text": "Molecules with the same atomic makeup but different structural arrangement of atoms are called ________________ .",
+      "options": [
+        "allosterics",
+        "consomers",
+        "organics",
+        "isomers"
+      ],
+      "answer": "isomers",
+      "explanation": "Isomers are compounds that have the same molecular formula (same types and numbers of atoms) but differ in their structural arrangement."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "text": "An aldehyde functional group contains which of the following?",
+      "options": [
+        "lipids",
+        "amino acids",
+        "carbohydrates",
+        "proteins"
+      ],
+      "answer": "carbohydrates",
+      "explanation": "Aldehyde functional groups (-CHO) are characteristic of aldose sugars, which are a class of carbohydrates (e.g., glucose)."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "text": "By definition, carbohydrates contain which elements?",
+      "options": [
+        "carbon and oxygen",
+        "carbon and hydrogen",
+        "carbon, hydrogen, and oxygen",
+        "carbon, hydrogen, and nitrogen"
+      ],
+      "answer": "carbon, hydrogen, and oxygen",
+      "explanation": "Carbohydrates are organic molecules primarily composed of carbon, hydrogen, and oxygen, often with a general formula of (CH2O)n."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "text": "The earth is estimated to be ______  billion years old, but for the first 2 billion years, the atmosphere lacked ______________ , without which the earth could not support life as we know it.",
+      "options": [
+        "2.6, oxygen",
+        "4.6, oxygen",
+        "4.6, hydrogen",
+        "10, carbon"
+      ],
+      "answer": "4.6, oxygen",
+      "explanation": "The Earth is approximately 4.5-4.6 billion years old. For the first ~2 billion years, its atmosphere was anoxic (lacking free oxygen)."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "text": "Which of the following is not true of triglycerides?",
+      "options": [
+        "They are hydrophobic.",
+        "They are a type of phospholipid.",
+        "They are considered simple lipids.",
+        "They contain glycerol and three fatty acids."
+      ],
+      "answer": "They are a type of phospholipid.",
+      "explanation": "Triglycerides are simple lipids made of glycerol and three fatty acids and are hydrophobic. Phospholipids contain a phosphate group and usually two fatty acids, making them amphipathic."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "text": " In a dehydration synthesis reaction, two molecules of glucose can be linked together to form maltose. In the process, a ________________ molecule is formed.",
+      "options": [
+        "fructose",
+        "carbon",
+        "water",
+        "agronium"
+      ],
+      "answer": "water",
+      "explanation": "Dehydration synthesis reactions involve the removal of a water molecule to form a covalent bond between monomers. The formation of maltose from two glucose units releases one water molecule."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "text": "The most abundant biomolecules on earth are ___________________ .",
+      "options": [
+        "nucleic acids",
+        "lipids",
+        "proteins",
+        "carbohydrates"
+      ],
+      "answer": "carbohydrates",
+      "explanation": "Carbohydrates, particularly cellulose in plants, are the most abundant organic biomolecules on Earth by mass."
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "text": "The simplest carbohydrates are called ____________________ , or simple sugars.",
+      "options": [
+        "lipids",
+        "monosaccharides",
+        "trisaccharides",
+        "disaccharides"
+      ],
+      "answer": "monosaccharides",
+      "explanation": "Monosaccharides (e.g., glucose, fructose, galactose) are the simplest form of carbohydrates and are also known as simple sugars."
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "text": "The long hydrocarbon chain, fatty acids are ________________ or nonpolar.",
+      "options": [
+        "hydrophobic",
+        "osmotic",
+        "hydrophilic",
+        "glycolic"
+      ],
+      "answer": "hydrophobic",
+      "explanation": "The long hydrocarbon tails of fatty acids are nonpolar, making them insoluble in water, hence hydrophobic."
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "text": "Organic molecules must all contain this element:",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon",
+        "Nitrogen"
+      ],
+      "answer": "Carbon",
+      "explanation": "Organic molecules are defined by the presence of carbon atoms, typically bonded to hydrogen and other elements."
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "text": "Generally, the approximate number of amino acids is designated: _________________ are formed by joining up to approximately 20 amino acids, whereas polypeptides are synthesized from up to approximately _______  amino acids.",
+      "options": [
+        "oligopeptides, 20",
+        "bipeptide, 20",
+        "monopeptides, 50",
+        "oligopeptides, 50"
+      ],
+      "answer": "oligopeptides, 50",
+      "explanation": "Oligopeptides are short chains of amino acids (typically 2-20, though some definitions extend towards 50). Polypeptides are longer chains. This option provides a common distinction."
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "text": "Which of these elements is not a micronutrient?",
+      "options": [
+        "Cu",
+        "Ca",
+        "Co",
+        "C"
+      ],
+      "answer": "C",
+      "explanation": "Carbon (C) is a macronutrient, forming the backbone of all organic molecules. Copper (Cu), Calcium (Ca), and Cobalt (Co) are micronutrients, required in smaller amounts (though Ca is sometimes borderline macro/micro)."
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "text": "Which of the following is the name for molecules whose structures are nonsuperimposable mirror images?",
+      "options": [
+        "monomers",
+        "polymers",
+        "enantiomers",
+        "structural isomers"
+      ],
+      "answer": "enantiomers",
+      "explanation": "Enantiomers are stereoisomers that are nonsuperimposable mirror images of each other, like left and right hands."
+    }
+  ]
+}

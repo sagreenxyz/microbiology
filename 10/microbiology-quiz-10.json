@@ -1,0 +1,266 @@
+{
+  "title": "Microbiology Quiz - Chapter 10 Questions",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "text": "In what year was observed the separation of chromosomes into daughter cells during meiosis?",
+      "options": [
+        "1902",
+        "1899",
+        "1866",
+        "1920"
+      ],
+      "answer": "1902",
+      "explanation": "The chromosomal theory of inheritance, which includes observations of chromosome separation during meiosis, was significantly advanced by the work of Walter Sutton and Theodor Boveri around 1902."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "text": "Which of the following are the five different nucleotide bases composing nucleic acid?",
+      "options": [
+        "thymine",
+        "all of these",
+        "andenine",
+        "cytosine",
+        "guanine"
+      ],
+      "answer": "all of these",
+      "explanation": "The five common nitrogenous bases found in nucleic acids (DNA and RNA) are adenine (A), guanine (G), cytosine (C), thymine (T) (in DNA), and uracil (U) (in RNA). The options provided (adenine, cytosine, guanine, thymine) are all nucleotide bases."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "text": "The full collection of genes that a cell contains within its genome is called its _________________ .",
+      "options": [
+        "genotype",
+        "heterozygous",
+        "phenotype",
+        "homologous"
+      ],
+      "answer": "genotype",
+      "explanation": "The genotype refers to the complete set of genes within an organism's genome. The phenotype refers to the observable characteristics resulting from the expression of these genes."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "text": "The length of a chromosome greatly exceeds the length of the cell, so a chromosome needs to be packaged into a very small space to fit within the cell.  The DNA wraps itself around a particular molecule known as ________________ .",
+      "options": [
+        "gene",
+        "diploid",
+        "nucleus",
+        "histone"
+      ],
+      "answer": "histone",
+      "explanation": "In eukaryotes, DNA is tightly packaged by wrapping around proteins called histones, forming structures called nucleosomes, which help condense the DNA to fit within the nucleus."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "text": "RNA is typically single stranded and is made of ____________________  that are linked by phosphodiester bonds.",
+      "options": [
+        "ribosomes",
+        "replications",
+        "rheostats",
+        "ribonucleotides"
+      ],
+      "answer": "ribonucleotides",
+      "explanation": "RNA (ribonucleic acid) is a polymer made of ribonucleotide monomers, which are linked together by phosphodiester bonds."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "text": "Which describes a stable change in gene expression without changing the base sequence?",
+      "options": [
+        "mutation",
+        "epigenetics",
+        "transformation",
+        "replication"
+      ],
+      "answer": "epigenetics",
+      "explanation": "Epigenetics refers to heritable changes in gene expression that do not involve alterations to the underlying DNA sequence itself, such as DNA methylation or histone modification."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "text": "What is the intermediary between DNA and its protein products?",
+      "options": [
+        "messenger RNA (mRNA)",
+        "ribosomal RNA (rRNA)",
+        "intermediate RNA (iRNA)",
+        "transfer RNA (tRNA)"
+      ],
+      "answer": "messenger RNA (mRNA)",
+      "explanation": "Messenger RNA (mRNA) carries the genetic information transcribed from DNA to the ribosomes, where it serves as a template for protein synthesis."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "text": "Who was the Austrian monk and botanist that was experimenting with garden peas, demonstrating and documenting basic patterns of inheritance?",
+      "options": [
+        "Johann Gregor Mendel",
+        "Albrecht Kossel",
+        "Albert Einstein",
+        "Friedrich Miescher"
+      ],
+      "answer": "Johann Gregor Mendel",
+      "explanation": "Johann Gregor Mendel is known as the father of modern genetics for his experiments with pea plants, which established the fundamental principles of inheritance."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "text": "What work is Barbara McClintock best known for?",
+      "options": [
+        "developed the rules that A=T and C=G in double-stranded DNA",
+        "identified transposons",
+        "first used the term “nucleic acid” for DNA and RNA",
+        "used X-ray diffraction to produce images that were critical to determining the structure of DNA"
+      ],
+      "answer": "identified transposons",
+      "explanation": "Barbara McClintock received the Nobel Prize for her discovery of mobile genetic elements called transposons (jumping genes) in maize."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "text": "In April 1953, Watson and Crick published their model of the DNA double helix in what journal?",
+      "options": [
+        "Nature",
+        "Science",
+        "Journal of the American Medical Association",
+        "Scientific American"
+      ],
+      "answer": "Nature",
+      "explanation": "James Watson and Francis Crick published their groundbreaking paper describing the double helix structure of DNA in the journal Nature in April 1953."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "text": "Which best describes the mitochondrial DNA chromosome?",
+      "options": [
+        "It is circular.",
+        "It lacks thymine.",
+        "It is viral.",
+        "It is identical to chloroplast DNA."
+      ],
+      "answer": "It is circular.",
+      "explanation": "Mitochondrial DNA (mtDNA) in most eukaryotes is a circular molecule, similar to bacterial chromosomes, reflecting its endosymbiotic origin. It contains thymine."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "text": "Which term best describes the DNA in chloroplasts?",
+      "options": [
+        "extrachromosomal",
+        "single stranded",
+        "viral",
+        "noncoding"
+      ],
+      "answer": "extrachromosomal",
+      "explanation": "Chloroplast DNA, like mitochondrial DNA, is considered extrachromosomal because it is located outside the nucleus and replicates independently of the nuclear genome. It is typically circular and double-stranded."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "text": "Why was the alga Acetabularia a good model organism for Joachim Hämmerling to use to identify the location of genetic material?",
+      "options": [
+        "It lacks a nuclear membrane.",
+        "It self-fertilizes.",
+        "It makes a protein capsid.",
+        "It is a large, asymmetrical, single cell easy to see with the naked eye."
+      ],
+      "answer": "It is a large, asymmetrical, single cell easy to see with the naked eye.",
+      "explanation": "Acetabularia's large size and distinct morphology (foot, stalk, cap) allowed Hämmerling to perform grafting experiments, demonstrating the nucleus (located in the foot) contained the genetic information determining the cap's structure."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "text": "What is the best description for the nitrogenous base cytosine?",
+      "options": [
+        "a purine that binds with cytosine",
+        "a pyrimidine that binds with guanine",
+        "a pyrimidine that binds with adenine",
+        "a purine that binds with thymine"
+      ],
+      "answer": "a pyrimidine that binds with guanine",
+      "explanation": "Cytosine (C) is a pyrimidine base that forms three hydrogen bonds with the purine base guanine (G) in DNA and RNA."
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "text": "Frederick Griffith infected mice with a combination of dead R and live S bacterial strains. What was the outcome, and why did it occur?",
+      "options": [
+        "The mice will live. Transformation was not required.",
+        "The mice will die. Transformation was not required.",
+        "The mice will die. Transformation of genetic material from R to S was required.",
+        "The mice will live. Transformation of genetic material from S to R was required."
+      ],
+      "answer": "The mice will die. Transformation was not required.",
+      "explanation": "This question seems to misstate Griffith's experiment. If it refers to dead S (smooth, virulent) and live R (rough, non-virulent) strains, the mice die due to transformation of live R cells by genetic material from dead S cells. If it means dead R and live S, the live S strain is virulent and will kill the mice on its own, no transformation needed from R."
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "text": "Which of the following best describes the results from Hershey and Chase’s experiment using bacterial viruses with 35S-labeled proteins or 32P-labeled DNA that are consistent with protein being the molecule responsible for hereditary?",
+      "options": [
+        "After infection with the 35S-labeled viruses and centrifugation, only the pellet would be radioactive.",
+        "After infection with the 32P-labeled viruses and centrifugation, only the pellet would be radioactive.",
+        "After infection with the 32P-labeled viruses and centrifugation, both the pellet and the supernatant would be radioactive.",
+        "After infection with the 35S-labeled viruses and centrifugation, both the pellet and the supernatant would be radioactive."
+      ],
+      "answer": "After infection with the 35S-labeled viruses and centrifugation, only the pellet would be radioactive.",
+      "explanation": "If protein were the hereditary material, the 35S-labeled protein coat would enter the bacteria (pellet). Hershey and Chase found 32P (DNA) in the pellet and 35S (protein) mostly in the supernatant, supporting DNA as the genetic material. This option describes the *opposite* of what would support protein as genetic material based on their actual findings."
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "text": "Which method did Morgan and colleagues use to show that hereditary information was carried on chromosomes?",
+      "options": [
+        "mutations resulting in distinct defects in metabolic enzymatic pathways",
+        "transformation of nonpathogenic bacteria to pathogenic bacteria",
+        "correlations between microscopic observations of chromosomal movement and the characteristics of offspring",
+        "statistical predictions of the outcomes of crosses using true-breeding parents"
+      ],
+      "answer": "correlations between microscopic observations of chromosomal movement and the characteristics of offspring",
+      "explanation": "Thomas Hunt Morgan's work with Drosophila (fruit flies) linked specific traits (like eye color) to sex chromosomes, correlating inheritance patterns with chromosome behavior observed microscopically, thus supporting the chromosomal theory of inheritance."
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "text": "According to Beadle and Tatum’s “one gene–one enzyme” hypothesis, which of the following enzymes will eliminate the transformation of hereditary material from pathogenic bacteria to nonpathogenic bacteria?",
+      "options": [
+        "ribonucleases",
+        "carbohydrate-degrading enzymes",
+        "proteinases",
+        "deoxyribonucleases"
+      ],
+      "answer": "deoxyribonucleases",
+      "explanation": "This question relates more to the Avery-MacLeod-McCarty experiment. Deoxyribonucleases degrade DNA. If DNA is the transforming principle (hereditary material), then treating the extract from pathogenic bacteria with deoxyribonuclease would prevent transformation of nonpathogenic bacteria. Beadle and Tatum's hypothesis linked genes to enzymes involved in metabolic pathways."
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "text": "Plasmids are typically transferred among members of a bacterial community by ________ gene transfer.",
+      "options": [
+        "vertical",
+        "interchangeable",
+        "bilateral",
+        "horizontal"
+      ],
+      "answer": "horizontal",
+      "explanation": "Horizontal gene transfer (HGT) is the movement of genetic material between unicellular and/or multicellular organisms other than by the (\"vertical\") transmission of DNA from parent to offspring. Plasmid transfer via conjugation is a common form of HGT in bacteria."
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "text": "Which of the following is not found within DNA?",
+      "options": [
+        "phosphodiester bonds",
+        "thymine",
+        "amino acids",
+        "complementary base pairing"
+      ],
+      "answer": "amino acids",
+      "explanation": "DNA is composed of deoxyribonucleotides (containing bases like thymine), linked by phosphodiester bonds, and exhibits complementary base pairing. Amino acids are the building blocks of proteins, not DNA."
+    }
+  ]
+}

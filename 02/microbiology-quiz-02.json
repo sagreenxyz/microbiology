@@ -1,0 +1,269 @@
+{
+  "title": "Microbiology Quiz - Chapter 2 Questions",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "text": "You place a specimen under the microscope and notice that parts of the specimen begin to emit light immediately. These materials can be described as _____________.",
+      "options": [
+        "fluorescent",
+        "transparent",
+        "opaque",
+        "phosphorescent"
+      ],
+      "answer": "fluorescent",
+      "explanation": "Fluorescent materials absorb light at one wavelength and then emit light at a longer wavelength almost immediately."
+    },
+    {
+      "id": 2,
+      "type": "select all that apply",
+      "text": "There is some debate over who invented the microscope. Explain why this debate exists and what factors help some individuals get more credit for their roles than others. (check all that apply)",
+      "options": [
+        "Galileo, Antonie van Leeuwenhoek and Robert Hooke seem to gain the most popularity with this debate.",
+        "The work of Hans Janssen and Zaccharias Janssen was not published.",
+        "Leeuwenhoek and Hooke published their work.",
+        "The work of Hans Janssen and Zaccharias Janssen was published."
+      ],
+      "answer": [
+        "Galileo, Antonie van Leeuwenhoek and Robert Hooke seem to gain the most popularity with this debate.",
+        "The work of Hans Janssen and Zaccharias Janssen was not published.",
+        "Leeuwenhoek and Hooke published their work."
+      ],
+      "explanation": "The debate over the invention of the microscope exists because early developments were often poorly documented or not widely disseminated. Publication of findings, like those by Leeuwenhoek and Hooke, played a significant role in attributing credit."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "text": "Specimens for TEM are prepared by doing which of the following?",
+      "options": [
+        "sputter coating with a substance such as gold to repel electrons.",
+        "dehydrating the specimen in ethanol and then coating it in a material that will repel electrons.",
+        "using chemical fixation, followed by standard staining techniques such as the Gram stain.",
+        "using an ultramicrotome to cut very thin sections from samples embedded in plastic resin."
+      ],
+      "answer": "using an ultramicrotome to cut very thin sections from samples embedded in plastic resin.",
+      "explanation": "For Transmission Electron Microscopy (TEM), specimens must be extremely thin to allow electrons to pass through them. This is typically achieved by embedding the specimen in resin and cutting ultra-thin sections with an ultramicrotome."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "text": "Electromagnetic radiation (EMR), a type of energy that is all around us can be found in the form of:",
+      "options": [
+        "X rays",
+        "Radio Waves",
+        "Visible light",
+        "all of these are types of EMR"
+      ],
+      "answer": "all of these are types of EMR",
+      "explanation": "The electromagnetic spectrum encompasses a wide range of radiation types, including X-rays, radio waves, and visible light, all of which are forms of EMR."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "text": "The lowest frequency of visible light appears as the color ___________ .",
+      "options": [
+        "yellow",
+        "violet",
+        "blue",
+        "red"
+      ],
+      "answer": "red",
+      "explanation": "In the visible light spectrum, red light has the longest wavelength and thus the lowest frequency."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "text": "When endospores are stained using the Schaeffer-Fulton method, which of the following correctly describes how they appear after staining?",
+      "options": [
+        "The entire cell appears pink except for a clear area representing the endospore.",
+        "The entire cell appears green because the endospore surrounds all the vegetative material.",
+        "The entire cell appears pink because the endospore surrounds all the vegetative material.",
+        "The endospore appears green within a pink cell, because only the endospore retained the primary stain."
+      ],
+      "answer": "The endospore appears green within a pink cell, because only the endospore retained the primary stain.",
+      "explanation": "In the Schaeffer-Fulton endospore stain, malachite green (primary stain) is driven into the endospore with heat. The vegetative cell is then decolorized and counterstained pink/red with safranin."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "text": "Light can change speed when passing through one material to the next.",
+      "options": [
+        "This question has no answer",
+        "This is sometimes true",
+        "This is false",
+        "This is true"
+      ],
+      "answer": "This is true",
+      "explanation": "The speed of light changes as it passes from one medium to another with a different refractive index. This phenomenon is responsible for refraction."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "text": "Compared with air, water has a(n) ___________ refractive index.",
+      "options": [
+        "zero",
+        "lower",
+        "higher",
+        "equal"
+      ],
+      "answer": "higher",
+      "explanation": "Water has a higher refractive index (approx. 1.33) than air (approx. 1.00), meaning light travels slower in water and bends more when entering it from air."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "text": "Which of the following has the highest energy?",
+      "options": [
+        "light with an intermediate wavelength",
+        "light with a short wavelength",
+        "light with a long wavelength",
+        "It is impossible to tell from the information given."
+      ],
+      "answer": "light with a short wavelength",
+      "explanation": "The energy of electromagnetic radiation is inversely proportional to its wavelength. Therefore, shorter wavelengths correspond to higher energy."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "text": "Differential staining techniques commonly used in clinical settings include:",
+      "options": [
+        "none of these",
+        "Ectospore staining",
+        "both of these",
+        "Gram staining"
+      ],
+      "answer": "Gram staining",
+      "explanation": "Gram staining is a fundamental differential stain used in clinical microbiology to classify bacteria based on their cell wall composition."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "text": "Why can electron microscopes achieve higher resolutions than light microscopes?",
+      "options": [
+        "Using electrons are less expensive and better and light.",
+        "Electron microscopes have rheostats and adjusting this makes for better resolution.",
+        "Resolution is higher when there are longer wavelengths.",
+        "Resolution is higher when there are shorter wavelengths."
+      ],
+      "answer": "Resolution is higher when there are shorter wavelengths.",
+      "explanation": "The resolution of a microscope is inversely related to the wavelength of the illumination source. Electrons have much shorter wavelengths than visible light, allowing electron microscopes to achieve significantly higher resolution."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "text": "Certain______________  dyes absorb ultraviolet or blue light and then use the energy to emit photons of a different color, giving off light rather than simply vibrating.",
+      "options": [
+        "fluorescent",
+        "cosmic",
+        "gamma",
+        "violet"
+      ],
+      "answer": "fluorescent",
+      "explanation": "Fluorescent dyes (fluorochromes) absorb light at a specific wavelength (excitation) and emit light at a longer wavelength (emission)."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "text": "A magnification of 10⨯ means that the image appears _____ times the size of the object as viewed with the naked eye.",
+      "options": [
+        "100",
+        "10",
+        "1",
+        "1000"
+      ],
+      "answer": "10",
+      "explanation": "Magnification power (e.g., 10⨯) indicates how many times larger the image appears compared to the object's actual size."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "text": "Which of these are examples of light microscopes?",
+      "options": [
+        "brightfield microscopes",
+        "all of these are types of light microscopes",
+        "darkfield microscope",
+        "phase-contrast microscopes"
+      ],
+      "answer": "all of these are types of light microscopes",
+      "explanation": "Brightfield, darkfield, and phase-contrast microscopes are all common types of light microscopes that use visible light to illuminate specimens."
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "text": "If a 10⨯ objective lens is selected and the ocular lens is 10⨯, the total magnification would be",
+      "options": [
+        "10,000",
+        "10",
+        "100",
+        "1,000"
+      ],
+      "answer": "100",
+      "explanation": "Total magnification is calculated by multiplying the magnification of the ocular lens by the magnification of the objective lens (10 ⨯ 10 = 100⨯)."
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "text": "If less-than-maximal light levels are needed, the amount of light striking the specimen can be easily adjusted by opening or closing a_______________ between the condenser and the specimen.",
+      "options": [
+        "rheostat",
+        "illuminator",
+        "condenser",
+        "diaphragm"
+      ],
+      "answer": "diaphragm",
+      "explanation": "The diaphragm (often an iris diaphragm) is located within the condenser or between the condenser and the specimen, and it controls the angle and amount of light illuminating the specimen."
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "text": "_______________ occurs when a wave bounces off of a material.",
+      "options": [
+        "Absorbance occurs",
+        "Transmittance",
+        "Refraction",
+        "Reflection"
+      ],
+      "answer": "Reflection",
+      "explanation": "Reflection is the phenomenon where a wave, such as light, bounces off the surface of a material."
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "text": "Which would be the best choice for viewing internal structures of a living protist such as a Paramecium?",
+      "options": [
+        "a brightfield microscope with a stain",
+        "a brightfield microscope without a stain",
+        "a darkfield microscope",
+        "a transmission electron microscope"
+      ],
+      "answer": "a darkfield microscope",
+      "explanation": "Darkfield microscopy enhances contrast in unstained, living specimens, making edges and some internal structures visible. Phase-contrast microscopy is also excellent for this purpose. Staining usually kills the organism, and TEM requires extensive preparation."
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "text": "Which type of microscope is especially useful for viewing thick structures such as biofilms?",
+      "options": [
+        "a scanning electron microscopes",
+        "a confocal scanning laser microscope",
+        "an atomic force microscope",
+        "a transmission electron microscope"
+      ],
+      "answer": "a confocal scanning laser microscope",
+      "explanation": "Confocal scanning laser microscopy uses a laser to scan multiple z-planes, allowing for the construction of 3D images of thick specimens like biofilms with good resolution and optical sectioning."
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "text": "What type of microscope uses an annular stop?",
+      "options": [
+        "a scanning electron microscope",
+        "a phase-contrast microscope",
+        "a darkfield microscope",
+        "brightfield microscope"
+      ],
+      "answer": "a phase-contrast microscope",
+      "explanation": "Phase-contrast microscopes use an annular stop (or annulus) in the condenser and a phase plate in the objective lens to convert phase differences in light passing through the specimen into amplitude differences, making unstained, transparent specimens visible."
+    }
+  ]
+}
