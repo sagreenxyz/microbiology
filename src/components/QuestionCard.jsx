@@ -1,7 +1,14 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 
 function QuestionCard({ question, selectedAnswer, onAnswer }) {
   const [showExplanation, setShowExplanation] = useState(false)
+
+  // Automatically show explanation when an answer is selected
+  useEffect(() => {
+    if (selectedAnswer) {
+      setShowExplanation(true)
+    }
+  }, [selectedAnswer])
 
   const handleAnswerSelect = (answer) => {
     onAnswer(answer)
@@ -41,6 +48,13 @@ function QuestionCard({ question, selectedAnswer, onAnswer }) {
           placeholder="Type your answer here..."
           className="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 text-gray-800"
         />
+        <button 
+          onClick={() => setShowExplanation(true)}
+          className="mt-2 bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded"
+          disabled={!selectedAnswer}
+        >
+          Submit Answer
+        </button>
       </div>
     )
   }
@@ -82,6 +96,13 @@ function QuestionCard({ question, selectedAnswer, onAnswer }) {
           className="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 text-gray-800"
           rows={4}
         />
+        <button 
+          onClick={() => setShowExplanation(true)}
+          className="mt-2 bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded"
+          disabled={!selectedAnswer}
+        >
+          Submit Answer
+        </button>
       </div>
     )
   }
@@ -96,6 +117,13 @@ function QuestionCard({ question, selectedAnswer, onAnswer }) {
           className="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 text-gray-800"
           rows={6}
         />
+        <button 
+          onClick={() => setShowExplanation(true)}
+          className="mt-2 bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded"
+          disabled={!selectedAnswer}
+        >
+          Submit Answer
+        </button>
       </div>
     )
   }
@@ -110,34 +138,47 @@ function QuestionCard({ question, selectedAnswer, onAnswer }) {
       onAnswer(newMatchings)
     }
 
+    const allMatched = items.every(pair => matchings[pair.item])
+
     return (
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-        <div className="space-y-2">
-          <h3 className="font-semibold text-gray-800">Items</h3>
-          {items.map((pair, index) => (
-            <div key={index} className="p-2 border rounded bg-gray-50 text-gray-800">
-              {pair.item}
-            </div>
-          ))}
+      <div>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div className="space-y-2">
+            <h3 className="font-semibold text-gray-800">Items</h3>
+            {items.map((pair, index) => (
+              <div key={index} className="p-2 border rounded bg-gray-50 text-gray-800">
+                {pair.item}
+              </div>
+            ))}
+          </div>
+          <div className="space-y-2">
+            <h3 className="font-semibold text-gray-800">Descriptions</h3>
+            {items.map((pair, index) => (
+              <select 
+                key={index}
+                value={matchings[pair.item] || ''}
+                onChange={(e) => handleMatch(pair.item, e.target.value)}
+                className="w-full p-2 border rounded text-gray-800 bg-white"
+              >
+                <option value="">-- Select match --</option>
+                {items.map((p, i) => (
+                  <option key={i} value={p.description}>
+                    {p.description}
+                  </option>
+                ))}
+              </select>
+            ))}
+          </div>
         </div>
-        <div className="space-y-2">
-          <h3 className="font-semibold text-gray-800">Descriptions</h3>
-          {items.map((pair, index) => (
-            <select 
-              key={index}
-              value={matchings[pair.item] || ''}
-              onChange={(e) => handleMatch(pair.item, e.target.value)}
-              className="w-full p-2 border rounded text-gray-800 bg-white"
-            >
-              <option value="">-- Select match --</option>
-              {items.map((p, i) => (
-                <option key={i} value={p.description}>
-                  {p.description}
-                </option>
-              ))}
-            </select>
-          ))}
-        </div>
+        
+        {!showExplanation && allMatched && (
+          <button 
+            onClick={() => setShowExplanation(true)}
+            className="mt-4 bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded"
+          >
+            Submit Answers
+          </button>
+        )}
       </div>
     )
   }
@@ -183,20 +224,10 @@ function QuestionCard({ question, selectedAnswer, onAnswer }) {
         {renderQuestionContent()}
       </div>
       
-      {selectedAnswer && (
-        <div className="mt-4">
-          <button
-            onClick={() => setShowExplanation(!showExplanation)}
-            className="text-blue-700 hover:text-blue-900 text-sm font-medium"
-          >
-            {showExplanation ? 'Hide Explanation' : 'Show Explanation'}
-          </button>
-          
-          {showExplanation && (
-            <div className="mt-2 p-3 bg-blue-50 rounded-lg">
-              <p className="text-sm text-gray-800">{question.explanation}</p>
-            </div>
-          )}
+      {selectedAnswer && showExplanation && (
+        <div className="mt-4 p-4 bg-blue-50 border border-blue-200 rounded-lg">
+          <h3 className="font-semibold text-gray-900 mb-2">Explanation:</h3>
+          <p className="text-gray-800">{question.explanation}</p>
         </div>
       )}
     </div>
