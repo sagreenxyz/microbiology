@@ -416,15 +416,21 @@ function QuestionRenderer({
         )}
       </Box>
       
-      {submitted && showFeedback && feedback && (
+      {submitted && (
         <Box sx={{ mt: 2 }}>
           <Divider sx={{ my: 2 }} />
-          <Alert severity={isCorrect ? "success" : "error"}>
-            {feedback.message}
-          </Alert>
-          {feedback.explanation && (
+          {isCorrect ? (
+            <Alert severity="success">
+              Correct!
+            </Alert>
+          ) : (
+            <Alert severity="error">
+              Incorrect
+            </Alert>
+          )}
+          {question.explanation && (
             <Typography variant="body2" sx={{ mt: 1 }}>
-              <strong>Explanation:</strong> {feedback.explanation}
+              <strong>Explanation:</strong> {question.explanation}
             </Typography>
           )}
         </Box>
