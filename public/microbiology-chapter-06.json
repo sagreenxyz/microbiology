@@ -1,0 +1,389 @@
+{
+  "title": "Microbiology Questions - Chapter 6",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "text": "The component(s) of a virus that is/are extended from the envelope for attachment is/are the:",
+      "options": [
+        "capsomeres",
+        "spikes",
+        "nucleic acid",
+        "viral whiskers"
+      ],
+      "answer": "spikes",
+      "explanation": "Viral spikes (glycoproteins) on the envelope are used for attaching to host cells."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "text": "Which of the following does a virus lack? Select all that apply.",
+      "options": [
+        "ribosomes",
+        "metabolic processes",
+        "nucleic acid",
+        "glycoprotein"
+      ],
+      "answer": ["ribosomes", "metabolic processes"],
+      "explanation": "Viruses lack their own ribosomes and metabolic processes; they rely on the host cell's machinery. They do possess nucleic acid (DNA or RNA) and many have glycoproteins (e.g., spikes)."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "text": "The envelope of a virus is derived from the host’s",
+      "options": [
+        "nucleic acids",
+        "membrane structures",
+        "cytoplasm",
+        "genome"
+      ],
+      "answer": "membrane structures",
+      "explanation": "The viral envelope is acquired from host cell membranes (e.g., plasma membrane, nuclear membrane, or ER membrane) during the budding process."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "text": "In naming viruses, the family name ends with ________ and genus name ends with _________.",
+      "options": [
+        "−virus; −viridae",
+        "−viridae; −virus",
+        "−virion; virus",
+        "−virus; virion"
+      ],
+      "answer": "−viridae; −virus",
+      "explanation": "According to the International Committee on Taxonomy of Viruses (ICTV), family names end in -viridae and genus names end in -virus."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "text": "What is another name for a nonenveloped virus?",
+      "options": [
+        "enveloped virus",
+        "provirus",
+        "naked virus",
+        "latent virus"
+      ],
+      "answer": "naked virus",
+      "explanation": "A nonenveloped virus, which only has a capsid surrounding its nucleic acid, is also referred to as a naked virus."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "text": "Which of the following leads to the destruction of the host cells?",
+      "options": [
+        "lysogenic cycle",
+        "lytic cycle",
+        "prophage",
+        "temperate phage"
+      ],
+      "answer": "lytic cycle",
+      "explanation": "The lytic cycle of viral replication results in the lysis (destruction) of the host cell to release new virions."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "text": "A virus obtains its envelope during which of the following phases?",
+      "options": [
+        "attachment",
+        "penetration",
+        "assembly",
+        "release"
+      ],
+      "answer": "release",
+      "explanation": "Enveloped viruses typically acquire their envelope from the host cell membrane during the release phase, often through a process called budding."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "text": "Which of the following components is brought into a cell by HIV?",
+      "options": [
+        "a DNA-dependent DNA polymerase",
+        "RNA polymerase",
+        "ribosome",
+        "reverse transcriptase"
+      ],
+      "answer": "reverse transcriptase",
+      "explanation": "HIV is a retrovirus and carries its own enzyme, reverse transcriptase, which transcribes its RNA genome into DNA within the host cell."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "text": "A positive-strand RNA virus:",
+      "options": [
+        "must first be converted to a mRNA before it can be translated.",
+        "can be used directly to translate viral proteins.",
+        "will be degraded by host enzymes.",
+        "is not recognized by host ribosomes."
+      ],
+      "answer": "can be used directly to translate viral proteins.",
+      "explanation": "Positive-strand (+RNA) viral RNA is similar to mRNA and can be directly translated by the host cell's ribosomes to produce viral proteins."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "text": "What is the name for the transfer of genetic information from one bacterium to another bacterium by a phage?",
+      "options": [
+        "transduction",
+        "penetration",
+        "excision",
+        "translation"
+      ],
+      "answer": "transduction",
+      "explanation": "Transduction is the process by which bacterial DNA is transferred from one bacterium to another by a bacteriophage (virus that infects bacteria)."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "text": "Which of the followings cannot be used to culture viruses?",
+      "options": [
+        "tissue culture",
+        "liquid medium only",
+        "embryo",
+        "animal host"
+      ],
+      "answer": "liquid medium only",
+      "explanation": "Viruses are obligate intracellular parasites and require living host cells to replicate. They cannot be cultured in acellular liquid medium alone; they need cells provided by tissue culture, embryonated eggs, or live animal hosts."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "text": "Which of the following tests can be used to detect the presence of a specific virus?",
+      "options": [
+        "EIA",
+        "RT-PCR",
+        "PCR",
+        "all of the above"
+      ],
+      "answer": "all of the above",
+      "explanation": "EIA (Enzyme Immunoassay) can detect viral antigens or antibodies. RT-PCR (Reverse Transcriptase PCR) detects RNA viruses. PCR (Polymerase Chain Reaction) detects DNA viruses (or DNA reverse transcribed from RNA viruses). All are used for viral detection."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "text": "Which of the following is NOT a cytopathic effect?",
+      "options": [
+        "transformation",
+        "cell fusion",
+        "mononucleated cell",
+        "inclusion bodies"
+      ],
+      "answer": "mononucleated cell",
+      "explanation": "Cytopathic effects (CPEs) are structural changes in host cells caused by viral invasion. Transformation (uncontrolled cell growth), cell fusion (syncytia formation), and inclusion bodies (viral components or damaged organelles) are CPEs. A mononucleated cell is a normal state for many cells and not inherently a CPE unless referring to an abnormal change induced by a virus."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "text": "Which of these infectious agents do not have nucleic acid?",
+      "options": [
+        "viroids",
+        "viruses",
+        "bacteria",
+        "prions"
+      ],
+      "answer": "prions",
+      "explanation": "Prions are infectious agents composed solely of protein (an abnormally folded prion protein). Viroids are infectious RNA molecules. Viruses have nucleic acid (DNA or RNA). Bacteria have DNA and RNA."
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "text": "Which of the following is true of prions?",
+      "options": [
+        "They can be inactivated by boiling at 100 °C.",
+        "They contain a capsid.",
+        "They are a rogue form of protein, PrP.",
+        "They can be reliably inactivated by an autoclave."
+      ],
+      "answer": "They are a rogue form of protein, PrP.",
+      "explanation": "Prions are infectious proteins (PrPSc) that are misfolded versions of a normal cellular protein (PrPC). They are highly resistant to inactivation by boiling; standard autoclaving may not reliably inactivate them without extended times or higher temperatures/chemicals. They do not contain a capsid."
+    },
+    {
+      "id": 16,
+      "type": "true-false",
+      "text": "Scientists have identified viruses that are able to infect fungal cells.",
+      "answer": "true",
+      "explanation": "Viruses that infect fungi are called mycoviruses. They have been discovered in a wide range of fungal species and can have various effects on their hosts."
+    },
+    {
+      "id": 17,
+      "type": "fill-in-the-blank",
+      "text": "A virus that infects a bacterium is called a/an ___________________.",
+      "answer": ["bacteriophage", "phage"],
+      "explanation": "Bacteriophages, or phages, are viruses that specifically infect bacteria."
+    },
+    {
+      "id": 18,
+      "type": "fill-in-the-blank",
+      "text": "A/an __________ virus possesses characteristics of both a polyhedral and helical virus.",
+      "answer": ["complex"],
+      "explanation": "Complex viruses, like many bacteriophages, have structures that combine features of both icosahedral (polyhedral) heads and helical tails."
+    },
+    {
+      "id": 19,
+      "type": "fill-in-the-blank",
+      "text": "A virus containing only nucleic acid and a capsid is called a/an ___________________ virus or __________________ virus.",
+      "answer": ["naked", "nonenveloped"],
+      "explanation": "Viruses consisting only of a nucleic acid core and a protein capsid are referred to as naked or nonenveloped viruses."
+    },
+    {
+      "id": 20,
+      "type": "fill-in-the-blank",
+      "text": "The ____________ _____________ on the bacteriophage allow for binding to the bacterial cell.",
+      "answer": ["tail fibers"],
+      "explanation": "Tail fibers are structures at the end of a bacteriophage's tail that recognize and bind to specific receptors on the surface of a bacterial cell."
+    },
+    {
+      "id": 21,
+      "type": "fill-in-the-blank",
+      "text": "An enzyme from HIV that can make a copy of DNA from RNA is called _______________________.",
+      "answer": ["reverse transcriptase"],
+      "explanation": "Reverse transcriptase is an enzyme unique to retroviruses like HIV that synthesizes DNA from an RNA template."
+    },
+    {
+      "id": 22,
+      "type": "fill-in-the-blank",
+      "text": "For lytic viruses, _________________ is a phase during a viral growth curve when the virus is not detected.",
+      "answer": ["eclipse phase"],
+      "explanation": "The eclipse phase is the initial period of the viral replication cycle where intact virions are not yet assembled and thus not detectable inside or outside the host cell."
+    },
+    {
+      "id": 23,
+      "type": "fill-in-the-blank",
+      "text": "Viruses can be diagnosed and observed using a(n) _____________ microscope.",
+      "answer": ["electron"],
+      "explanation": "Due to their extremely small size, most viruses can only be visualized using an electron microscope, which offers much higher magnification and resolution than light microscopes."
+    },
+    {
+      "id": 24,
+      "type": "fill-in-the-blank",
+      "text": "Cell abnormalities resulting from a viral infection are called ____________ _____________.",
+      "answer": ["cytopathic effects", "CPEs"],
+      "explanation": "Cytopathic effects are visible changes in host cells caused by viral infection, such as cell lysis, syncytia formation, or inclusion bodies."
+    },
+    {
+      "id": 25,
+      "type": "fill-in-the-blank",
+      "text": "Both viroids and virusoids have a(n) _________ genome, but virusoids require a(n) _________ to reproduce.",
+      "answer": ["RNA", "helper virus"],
+      "explanation": "Viroids are small, circular, single-stranded RNA molecules that cause plant diseases. Virusoids are also small, circular ssRNA molecules, but they require a helper virus for replication and packaging."
+    },
+    {
+      "id": 26,
+      "type": "short-answer",
+      "text": "Discuss the geometric differences among helical, polyhedral, and complex viruses.",
+      "answer": "Helical viruses have a capsid that forms a spiral or helix around the nucleic acid, resulting in a rod-shaped or filamentous virion. Polyhedral viruses, typically icosahedral, have a capsid composed of many triangular faces, forming a roughly spherical shape. Complex viruses have more intricate structures that don't fit neatly into helical or polyhedral categories, often combining elements of both (e.g., bacteriophages with an icosahedral head and a helical tail) or having unique structural components.",
+      "explanation": "Helical viruses are rod-shaped or filamentous. Polyhedral viruses are roughly spherical with icosahedral symmetry. Complex viruses have more intricate structures combining elements or having unique features."
+    },
+    {
+      "id": 27,
+      "type": "short-answer",
+      "text": "What was the meaning of the word “virus” in the 1880s and why was it used to describe the cause of tobacco mosaic disease?",
+      "answer": "In the 1880s, the term 'virus' generally meant 'poison' or 'venom,' often referring to any infectious agent. It was used to describe the cause of tobacco mosaic disease because the agent was filterable (passed through filters that retained bacteria), indicating it was smaller than known bacteria, and it behaved like a poison that could replicate in living tissue, causing disease.",
+      "explanation": "In the 1880s, 'virus' generally meant 'poison' or infectious agent. It was used for the tobacco mosaic disease agent because it was filterable (smaller than bacteria) and behaved like a poison that could replicate in living tissue."
+    },
+    {
+      "id": 28,
+      "type": "short-answer",
+      "text": "Briefly explain the difference between the mechanism of entry of a T-even bacteriophage and an animal virus.",
+      "answer": "A T-even bacteriophage attaches to the bacterial cell wall and injects its DNA into the host cytoplasm, leaving the capsid outside. Animal viruses can enter host cells through different mechanisms: enveloped viruses often fuse their envelope with the host cell membrane or are taken in by endocytosis, while non-enveloped viruses typically enter by endocytosis. In these cases, the entire virion or at least its nucleocapsid enters the cell.",
+      "explanation": "T-even phages inject their DNA into the bacterium, leaving the capsid outside. Animal viruses enter the host cell whole, either by endocytosis or, if enveloped, by membrane fusion."
+    },
+    {
+      "id": 29,
+      "type": "short-answer",
+      "text": "Discuss the difference between generalized and specialized transduction.",
+      "answer": "Generalized transduction occurs when any random piece of bacterial DNA is accidentally packaged into a phage head during the lytic cycle; this phage can then transfer this DNA to another bacterium. Specialized transduction occurs when a temperate phage excises imprecisely from the host chromosome during induction from the lysogenic cycle, taking specific adjacent bacterial genes with it. These specific genes are then transferred when the phage infects a new host.",
+      "explanation": "Generalized transduction: random bacterial DNA fragment is packaged into a phage. Specialized transduction: specific bacterial genes adjacent to the prophage integration site are packaged."
+    },
+    {
+      "id": 30,
+      "type": "short-answer",
+      "text": "Differentiate between lytic and lysogenic cycles.",
+      "answer": "Lytic cycle: The phage replicates and lyses the host cell to release new virions, leading to host cell death. Lysogenic cycle: The phage DNA integrates into the host chromosome (as a prophage) or exists as a plasmid, replicating along with the host cell without immediately causing lysis. The prophage can later be induced to enter the lytic cycle.",
+      "explanation": "Lytic cycle: phage replicates, host cell is destroyed. Lysogenic cycle: phage DNA integrates into host genome (prophage), host cell survives and replicates with prophage; can switch to lytic cycle."
+    },
+    {
+      "id": 31,
+      "type": "short-answer",
+      "text": "Briefly explain the various methods of culturing viruses.",
+      "answer": "Viruses require living host cells for culture. Methods include: 1. In vivo cultivation: Using live animals or plants as hosts. 2. Embryonated eggs: Injecting viruses into different parts of developing chicken (or other) embryos. 3. Cell culture (in vitro): Using primary cell lines or continuous cell lines grown in sterile laboratory medium. Bacteriophages can be cultured by growing them on a lawn of susceptible bacteria on agar plates, where they form plaques.",
+      "explanation": "Methods include using live animal or plant hosts (in vivo), embryonated eggs, and cell/tissue cultures (in vitro). Bacteriophages are grown on bacterial lawns."
+    },
+    {
+      "id": 32,
+      "type": "short-answer",
+      "text": "Describe the disease symptoms observed in animals infected with prions.",
+      "answer": "Prion diseases (transmissible spongiform encephalopathies) in animals cause progressive neurodegeneration. Symptoms include: behavioral changes (e.g., aggression, nervousness, ataxia - loss of coordination), tremors, muscle wasting, and eventually dementia and death. The brain tissue develops a characteristic spongy appearance due to vacuole formation and neuronal loss. Examples include scrapie in sheep/goats, bovine spongiform encephalopathy (BSE or 'mad cow disease') in cattle, and chronic wasting disease (CWD) in deer and elk.",
+      "explanation": "Prion diseases cause progressive neurodegeneration, leading to symptoms like ataxia, behavioral changes, dementia, and eventually death. Brain tissue shows spongiform changes."
+    },
+    {
+      "id": 33,
+      "type": "critical-thinking",
+      "text": "Name each labeled part of the illustrated bacteriophage.An illustrated bacteriophage is shown. There are arrows pointing to its different parts labeled A, B, C, and D.",
+      "answer": "Assuming a typical T-even bacteriophage structure: A likely points to the capsid (head) containing the nucleic acid. B likely points to the sheath (surrounding the core of the tail). C likely points to the tail fibers (used for attachment). D likely points to the base plate (at the end of the tail, to which tail fibers are attached). (Actual labels would depend on the specific illustration provided in Figure 6.26 if it were available).",
+      "explanation": "A typical bacteriophage has a capsid (head), a sheath, a base plate, and tail fibers. The specific labels A, B, C, D would correspond to these parts depending on the illustration."
+    },
+    {
+      "id": 34,
+      "type": "critical-thinking",
+      "text": "In terms of evolution, which do you think arises first? The virus or the host? Explain your answer.",
+      "answer": "The host likely arose first. Viruses are obligate intracellular parasites, meaning they require a living host cell to replicate. They lack the machinery for self-replication and metabolism. Therefore, host cells must have existed before viruses could emerge and utilize them. There are several hypotheses for viral origins (e.g., escape hypothesis, reduction hypothesis, virus-first hypothesis), but the dependence of all known viruses on cellular life strongly suggests hosts preceded viruses.",
+      "explanation": "Hosts likely evolved first. Viruses are obligate intracellular parasites and depend on host cellular machinery for replication. This dependency implies that host cells must have existed before viruses could utilize them."
+    },
+    {
+      "id": 35,
+      "type": "critical-thinking",
+      "text": "Do you think it is possible to create a virus in the lab? Imagine that you are a mad scientist. Describe how you would go about creating a new virus.",
+      "answer": "Yes, it is possible to synthesize viruses in the lab, and this has been done (e.g., poliovirus was synthesized from its known genetic sequence). To create a new virus, a 'mad scientist' might: 1. Design or obtain a viral genome (DNA or RNA) encoding essential viral proteins (capsid, replication enzymes, etc.). This could be done by synthesizing a known sequence, modifying an existing viral genome, or even attempting to create a novel sequence. 2. Introduce this genetic material into susceptible host cells. This could be done via transfection or by packaging the genome into viral particles if components are available. 3. If the genetic material is functional and the host cell provides necessary factors, the cell's machinery would be hijacked to produce viral components, which would then assemble into new virions. Ethical considerations and safety (biosafety levels) are paramount in such research.",
+      "explanation": "Yes, viruses can be synthesized in a lab if their genetic sequence is known and can be introduced into host cells. This involves creating the viral nucleic acid and getting it into a host cell that can replicate it and produce viral proteins for assembly. This is a complex process with significant ethical and safety implications."
+    },
+    {
+      "id": 36,
+      "type": "critical-thinking",
+      "text": "Label the five stages of a bacteriophage infection in the figure:A shows the bacteriophage sitting on the outside of the cell; the phage DNA is inside the phage. The host cell shows host DNA. B shows phage DNA entering host. C shows phage DNA replicates as well as protein particles. D shows new bacteriophages forming. E shows new phage particles exiting host bacterial cell.",
+      "answer": "A: Attachment (Adsorption) - Phage attaches to the host cell surface. B: Penetration (Entry) - Phage injects its DNA into the host cell. C: Biosynthesis (Replication) - Phage DNA replicates, and phage proteins are synthesized using host machinery. D: Maturation (Assembly) - New phage particles are assembled from the replicated DNA and synthesized proteins. E: Lysis (Release) - The host cell lyses, releasing the newly formed phage particles.",
+      "explanation": "The five stages are: A - Attachment, B - Penetration, C - Biosynthesis, D - Maturation, E - Lysis/Release."
+    },
+    {
+      "id": 37,
+      "type": "critical-thinking",
+      "text": "Bacteriophages have lytic and lysogenic cycles. Discuss the advantages and disadvantages for the phage.",
+      "answer": "Lytic Cycle: Advantage - Rapid multiplication and release of many progeny phages, leading to quick spread if susceptible hosts are abundant. Disadvantage - Kills the host cell, so if hosts are scarce, the phage may not find a new host and could die out. Lysogenic Cycle: Advantage - Allows the phage to persist in a dormant state (prophage) within the host genome, replicating along with the host without killing it. This is beneficial when host cells are scarce or under stress. The prophage can confer new properties to the host (lysogenic conversion). Disadvantage - Slower replication compared to the lytic cycle, as it relies on host cell division. The phage does not immediately produce new infectious particles.",
+      "explanation": "Lytic: Advantage - rapid replication, many progeny. Disadvantage - kills host, needs abundant hosts. Lysogenic: Advantage - phage survives in dormant state when hosts are scarce, replicates with host, can confer new traits to host. Disadvantage - slower, no immediate new phage production."
+    },
+    {
+      "id": 38,
+      "type": "critical-thinking",
+      "text": "How does reverse transcriptase aid a retrovirus in establishing a chronic infection?",
+      "answer": "Reverse transcriptase is an enzyme that transcribes the retroviral RNA genome into a DNA copy (provirus). This proviral DNA can then integrate into the host cell's chromosome. Once integrated, the provirus becomes a permanent part of the host's genetic material. It is replicated along with the host cell's DNA during cell division and can remain latent or be transcribed to produce new viral particles over a long period. This stable integration and potential for long-term, low-level viral production or latency contributes to the establishment of a chronic infection.",
+      "explanation": "Reverse transcriptase converts the viral RNA genome into DNA. This DNA copy (provirus) can then integrate into the host cell's chromosome, becoming a permanent part of the host's genome. This allows the virus to persist, replicate with the host cell, and potentially produce virus particles over a long period, leading to chronic infection."
+    },
+    {
+      "id": 39,
+      "type": "critical-thinking",
+      "text": "Discuss some methods by which plant viruses are transmitted from a diseased plant to a healthy one.",
+      "answer": "Plant viruses can be transmitted through: 1. Mechanical transmission: Via wounds caused by handling, tools, or natural abrasion, allowing sap from an infected plant to contact a healthy one. 2. Vectors: Insects (e.g., aphids, whiteflies, leafhoppers), nematodes, fungi, or mites can carry viruses from one plant to another while feeding. 3. Vegetative propagation: Using infected plant parts (cuttings, grafts, tubers) to grow new plants. 4. Seed transmission: Some viruses can be transmitted through infected seeds. 5. Pollen transmission: Some viruses can be transmitted via infected pollen.",
+      "explanation": "Plant viruses are transmitted via: mechanical means (e.g., contaminated tools, physical damage), vectors (insects, nematodes, fungi), vegetative propagation (using infected plant material), infected seeds, and infected pollen."
+    },
+    {
+      "id": 40,
+      "type": "critical-thinking",
+      "text": "Label the components indicated by arrows.\nA plate with a smooth beige background labeled (A). There are holes in this background; these holes are labeled B.\nFigure 6.27 (credit: modification of work by American Society for Microbiology)",
+      "answer": "A: Lawn of bacteria (confluent bacterial growth on an agar plate). B: Plaques (clear zones formed by bacteriophage lysis of bacterial cells).",
+      "explanation": "A represents the continuous layer of bacterial growth, known as a bacterial lawn. B represents plaques, which are clear areas within the lawn where bacteriophages have lysed the bacteria."
+    },
+    {
+      "id": 41,
+      "type": "critical-thinking",
+      "text": "What are some characteristics of the viruses that are similar to a computer virus?",
+      "answer": "Similarities include: 1. Replication: Both replicate themselves – biological viruses hijack host cells, computer viruses make copies of their code. 2. Host dependence: Both require a host system (biological cell or computer system) to function and replicate. 3. Transmission: Both can spread from one host to another (e.g., biological viruses via aerosols or contact, computer viruses via networks or infected media). 4. Harmful effects: Both can cause damage to their host system (disease in organisms, data corruption or system malfunction in computers). 5. Specificity: Some biological viruses are host-specific; some computer viruses target specific operating systems or applications. 6. Dormancy/Latency: Both can remain dormant for a period before becoming active.",
+      "explanation": "Similarities include: self-replication, host dependency, modes of transmission, potential to cause harm/damage to the host system, and the ability to remain dormant or latent."
+    },
+    {
+      "id": 42,
+      "type": "critical-thinking",
+      "text": "Does a prion replicate? Explain.",
+      "answer": "A prion does not replicate in the same way that viruses or cellular organisms do (i.e., by synthesizing new copies of its own genetic material). Instead, a prion (PrPSc), which is an abnormally folded protein, propagates by inducing normal cellular prion proteins (PrPC) to misfold into the abnormal PrPSc conformation. This conversion process is like a chain reaction: the newly formed PrPSc can then convert more PrPC molecules. So, it's a process of conformational change and templated misfolding, rather than replication of genetic material.",
+      "explanation": "Prions do not replicate by synthesizing new genetic material. Instead, the abnormal prion protein (PrPSc) induces normal cellular prion proteins (PrPC) to misfold into the abnormal PrPSc form. This is a conformational conversion process, not true replication."
+    }
+  ]
+}

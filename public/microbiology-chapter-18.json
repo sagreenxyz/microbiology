@@ -1,0 +1,452 @@
+{
+  "title": "Microbiology Questions - Chapter 18",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "text": "Antibodies are produced by ________.",
+      "options": [
+        "plasma cells",
+        "T cells",
+        "bone marrow",
+        "Macrophages"
+      ],
+      "answer": "plasma cells",
+      "explanation": "Plasma cells, which are differentiated B cells, are responsible for producing and secreting antibodies."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "text": "Cellular adaptive immunity is carried out by ________.",
+      "options": [
+        "B cells",
+        "T cells",
+        "bone marrow",
+        "neutrophils"
+      ],
+      "answer": "T cells",
+      "explanation": "T cells (T lymphocytes) are the primary mediators of cellular adaptive immunity, including helper T cells and cytotoxic T cells."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "text": "A single antigen molecule may be composed of many individual ________.",
+      "options": [
+        "T-cell receptors",
+        "B-cell receptors",
+        "MHC II",
+        "epitopes"
+      ],
+      "answer": "epitopes",
+      "explanation": "Epitopes, also known as antigenic determinants, are the specific regions on an antigen molecule that antibodies and T-cell receptors recognize and bind to. A single antigen can have multiple different epitopes."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "text": "Which class of molecules is the most antigenic?",
+      "options": [
+        "polysaccharides",
+        "lipids",
+        "proteins",
+        "carbohydrates"
+      ],
+      "answer": "proteins",
+      "explanation": "Proteins are generally the most antigenic class of molecules due to their complex three-dimensional structures and diverse array of potential epitopes. Polysaccharides can also be antigenic, but lipids and nucleic acids are typically less so unless complexed with proteins or polysaccharides."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "text": "MHC I molecules present",
+      "options": [
+        "processed self-antigens from proteasomes.",
+        "processed foreign antigens from phagolysosome.",
+        "antibodies.",
+        "T cell antigens."
+      ],
+      "answer": "processed self-antigens from proteasomes.",
+      "explanation": "MHC I molecules are found on all nucleated cells and primarily present peptides derived from intracellular proteins (including self-antigens and viral antigens if the cell is infected) that are processed by proteasomes in the cytoplasm. These are then recognized by cytotoxic T cells (CD8+)."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "text": "MHC II molecules present",
+      "options": [
+        "processed self-antigens from proteasomes.",
+        "processed foreign antigens from phagolysosomes.",
+        "antibodies.",
+        "T cell receptors."
+      ],
+      "answer": "processed foreign antigens from phagolysosomes.",
+      "explanation": "MHC II molecules are found on professional antigen-presenting cells (macrophages, dendritic cells, B cells) and present peptides derived from extracellular antigens (e.g., bacteria) that have been phagocytosed and processed in phagolysosomes. These are then recognized by helper T cells (CD4+)."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "text": "Which type of antigen-presenting molecule is found on all nucleated cells?",
+      "options": [
+        "MHC II",
+        "MHC I",
+        "antibodies",
+        "B-cell receptors"
+      ],
+      "answer": "MHC I",
+      "explanation": "MHC I molecules are expressed on the surface of all nucleated cells in the body."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "text": "Which type of antigen-presenting molecule is found only on macrophages, dendritic cells, and B cells?",
+      "options": [
+        "MHC I",
+        "MHC II",
+        "T-cell receptors",
+        "B-cell receptors"
+      ],
+      "answer": "MHC II",
+      "explanation": "MHC II molecules are primarily expressed on professional antigen-presenting cells (APCs): macrophages, dendritic cells, and B cells."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "text": "What is a superantigen?",
+      "options": [
+        "a protein that is highly efficient at stimulating a single type of productive and specific T cell response",
+        "a protein produced by antigen-presenting cells to enhance their presentation capabilities",
+        "a protein produced by T cells as a way of increasing the antigen activation they receive from antigen-presenting cells",
+        "a protein that activates T cells in a nonspecific and uncontrolled manner"
+      ],
+      "answer": "a protein that activates T cells in a nonspecific and uncontrolled manner",
+      "explanation": "Superantigens are toxins (often bacterial) that can nonspecifically activate a large number of T cells by binding to MHC II molecules and T-cell receptors outside the normal peptide-binding groove. This leads to an excessive release of cytokines and a potentially dangerous systemic inflammatory response."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "text": "To what does the TCR of a helper T cell bind?",
+      "options": [
+        "antigens presented with MHC I molecules",
+        "antigens presented with MHC II molecules",
+        "free antigen in a soluble form",
+        "haptens only"
+      ],
+      "answer": "antigens presented with MHC II molecules",
+      "explanation": "The T-cell receptor (TCR) of a helper T cell (CD4+ T cell) specifically recognizes and binds to antigenic peptides presented by MHC II molecules on the surface of antigen-presenting cells."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "text": "Cytotoxic T cells will bind with their TCR to which of the following?",
+      "options": [
+        "antigens presented with MHC I molecules",
+        "antigens presented with MHC II molecules",
+        "free antigen in a soluble form",
+        "haptens only"
+      ],
+      "answer": "antigens presented with MHC I molecules",
+      "explanation": "The T-cell receptor (TCR) of a cytotoxic T cell (CD8+ T cell) specifically recognizes and binds to antigenic peptides (often viral or tumor antigens) presented by MHC I molecules on the surface of infected or cancerous cells."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "text": "A ________ molecule is a glycoprotein used to identify and distinguish white blood cells.",
+      "options": [
+        "T-cell receptor",
+        "B-cell receptor",
+        "MHC I",
+        "cluster of differentiation"
+      ],
+      "answer": "cluster of differentiation",
+      "explanation": "Cluster of differentiation (CD) molecules are cell surface glycoproteins that are used to identify and characterize different types of white blood cells (leukocytes). For example, CD4 on helper T cells and CD8 on cytotoxic T cells."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "text": "Name the T helper cell subset involved in antibody production.",
+      "options": [
+        "TH1",
+        "TH2",
+        "TH17",
+        "CTL"
+      ],
+      "answer": "TH2",
+      "explanation": "TH2 cells are a subset of helper T cells that play a crucial role in humoral immunity by activating B cells and promoting antibody production, particularly IgE, and are involved in responses to extracellular parasites."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "text": "Which of the following would be a T-dependent antigen?",
+      "options": [
+        "lipopolysaccharide",
+        "glycolipid",
+        "protein",
+        "carbohydrate"
+      ],
+      "answer": "protein",
+      "explanation": "T-dependent antigens, typically proteins, require the help of T helper cells to activate B cells for antibody production. Lipopolysaccharides and some carbohydrates can be T-independent antigens."
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "text": "Which of the following would be a BCR?",
+      "options": [
+        "CD4",
+        "MHC II",
+        "MHC I",
+        "IgD"
+      ],
+      "answer": "IgD",
+      "explanation": "The B-cell receptor (BCR) is a membrane-bound antibody molecule on the surface of B cells. IgM and IgD are the most common isotypes found as BCRs on naive B cells. CD4, MHC I, and MHC II are other immune molecules but not BCRs."
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "text": "Which of the following does not occur during the lag period of the primary antibody response?",
+      "options": [
+        "activation of helper T cells",
+        "class switching to IgG",
+        "presentation of antigen with MHC II",
+        "binding of antigen to BCRs"
+      ],
+      "answer": "class switching to IgG",
+      "explanation": "The lag period is the initial phase after antigen exposure where B cells are activated, T helper cells are activated, and antigen is presented. Class switching from IgM to IgG typically occurs later in the primary response, after the initial IgM production."
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "text": "A patient is bitten by a dog with confirmed rabies infection. After treating the bite wound, the physician injects the patient with antibodies that are specific for the rabies virus to prevent the development of an active infection. This is an example of:",
+      "options": [
+        "Natural active immunity",
+        "Artificial active immunity",
+        "Natural passive immunity",
+        "Artificial passive immunity"
+      ],
+      "answer": "Artificial passive immunity",
+      "explanation": "Artificial passive immunity involves the direct injection of pre-formed antibodies (e.g., antiserum or immunoglobulins) to provide immediate, temporary protection. It is 'artificial' because it's medically administered and 'passive' because the recipient's immune system doesn't produce the antibodies."
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "text": "A patient gets a cold, and recovers a few days later. The patient's classmates come down with the same cold roughly a week later, but the original patient does not get the same cold again. This is an example of:",
+      "options": [
+        "Natural active immunity",
+        "Artificial active immunity",
+        "Natural passive immunity",
+        "Artificial passive immunity"
+      ],
+      "answer": "Natural active immunity",
+      "explanation": "Natural active immunity develops when an individual is exposed to a pathogen through natural infection, and their own immune system mounts a response, producing memory cells that provide long-term protection against subsequent infections with the same pathogen."
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "text": "Match the antibody class with its description.",
+      "pairs": [
+        { "item": "IgA", "description": "A. This class of antibody is the only one that can cross the placenta." },
+        { "item": "IgD", "description": "B. This class of antibody is the first to appear after activation of B cells." },
+        { "item": "IgE", "description": "C. This class of antibody is involved in the defense against parasitic infections and involved in allergic responses." },
+        { "item": "IgG", "description": "D. This class of antibody is found in very large amounts in mucus secretions." },
+        { "item": "IgM", "description": "E. This class of antibody is not secreted by B cells but is expressed on the surface of naïve B cells." }
+      ],
+      "answers": {
+        "IgA": "D",
+        "IgD": "E",
+        "IgE": "C",
+        "IgG": "A",
+        "IgM": "B"
+      },
+      "explanation": "IgA: found in mucus secretions. IgD: surface of naïve B cells. IgE: parasitic infections, allergic responses. IgG: crosses placenta, most abundant in serum, secondary response. IgM: first antibody produced in primary response, pentamer."
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "text": "Match each type of vaccine with the corresponding example.",
+      "pairs": [
+        { "item": "inactivated vaccine", "description": "A. Weakened influenza virions that can only replicate in the slightly lower temperatures of the nasal passages are sprayed into the nose. They do not cause serious flu symptoms, but still produce an active infection that induces a protective adaptive immune response." },
+        { "item": "live attenuated vaccine", "description": "B. Tetanus toxin molecules are harvested and chemically treated to render them harmless. They are then injected into a patient’s arm." },
+        { "item": "toxoid vaccine", "description": "C. Influenza virus particles grown in chicken eggs are harvested and chemically treated to render them noninfectious. These immunogenic particles are then purified and packaged and administered as an injection." },
+        { "item": "subunit vaccine", "description": "D. The gene for hepatitis B virus surface antigen is inserted into a yeast genome. The modified yeast is grown and the virus protein is produced, harvested, purified, and used in a vaccine." }
+      ],
+      "answers": {
+        "inactivated vaccine": "C",
+        "live attenuated vaccine": "A",
+        "toxoid vaccine": "B",
+        "subunit vaccine": "D"
+      },
+      "explanation": "Inactivated vaccine: killed pathogen (e.g., chemically treated influenza). Live attenuated vaccine: weakened pathogen (e.g., temperature-sensitive influenza). Toxoid vaccine: inactivated toxin (e.g., treated tetanus toxin). Subunit vaccine: specific antigens (e.g., recombinant hepatitis B surface antigen)."
+    },
+    {
+      "id": 21,
+      "type": "fill-in-the-blank",
+      "text": "There are two critically important aspects of adaptive immunity. The first is specificity, while the second is ________.",
+      "answer": ["memory"],
+      "explanation": "Adaptive immunity is characterized by specificity (targeting specific pathogens) and memory (leading to a faster and stronger response upon re-exposure)."
+    },
+    {
+      "id": 22,
+      "type": "fill-in-the-blank",
+      "text": "________ immunity involves the production of antibody molecules that bind to specific antigens.",
+      "answer": ["Humoral (or antibody-mediated)"],
+      "explanation": "Humoral immunity is mediated by B cells and involves the production of antibodies that circulate in body fluids."
+    },
+    {
+      "id": 23,
+      "type": "fill-in-the-blank",
+      "text": "The heavy chains of an antibody molecule contain ________ region segments, which help to determine its class or isotype.",
+      "answer": ["constant (Fc)"],
+      "explanation": "The constant region of the heavy chains determines the antibody class (e.g., IgG, IgM, IgA, IgD, IgE) and its effector functions."
+    },
+    {
+      "id": 24,
+      "type": "fill-in-the-blank",
+      "text": "The variable regions of the heavy and light chains form the ________ sites of an antibody.",
+      "answer": ["antigen-binding (or Fab)"],
+      "explanation": "The antigen-binding sites are formed by the variable regions of both the heavy and light chains."
+    },
+    {
+      "id": 25,
+      "type": "fill-in-the-blank",
+      "text": "MHC molecules are used for antigen ________ to T cells.",
+      "answer": ["presentation"],
+      "explanation": "Major Histocompatibility Complex (MHC) molecules present processed antigen fragments to T cells, initiating an adaptive immune response."
+    },
+    {
+      "id": 26,
+      "type": "fill-in-the-blank",
+      "text": "MHC II molecules are made up of two subunits (α and β) of approximately equal size, whereas MHC I molecules consist of a larger α subunit and a smaller subunit called ________.",
+      "answer": ["β2-microglobulin"],
+      "explanation": "MHC I molecules consist of a heavy α chain and a smaller, non-covalently associated β2-microglobulin protein."
+    },
+    {
+      "id": 27,
+      "type": "fill-in-the-blank",
+      "text": "A ________ T cell will become activated by presentation of foreign antigen associated with an MHC I molecule.",
+      "answer": ["cytotoxic (or CD8+)"],
+      "explanation": "Cytotoxic T cells (CTLs or CD8+ T cells) recognize antigens presented by MHC I molecules on infected or cancerous cells."
+    },
+    {
+      "id": 28,
+      "type": "fill-in-the-blank",
+      "text": "A ________ T cell will become activated by presentation of foreign antigen in association with an MHC II molecule.",
+      "answer": ["helper (or CD4+)"],
+      "explanation": "Helper T cells (CD4+ T cells) recognize antigens presented by MHC II molecules on antigen-presenting cells."
+    },
+    {
+      "id": 29,
+      "type": "fill-in-the-blank",
+      "text": "A TCR is a protein dimer embedded in the plasma membrane of a T cell. The ________ region of each of the two protein chains is what gives it the capability to bind to a presented antigen.",
+      "answer": ["variable"],
+      "explanation": "The variable region of the T-cell receptor (TCR) chains forms the antigen-binding site."
+    },
+    {
+      "id": 30,
+      "type": "fill-in-the-blank",
+      "text": "Peripheral tolerance mechanisms function on T cells after they mature and exit the ________.",
+      "answer": ["thymus"],
+      "explanation": "T cells mature in the thymus, where central tolerance mechanisms (positive and negative selection) occur. Peripheral tolerance mechanisms act on mature T cells that have exited the thymus and are circulating in the periphery."
+    },
+    {
+      "id": 31,
+      "type": "fill-in-the-blank",
+      "text": "Both ________ and effector T cells are produced during differentiation of activated T cells.",
+      "answer": ["memory"],
+      "explanation": "Upon activation and proliferation, T cells differentiate into effector T cells (which carry out immune functions) and memory T cells (which provide long-term immunity)."
+    },
+    {
+      "id": 32,
+      "type": "fill-in-the-blank",
+      "text": "________ antigens can stimulate B cells to become activated but require cytokine assistance delivered by helper T cells.",
+      "answer": ["T-dependent"],
+      "explanation": "T-dependent antigens require the help of T helper cells (cytokines and co-stimulation) to fully activate B cells and induce antibody production, class switching, and memory B cell formation."
+    },
+    {
+      "id": 33,
+      "type": "fill-in-the-blank",
+      "text": "T-independent antigens can stimulate B cells to become activated and secrete antibodies without assistance from helper T cells. These antigens possess ________ antigenic epitopes that cross-link BCRs.",
+      "answer": ["repetitive (or multivalent)"],
+      "explanation": "T-independent antigens, often polysaccharides or lipopolysaccharides, have multiple identical epitopes that can cross-link many B-cell receptors (BCRs) simultaneously, providing a strong enough signal for B cell activation without T cell help."
+    },
+    {
+      "id": 34,
+      "type": "fill-in-the-blank",
+      "text": "A(n) ________ pathogen is in a weakened state; it is still capable of stimulating an immune response but does not cause a disease.",
+      "answer": ["attenuated"],
+      "explanation": "An attenuated pathogen is a live pathogen that has been weakened (e.g., through genetic modification or culturing under specific conditions) so that it can still replicate to some extent and induce immunity but typically does not cause significant disease. This is the basis of live attenuated vaccines."
+    },
+    {
+      "id": 35,
+      "type": "fill-in-the-blank",
+      "text": "________ immunity occurs when antibodies from one individual are harvested and given to another to protect against disease or treat active disease.",
+      "answer": ["Artificial passive"],
+      "explanation": "Artificial passive immunity involves the administration of pre-formed antibodies (e.g., immunoglobulins) from an immune individual or animal to a non-immune individual to provide immediate, temporary protection."
+    },
+    {
+      "id": 36,
+      "type": "fill-in-the-blank",
+      "text": "In the practice of ________, scabs from smallpox victims were used to immunize susceptible individuals against smallpox.",
+      "answer": ["variolation"],
+      "explanation": "Variolation was an early method of immunization against smallpox, where dried smallpox scabs or fluid from pustules were introduced into a susceptible person's skin or inhaled, typically resulting in a milder infection and subsequent immunity."
+    },
+    {
+      "id": 37,
+      "type": "short-answer",
+      "text": "What is the difference between humoral and cellular adaptive immunity?",
+      "answer": "Humoral adaptive immunity is primarily mediated by B cells and the antibodies they produce. Antibodies circulate in body fluids (humors) and target extracellular pathogens and toxins. Cellular adaptive immunity is mediated by T cells. Helper T cells (CD4+) coordinate immune responses (including B cell activation), while cytotoxic T cells (CD8+) directly kill host cells infected with intracellular pathogens (like viruses) or cancerous cells.",
+      "explanation": "Humoral immunity involves B cells and antibodies targeting extracellular pathogens. Cellular immunity involves T cells (helper T cells and cytotoxic T cells) targeting intracellular pathogens and infected/cancerous cells."
+    },
+    {
+      "id": 38,
+      "type": "short-answer",
+      "text": "What is the difference between an antigen and a hapten?",
+      "answer": "An antigen is a molecule (usually a protein or polysaccharide) that can elicit an immune response (i.e., is immunogenic) and can bind to antibodies or T-cell receptors. A hapten is a small molecule that is antigenic (can bind to antibodies) but is not immunogenic on its own. Haptens can only elicit an immune response if they are attached to a larger carrier molecule (like a protein).",
+      "explanation": "An antigen is a substance that can provoke an immune response and bind to immune components. A hapten is a small molecule that can bind to antibodies but is not immunogenic by itself; it must be attached to a larger carrier molecule to elicit an immune response."
+    },
+    {
+      "id": 39,
+      "type": "short-answer",
+      "text": "Describe the mechanism of antibody-dependent cell-mediated cytotoxicity.",
+      "answer": "Antibody-dependent cell-mediated cytotoxicity (ADCC) is a mechanism where an effector cell of the immune system (e.g., Natural Killer (NK) cells, eosinophils, macrophages) actively lyses a target cell whose surface antigens have been bound by specific antibodies. The effector cell has Fc receptors that bind to the Fc region of the antibodies coating the target cell. This binding triggers the effector cell to release cytotoxic substances (like perforins and granzymes from NK cells) that kill the antibody-coated target cell.",
+      "explanation": "ADCC occurs when antibodies bind to antigens on a target cell. Effector cells (like NK cells) then bind to the Fc region of these antibodies via Fc receptors, triggering the release of cytotoxic substances that kill the target cell."
+    },
+    {
+      "id": 40,
+      "type": "short-answer",
+      "text": "What is the basic difference in effector function between helper and cytotoxic T cells?",
+      "answer": "Helper T cells (CD4+) do not directly kill infected cells or pathogens. Their primary effector function is to 'help' or coordinate the immune response by releasing cytokines that activate other immune cells, including B cells (for antibody production), cytotoxic T cells, and macrophages. Cytotoxic T cells (CD8+), once activated, directly recognize and kill host cells that are infected with intracellular pathogens (like viruses) or are cancerous, by releasing perforins and granzymes.",
+      "explanation": "Helper T cells (CD4+) 'help' orchestrate the immune response by releasing cytokines to activate other immune cells. Cytotoxic T cells (CD8+) directly kill infected host cells or tumor cells."
+    },
+    {
+      "id": 41,
+      "type": "short-answer",
+      "text": "What necessary interactions are required for activation of helper T cells and activation/effector function of cytotoxic T cells?",
+      "answer": "Activation of helper T cells (CD4+) requires: 1. T-cell receptor (TCR) binding to an antigen peptide presented on an MHC II molecule of an antigen-presenting cell (APC). 2. Co-stimulatory signals, such as CD28 on the T cell binding to B7 (CD80/CD86) on the APC. \nActivation of cytotoxic T cells (CD8+) typically requires: 1. TCR binding to an antigen peptide presented on an MHC I molecule of an APC (often a dendritic cell that has also been activated by a helper T cell). 2. Co-stimulatory signals. 3. Cytokines (like IL-2) often provided by activated helper T cells. \nFor effector function, an activated cytotoxic T cell's TCR binds to antigen presented on MHC I of a target cell (e.g., virus-infected cell), leading to target cell killing.",
+      "explanation": "Helper T cell activation: TCR/CD4 binds antigen-MHC II on APC, plus co-stimulation (e.g., CD28-B7). Cytotoxic T cell activation: TCR/CD8 binds antigen-MHC I on APC, co-stimulation, and often help from helper T cells (cytokines). Effector CTLs kill target cells presenting antigen on MHC I."
+    },
+    {
+      "id": 42,
+      "type": "short-answer",
+      "text": "Briefly compare the pros and cons of inactivated versus live attenuated vaccines.",
+      "answer": "Inactivated vaccines: \nPros: Safer (cannot cause disease as the pathogen is killed), more stable (easier storage/transport). \nCons: Less immunogenic (often require multiple doses and adjuvants), primarily induce humoral (antibody) immunity, weaker cell-mediated immunity. \n\nLive attenuated vaccines: \nPros: More immunogenic (mimic natural infection, often single dose provides long-lasting immunity), induce strong humoral and cell-mediated immunity. \nCons: Risk of reversion to virulence (can cause disease in immunocompromised individuals), less stable (often require refrigeration).",
+      "explanation": "Inactivated vaccines: Pros - safer, more stable. Cons - less immunogenic, may need boosters, weaker cell-mediated response. Live attenuated vaccines: Pros - highly immunogenic, strong cell-mediated and humoral response, often lifelong immunity. Cons - risk of reversion to virulence, less stable."
+    },
+    {
+      "id": 43,
+      "type": "critical-thinking",
+      "text": "Which mechanism of antigen presentation would be used to present antigens from a cell infected with a virus?",
+      "answer": "Antigens from a virus-infected cell (intracellular pathogen) would be presented via MHC I molecules. Viral proteins synthesized within the infected host cell are processed by proteasomes in the cytoplasm. The resulting peptides are transported to the endoplasmic reticulum, where they bind to MHC I molecules. These MHC I-peptide complexes are then transported to the cell surface for presentation to CD8+ cytotoxic T cells.",
+      "explanation": "Viral antigens, being intracellular, are processed in the cytoplasm and presented on MHC I molecules to CD8+ cytotoxic T cells."
+    },
+    {
+      "id": 44,
+      "type": "critical-thinking",
+      "text": "Which pathway of antigen presentation would be used to present antigens from an extracellular bacterial infection?",
+      "answer": "Antigens from an extracellular bacterial infection would be presented via MHC II molecules. Extracellular bacteria are typically phagocytosed by antigen-presenting cells (APCs) like macrophages or dendritic cells. The bacteria are broken down in phagolysosomes, and the resulting peptides bind to MHC II molecules within vesicles. These MHC II-peptide complexes are then transported to the cell surface for presentation to CD4+ helper T cells.",
+      "explanation": "Extracellular bacterial antigens are taken up by APCs (e.g., macrophages, dendritic cells) via phagocytosis, processed in phagolysosomes, and presented on MHC II molecules to CD4+ helper T cells."
+    },
+    {
+      "id": 45,
+      "type": "critical-thinking",
+      "text": "A patient lacks the ability to make functioning T cells because of a genetic disorder. Would this patient’s B cells be able to produce antibodies in response to an infection? Explain your answer.",
+      "answer": "The patient's B cells would have a severely impaired ability to produce antibodies, especially for most pathogens. While B cells can respond to T-independent antigens (typically large polysaccharides with repetitive epitopes) without T cell help, most antigens are T-dependent (especially proteins). For T-dependent antigens, B cells require activation signals from helper T cells (CD4+ T cells) to proliferate, differentiate into plasma cells, undergo class switching (e.g., from IgM to IgG), and form memory B cells. Without functioning T cells, the response to T-dependent antigens would be minimal or absent, leading to a significant immunodeficiency.",
+      "explanation": "B cell antibody production would be severely compromised. Most antigens are T-dependent, requiring helper T cell assistance for B cell activation, proliferation, class switching, and memory formation. While a limited response to T-independent antigens might occur, overall antibody production would be very poor."
+    }
+  ]
+}

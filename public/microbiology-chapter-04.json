@@ -1,0 +1,442 @@
+{
+  "title": "Microbiology Questions - Chapter 4",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "text": "The term prokaryotes refers to which of the following?",
+      "options": [
+        "very small organisms",
+        "unicellular organisms that have no nucleus",
+        "multicellular organisms",
+        "cells that resemble animal cells more than plant cells"
+      ],
+      "answer": "unicellular organisms that have no nucleus",
+      "explanation": "Prokaryotes are defined as unicellular organisms that lack a membrane-bound nucleus and other membrane-bound organelles."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "text": "The term microbiota refers to which of the following?",
+      "options": [
+        "all microorganisms of the same species",
+        "all of the microorganisms involved in a symbiotic relationship",
+        "all microorganisms in a certain region of the human body",
+        "all microorganisms in a certain geographic region"
+      ],
+      "answer": "all microorganisms in a certain region of the human body",
+      "explanation": "Microbiota refers to the community of microorganisms (such as bacteria, fungi, and viruses) that inhabit a particular environment, especially a site on or in the human body, like the gut microbiota or skin microbiota."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "text": "Which of the following refers to the type of interaction between two prokaryotic populations in which one population benefits and the other is not affected?",
+      "options": [
+        "mutualism",
+        "commensalism",
+        "parasitism",
+        "neutralism"
+      ],
+      "answer": "commensalism",
+      "explanation": "Commensalism is a symbiotic relationship where one organism benefits and the other is neither harmed nor benefited."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "text": "Which of the following describes Proteobacteria in domain Bacteria?",
+      "options": [
+        "phylum",
+        "class",
+        "species",
+        "genus"
+      ],
+      "answer": "phylum",
+      "explanation": "Proteobacteria is a major phylum of gram-negative bacteria within the domain Bacteria."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "text": "Which of the following Alphaproteobacteria is the cause of Rocky Mountain spotted fever and typhus?",
+      "options": [
+        "Bartonella",
+        "Coxiella",
+        "Rickettsia",
+        "Ehrlichia",
+        "Brucella"
+      ],
+      "answer": "Rickettsia",
+      "explanation": "Species of Rickettsia, such as Rickettsia rickettsii (Rocky Mountain spotted fever) and Rickettsia prowazekii (epidemic typhus), are obligate intracellular Alphaproteobacteria transmitted by arthropod vectors."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "text": "Class Betaproteobacteria includes all but which of the following genera?",
+      "options": [
+        "Neisseria.",
+        "Bordetella.",
+        "Leptothrix.",
+        "Campylobacter."
+      ],
+      "answer": "Campylobacter.",
+      "explanation": "Neisseria, Bordetella, and Leptothrix are genera within the Betaproteobacteria. Campylobacter belongs to the Epsilonproteobacteria."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "text": "Haemophilus influenzae is a common cause of which of the following?",
+      "options": [
+        "influenza",
+        "dysentery",
+        "upper respiratory tract infections",
+        "hemophilia"
+      ],
+      "answer": "upper respiratory tract infections",
+      "explanation": "Despite its name, Haemophilus influenzae does not cause influenza (which is viral) but is a common cause of bacterial upper respiratory tract infections, sinusitis, bronchitis, and otitis media. It can also cause more serious infections like meningitis."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "text": "Which of the following is the organelle that spirochetes use to propel themselves?",
+      "options": [
+        "plasma membrane",
+        "axial filament",
+        "pilum",
+        "fimbria"
+      ],
+      "answer": "axial filament",
+      "explanation": "Spirochetes possess an axial filament (also known as endoflagella), which is located in the periplasmic space and wraps around the cell, causing a corkscrew-like motility."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "text": "Which of the following bacteria are the most prevalent in the human gut?",
+      "options": [
+        "cyanobacteria",
+        "staphylococci",
+        "Borrelia",
+        "Bacteroides"
+      ],
+      "answer": "Bacteroides",
+      "explanation": "The genus Bacteroides comprises a significant portion of the anaerobic bacteria found in the human gut microbiota, playing roles in digestion and metabolism."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "text": "Which of the following refers to photosynthesis performed by bacteria with the use of water as the donor of electrons?",
+      "options": [
+        "oxygenic",
+        "anoxygenic",
+        "heterotrophic",
+        "phototrophic"
+      ],
+      "answer": "oxygenic",
+      "explanation": "Oxygenic photosynthesis uses water (H2O) as an electron donor, releasing oxygen (O2) as a byproduct. This is characteristic of cyanobacteria and plants."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "text": "Which of the following bacterial species is classified as high G+C gram-positive?",
+      "options": [
+        "Corynebacterium diphtheriae",
+        "Staphylococcus aureus",
+        "Bacillus anthracis",
+        "Streptococcus pneumonia"
+      ],
+      "answer": "Corynebacterium diphtheriae",
+      "explanation": "High G+C gram-positive bacteria (Actinobacteria) include Corynebacterium. Staphylococcus, Bacillus, and Streptococcus are low G+C gram-positive bacteria (Firmicutes)."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "text": "The term “deeply branching” refers to which of the following?",
+      "options": [
+        "the cellular shape of deeply branching bacteria",
+        "the position in the evolutionary tree of deeply branching bacteria",
+        "the ability of deeply branching bacteria to live in deep ocean waters",
+        "the pattern of growth in culture of deeply branching bacteria"
+      ],
+      "answer": "the position in the evolutionary tree of deeply branching bacteria",
+      "explanation": "Deeply branching bacteria are those that diverged early from the common ancestor of bacteria, thus appearing near the base (or 'root') of the phylogenetic tree of life."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "text": "Which of these deeply branching bacteria is considered a polyextremophile?",
+      "options": [
+        "Aquifex pyrophilus",
+        "Deinococcus radiodurans",
+        "Staphylococcus aureus",
+        "Mycobacterium tuberculosis"
+      ],
+      "answer": "Deinococcus radiodurans",
+      "explanation": "Deinococcus radiodurans is known for its extreme resistance to radiation, desiccation, and oxidative stress, making it a polyextremophile. Aquifex is a hyperthermophile."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "text": "Archaea and Bacteria are most similar in terms of their ________.",
+      "options": [
+        "genetics",
+        "cell wall structure",
+        "ecology",
+        "unicellular structure"
+      ],
+      "answer": "unicellular structure",
+      "explanation": "Both Archaea and Bacteria are predominantly unicellular prokaryotic organisms. Their genetics (especially rRNA sequences), cell wall composition (peptidoglycan in Bacteria, not in Archaea), and some ecological niches differ significantly."
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "text": "Which of the following is true of archaea that produce methane?",
+      "options": [
+        "They reduce carbon dioxide in the presence of nitrogen.",
+        "They live in the most extreme environments.",
+        "They are always anaerobes.",
+        "They have been discovered on Mars."
+      ],
+      "answer": "They are always anaerobes.",
+      "explanation": "Methanogenic archaea produce methane as a metabolic byproduct and are strict anaerobes, meaning they cannot survive in the presence of oxygen. While some live in extreme environments, not all do. They reduce CO2 using H2 or other substrates, not necessarily in the presence of nitrogen for this process. Methane has been detected on Mars, but methanogenic archaea themselves have not been discovered there."
+    },
+    {
+      "id": 16,
+      "type": "true-false",
+      "text": "Among prokaryotes, there are some that can live in every environment on earth.",
+      "answer": "true",
+      "explanation": "Prokaryotes, including bacteria and archaea, exhibit incredible metabolic diversity and have adapted to live in virtually every environment on Earth, from extreme temperatures and pressures to high salinity and radiation."
+    },
+    {
+      "id": 17,
+      "type": "fill-in-the-blank",
+      "text": "When prokaryotes live as interacting communities in which one population benefits to the harm of the other, the type of symbiosis is called ________.",
+      "answer": ["parasitism"],
+      "explanation": "Parasitism is a symbiotic relationship where one organism (the parasite) benefits at the expense of the other organism (the host)."
+    },
+    {
+      "id": 18,
+      "type": "fill-in-the-blank",
+      "text": "The domain ________ does not include prokaryotes.",
+      "answer": ["Eukarya"],
+      "explanation": "The domain Eukarya includes all eukaryotic organisms (protists, fungi, plants, and animals). The domains Bacteria and Archaea consist of prokaryotic organisms."
+    },
+    {
+      "id": 19,
+      "type": "fill-in-the-blank",
+      "text": "Pathogenic bacteria that are part of the transient microbiota can sometimes be eliminated by ________ therapy.",
+      "answer": ["phage (or bacteriophage)"],
+      "explanation": "Phage therapy uses bacteriophages (viruses that infect bacteria) to target and eliminate specific pathogenic bacteria. This can be an alternative or supplement to antibiotic therapy."
+    },
+    {
+      "id": 20,
+      "type": "fill-in-the-blank",
+      "text": "Nitrogen-fixing bacteria provide other organisms with usable nitrogen in the form of ________.",
+      "answer": ["ammonia (NH3) (or ammonium NH4+)"],
+      "explanation": "Nitrogen-fixing bacteria convert atmospheric nitrogen (N2) into ammonia (NH3), which can then be incorporated into organic molecules by plants and other organisms."
+    },
+    {
+      "id": 21,
+      "type": "fill-in-the-blank",
+      "text": "Rickettsias are ________ intracellular bacteria.",
+      "answer": ["obligate"],
+      "explanation": "Rickettsias are obligate intracellular parasites, meaning they can only replicate inside host cells."
+    },
+    {
+      "id": 22,
+      "type": "fill-in-the-blank",
+      "text": "The species ________, which belongs to Epsilonproteobacteria, causes peptic ulcers of the stomach and duodenum.",
+      "answer": ["Helicobacter pylori"],
+      "explanation": "Helicobacter pylori is an Epsilonproteobacterium known to colonize the stomach lining and is a primary cause of peptic ulcers and gastritis."
+    },
+    {
+      "id": 23,
+      "type": "fill-in-the-blank",
+      "text": "The genus Salmonella belongs to the class ________ and includes pathogens that cause salmonellosis and typhoid fever.",
+      "answer": ["Gammaproteobacteria"],
+      "explanation": "Salmonella is a genus within the Gammaproteobacteria class, part of the Enterobacteriaceae family."
+    },
+    {
+      "id": 24,
+      "type": "fill-in-the-blank",
+      "text": "The bacterium that causes syphilis is called ________.",
+      "answer": ["Treponema pallidum"],
+      "explanation": "Syphilis is caused by the spirochete bacterium Treponema pallidum."
+    },
+    {
+      "id": 25,
+      "type": "fill-in-the-blank",
+      "text": "Bacteria in the genus Rhodospirillum that use hydrogen for oxidation and fix nitrogen are ________ bacteria.",
+      "answer": ["purple nonsulfur"],
+      "explanation": "Rhodospirillum species are purple nonsulfur bacteria, which are anoxygenic phototrophs capable of nitrogen fixation and using various organic compounds or hydrogen as electron donors."
+    },
+    {
+      "id": 26,
+      "type": "fill-in-the-blank",
+      "text": "Streptococcus is the ________ of bacteria that is responsible for many human diseases.",
+      "answer": ["genus"],
+      "explanation": "Streptococcus is a genus of gram-positive cocci, many species of which are pathogenic to humans."
+    },
+    {
+      "id": 27,
+      "type": "fill-in-the-blank",
+      "text": "One species of Streptococcus, S. pyogenes, is a classified as a ________ pathogen due to the characteristic production of pus in infections it causes.",
+      "answer": ["pyogenic"],
+      "explanation": "Pyogenic means pus-producing. Streptococcus pyogenes is a classic example of a pyogenic bacterium, causing infections like strep throat and impetigo."
+    },
+    {
+      "id": 28,
+      "type": "fill-in-the-blank",
+      "text": "Cutibacterium belongs to ________ G+C gram-positive bacteria. One of its species is used in the food industry and another causes acne.",
+      "answer": ["high"],
+      "explanation": "Cutibacterium (formerly Propionibacterium) is a genus of high G+C gram-positive bacteria (Actinobacteria). C. acnes is associated with acne, while other species are used in cheese production."
+    },
+    {
+      "id": 29,
+      "type": "fill-in-the-blank",
+      "text": "The length of the branches of the evolutionary tree characterizes the evolutionary ________ between organisms.",
+      "answer": ["distance (or divergence)"],
+      "explanation": "In many phylogenetic trees, branch lengths are proportional to the amount of evolutionary change or time since divergence between organisms or groups."
+    },
+    {
+      "id": 30,
+      "type": "fill-in-the-blank",
+      "text": "The deeply branching bacteria are thought to be the form of life closest to the last universal ________ ________.",
+      "answer": ["common ancestor (LUCA)"],
+      "explanation": "Deeply branching bacteria are considered to have diverged very early in the evolution of life, placing them near the root of the bacterial phylogenetic tree and thus closer to the Last Universal Common Ancestor (LUCA)."
+    },
+    {
+      "id": 31,
+      "type": "fill-in-the-blank",
+      "text": "Many of the deeply branching bacteria are aquatic and hyperthermophilic, found near underwater volcanoes and thermal ocean ________.",
+      "answer": ["vents"],
+      "explanation": "Hydrothermal vents on the ocean floor are extreme environments where many hyperthermophilic deeply branching bacteria and archaea thrive."
+    },
+    {
+      "id": 32,
+      "type": "fill-in-the-blank",
+      "text": "The deeply branching bacterium Deinococcus radiodurans is able to survive exposure to high doses of ________.",
+      "answer": ["ionizing radiation"],
+      "explanation": "Deinococcus radiodurans is renowned for its extraordinary resistance to ionizing radiation, UV radiation, and desiccation due to efficient DNA repair mechanisms."
+    },
+    {
+      "id": 33,
+      "type": "fill-in-the-blank",
+      "text": "________ is a genus of Archaea. Its optimal environmental temperature ranges from 70 °C to 80 °C, and its optimal pH is 2–3. It oxidizes sulfur and produces sulfuric acid.",
+      "answer": ["Sulfolobus"],
+      "explanation": "Sulfolobus is a genus of thermoacidophilic archaea that oxidizes sulfur to produce sulfuric acid, thriving in hot, acidic environments like volcanic springs."
+    },
+    {
+      "id": 34,
+      "type": "fill-in-the-blank",
+      "text": "________ was once thought to be the cause of periodontal disease, but, more recently, the causal relationship between this archaean and the disease was not confirmed.",
+      "answer": ["Methanobrevibacter oralis"],
+      "explanation": "Methanobrevibacter oralis is an archaeon found in the human mouth. While initially investigated for a role in periodontal disease, its direct causal link has not been definitively established, and periodontal disease is recognized as polymicrobial."
+    },
+    {
+      "id": 35,
+      "type": "short-answer",
+      "text": "Compare commensalism and amensalism.",
+      "answer": "Commensalism is a type of symbiosis where one organism benefits and the other is unaffected (+/0). Amensalism is a type of symbiosis where one organism is harmed and the other is unaffected (-/0). An example of amensalism is when one bacterial species produces an antimicrobial compound that inhibits or kills another nearby species, without deriving any direct benefit or harm itself from this interaction.",
+      "explanation": "Commensalism: one benefits, other unaffected (+/0). Amensalism: one harmed, other unaffected (-/0)."
+    },
+    {
+      "id": 36,
+      "type": "short-answer",
+      "text": "Give an example of the changes of human microbiota that result from medical intervention.",
+      "answer": "A common example is the use of broad-spectrum antibiotics. While targeting a specific pathogen, these antibiotics can also kill many beneficial members of the normal gut microbiota. This disruption can lead to a decrease in microbial diversity and an overgrowth of opportunistic pathogens like Clostridioides difficile (formerly Clostridium difficile), which can cause severe diarrhea and colitis. Another example is chemotherapy, which can also disrupt the gut microbiota.",
+      "explanation": "Antibiotic therapy can disrupt the normal gut microbiota, potentially leading to opportunistic infections like C. difficile overgrowth."
+    },
+    {
+      "id": 37,
+      "type": "short-answer",
+      "text": "What is the metabolic difference between coliforms and noncoliforms? Which category contains several species of intestinal pathogens?",
+      "answer": "Coliforms are gram-negative, facultatively anaerobic, rod-shaped bacteria that ferment lactose to produce acid and gas at 35–37 °C. Noncoliforms may be similar in other respects but do not ferment lactose or do so slowly without gas production. Both categories can contain intestinal pathogens, but several significant intestinal pathogens like certain strains of Escherichia coli (e.g., EHEC, ETEC which are coliforms), Salmonella spp., and Shigella spp. (which are typically noncoliforms or late lactose fermenters) are of concern. The distinction is primarily for water quality testing, where coliforms indicate fecal contamination.",
+      "explanation": "Coliforms ferment lactose with acid and gas production; noncoliforms do not (or do so slowly/without gas). Pathogens can be found in both, but coliforms (like E. coli) are indicators of fecal contamination. Some noncoliforms like Salmonella and Shigella are also major intestinal pathogens."
+    },
+    {
+      "id": 38,
+      "type": "short-answer",
+      "text": "Why are Mycoplasma and Chlamydia classified as obligate intracellular pathogens?",
+      "answer": "Mycoplasma species generally lack a cell wall and are very small; while not all are obligate intracellular, some pathogenic species have adapted to an intracellular lifestyle to obtain necessary nutrients and evade the host immune system. Chlamydia are obligate intracellular pathogens because they lack the metabolic capability to produce their own ATP and are dependent on the host cell for energy and many essential nutrients. They have a unique developmental cycle that occurs entirely within a host cell vacuole (inclusion body).",
+      "explanation": "Chlamydia are obligate intracellular because they are metabolically limited (e.g., cannot synthesize ATP) and depend on the host cell. Mycoplasma, lacking cell walls, can be intracellular to acquire nutrients and evade host defenses, though not all Mycoplasma are strictly obligate intracellular."
+    },
+    {
+      "id": 39,
+      "type": "short-answer",
+      "text": "Explain the term CFB group and name the genera that this group includes.",
+      "answer": "The CFB group refers to a phylum of gram-negative bacteria that includes the genera Cytophaga, Fusobacterium, and Bacteroides. These bacteria are rod-shaped and anaerobic. Cytophaga are motile by gliding and are important decomposers of cellulose. Fusobacterium are found in the human mouth and can cause periodontal disease. Bacteroides are prevalent in the human gut microbiota and play roles in digestion, but some can be opportunistic pathogens.",
+      "explanation": "CFB group stands for Cytophaga, Fusobacterium, and Bacteroides. They are gram-negative, anaerobic, rod-shaped bacteria with diverse roles (decomposition, oral microbiota/pathogens, gut microbiota)."
+    },
+    {
+      "id": 40,
+      "type": "short-answer",
+      "text": "Name and briefly describe the bacterium that causes Lyme disease.",
+      "answer": "Lyme disease is caused by the spirochete bacterium Borrelia burgdorferi. It is a gram-negative-like bacterium (though it stains weakly gram-negative or not at all with Gram stain due to its unique cell envelope) with a characteristic spiral shape and endoflagella (axial filaments) that enable its motility. It is transmitted to humans through the bite of infected Ixodes ticks.",
+      "explanation": "Borrelia burgdorferi, a spirochete (spiral-shaped bacterium with endoflagella), causes Lyme disease and is transmitted by ticks."
+    },
+    {
+      "id": 41,
+      "type": "short-answer",
+      "text": "Characterize the phylum Cyanobacteria.",
+      "answer": "Cyanobacteria are gram-negative photosynthetic bacteria that perform oxygenic photosynthesis (producing oxygen). They can be unicellular, filamentous, or colonial. Many can fix atmospheric nitrogen (convert N2 to ammonia) in specialized cells called heterocysts. They are found in diverse aquatic and terrestrial environments and are important primary producers. Some species can produce toxins (cyanotoxins) leading to harmful algal blooms.",
+      "explanation": "Cyanobacteria are gram-negative bacteria performing oxygenic photosynthesis. Many fix nitrogen. They can be unicellular or filamentous and are important primary producers, though some form harmful blooms."
+    },
+    {
+      "id": 42,
+      "type": "short-answer",
+      "text": "Name and describe two types of S. aureus that show multiple antibiotic resistance.",
+      "answer": "1. MRSA (Methicillin-resistant Staphylococcus aureus): Strains of S. aureus that are resistant to methicillin and other beta-lactam antibiotics (like penicillin and oxacillin) due to the acquisition of the mecA gene, which codes for an altered penicillin-binding protein (PBP2a). MRSA can cause difficult-to-treat infections in hospitals and the community. 2. VRSA (Vancomycin-resistant Staphylococcus aureus): Strains of S. aureus that have acquired resistance to vancomycin, often through the acquisition of vanA or similar genes from vancomycin-resistant enterococci (VRE). VRSA infections are a serious concern as vancomycin is often a last-resort antibiotic for MRSA.",
+      "explanation": "MRSA (Methicillin-resistant S. aureus) is resistant to beta-lactam antibiotics. VRSA (Vancomycin-resistant S. aureus) is resistant to vancomycin, a critical drug for treating MRSA."
+    },
+    {
+      "id": 43,
+      "type": "short-answer",
+      "text": "Briefly describe the significance of deeply branching bacteria for basic science and for industry.",
+      "answer": "For basic science, deeply branching bacteria (like Aquifex and Deinococcus) are significant because they are thought to represent some of the earliest forms of life on Earth, providing insights into early evolution, the conditions of early Earth, and the limits of life (extremophiles). For industry, some deeply branching bacteria produce thermostable enzymes (e.g., DNA polymerases like Taq polymerase from Thermus aquaticus) that are valuable in biotechnology, such as in PCR. Their unique metabolic capabilities and resistance to extreme conditions also make them potential sources for novel industrial processes or bioremediation.",
+      "explanation": "Basic science: They offer clues about early life and extremophiles. Industry: Source of thermostable enzymes (e.g., Taq polymerase for PCR) and potential for bioremediation."
+    },
+    {
+      "id": 44,
+      "type": "short-answer",
+      "text": "What is thought to account for the unique radiation resistance of D. radiodurans?",
+      "answer": "The unique radiation resistance of Deinococcus radiodurans is primarily attributed to its highly efficient DNA repair mechanisms. It possesses multiple copies of its genome (polyploidy) and robust enzymatic systems that can rapidly repair extensive DNA damage, including double-strand breaks, caused by ionizing radiation or desiccation. It also has mechanisms to protect proteins from oxidative damage.",
+      "explanation": "D. radiodurans' radiation resistance is due to highly efficient DNA repair systems, multiple genome copies, and mechanisms to protect proteins from damage."
+    },
+    {
+      "id": 45,
+      "type": "short-answer",
+      "text": "What accounts for the purple color in salt ponds inhabited by halophilic archaea?",
+      "answer": "The purple or reddish color in salt ponds inhabited by halophilic archaea (like Halobacterium salinarum) is often due to the presence of bacteriorhodopsin. Bacteriorhodopsin is a retinal-containing protein pigment found in the cell membrane of these archaea. It functions as a light-driven proton pump, allowing the archaea to generate ATP through a form of photophosphorylation in low-oxygen conditions. Carotenoid pigments can also contribute to the coloration.",
+      "explanation": "The purple color is primarily due to bacteriorhodopsin, a pigment used by some halophilic archaea for light-driven ATP synthesis. Carotenoids may also contribute."
+    },
+    {
+      "id": 46,
+      "type": "short-answer",
+      "text": "What evidence supports the hypothesis that some archaea live on Mars?",
+      "answer": "Currently, there is no direct, confirmed evidence that archaea (or any life) live on Mars. The hypothesis is speculative and based on indirect observations and analogies: 1. Detection of methane in Mars' atmosphere: Some archaea on Earth (methanogens) produce methane. The fluctuating methane levels on Mars could potentially have a biological origin, though non-biological processes can also produce methane. 2. Extremophilic archaea on Earth: Many archaea thrive in extreme environments (high/low temperature, high salinity, radiation) that might be analogous to conditions on Mars, suggesting that if life exists or existed on Mars, it might resemble such extremophiles. However, direct proof of Martian archaea is lacking.",
+      "explanation": "There is no direct evidence. The hypothesis is based on: 1. Detection of methane on Mars (methanogens are archaea that produce methane). 2. The existence of extremophilic archaea on Earth that can survive harsh conditions, some of which might be similar to past or present Martian environments. This is speculative."
+    },
+    {
+      "id": 47,
+      "type": "critical-thinking",
+      "text": "The cell shown is found in the human stomach and is now known to cause peptic ulcers. What is the name of this bacterium?\nA micrograph of a rod shaped cell with many long projections.\nFigure 4.28 (credit: American Society for Microbiology)",
+      "answer": "The bacterium is Helicobacter pylori. It is a gram-negative, spiral-shaped (though it can appear rod-shaped or coccoid) bacterium with multiple flagella, known to colonize the stomach and cause peptic ulcers.",
+      "explanation": "The description (found in the stomach, causes peptic ulcers) and typical morphology (rod/spiral shape with multiple flagella) point to Helicobacter pylori.",
+      "imageUrl": "https://openstax.org/apps/archive/20250226.165223/resources/3239dbbe1da1b31c962fe5cdf960c1ac3dfc82e6"
+    },
+    {
+      "id": 48,
+      "type": "critical-thinking",
+      "text": "The microscopic growth pattern shown is characteristic of which genus of bacteria?\nA micrograph showing clusters of spherical cells.\nFigure 4.29 (credit: modification of work by Janice Haney Carr/Centers for Disease Control and Prevention)",
+      "answer": "The micrograph shows cocci (spherical cells) arranged in grape-like clusters. This arrangement is characteristic of the genus Staphylococcus.",
+      "explanation": "Spherical cells (cocci) arranged in irregular, grape-like clusters are characteristic of Staphylococcus species.",
+      "imageUrl": "https://openstax.org/apps/archive/20250226.165223/resources/62dea62aca9b4a338db1125aaa19be6c6691de6e"
+    },
+    {
+      "id": 49,
+      "type": "critical-thinking",
+      "text": "What is the connection between this methane bog and archaea?\nA photo of bubbles on water.\nFigure 4.30 (credit: Chad Skeers)",
+      "answer": "Methane bogs are anaerobic environments rich in organic matter. The bubbles seen are likely methane gas (CH4) produced by methanogenic archaea. These archaea are strict anaerobes that perform methanogenesis, a form of anaerobic respiration where they use carbon dioxide (or other simple carbon compounds) as a terminal electron acceptor, reducing it to methane. They play a crucial role in the carbon cycle in such anoxic environments.",
+      "explanation": "The bubbles in a methane bog are methane gas. This methane is produced by methanogenic archaea, which are anaerobic microorganisms that thrive in such environments and produce methane as a metabolic byproduct.",
+      "imageUrl": "https://openstax.org/apps/archive/20250226.165223/resources/96f0ffd6d4f6359534e06fe089b64e1e4d608628"
+    }
+  ]
+}

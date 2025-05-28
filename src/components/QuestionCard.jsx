@@ -4,10 +4,17 @@ function QuestionCard({ question, selectedAnswer, onAnswer }) {
   const [showExplanation, setShowExplanation] = useState(false)
   const [submitted, setSubmitted] = useState(false)
 
-  // Automatically show explanation when an answer is selected
+  // Reset state when question changes
+  useEffect(() => {
+    setShowExplanation(false)
+    setSubmitted(false)
+  }, [question.id])
+
+  // Show explanation when an answer is selected
   useEffect(() => {
     if (selectedAnswer) {
       setShowExplanation(true)
+      setSubmitted(true)
     }
   }, [selectedAnswer])
 
@@ -229,6 +236,11 @@ function QuestionCard({ question, selectedAnswer, onAnswer }) {
   const renderMatching = () => {
     const items = question.pairs || []
     const [matchings, setMatchings] = useState({})
+
+    // Reset matchings when question changes
+    useEffect(() => {
+      setMatchings({})
+    }, [question.id])
 
     const handleMatch = (item, description) => {
       const newMatchings = { ...matchings, [item]: description }

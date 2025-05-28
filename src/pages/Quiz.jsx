@@ -25,6 +25,9 @@ function Quiz() {
         setChapterTitle(data.title)
         setQuestions(data.questions)
         setLoading(false)
+        // Reset answers and score when loading a new chapter
+        setAnswers({})
+        setScore(0)
       } catch (err) {
         console.error('Error fetching questions:', err)
         setError('Failed to load questions. Please try again later.')
@@ -33,6 +36,8 @@ function Quiz() {
     }
 
     fetchQuestions()
+    // Reset current question index when chapter changes
+    setCurrentQuestionIndex(0)
   }, [chapterId])
 
   const handleAnswer = (questionId, answer) => {

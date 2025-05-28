@@ -1,0 +1,569 @@
+{
+  "title": "Microbiology Questions - Chapter 26",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "text": "What is the outermost membrane surrounding the brain called?",
+      "options": [
+        "pia mater",
+        "arachnoid mater",
+        "dura mater",
+        "alma mater"
+      ],
+      "answer": "dura mater",
+      "explanation": "The dura mater is the tough, outermost meningeal layer surrounding the brain and spinal cord. The pia mater is the innermost, and the arachnoid mater is the middle layer."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "text": "What term refers to an inflammation of brain tissues?",
+      "options": [
+        "encephalitis",
+        "meningitis",
+        "sinusitis",
+        "meningoencephalitis"
+      ],
+      "answer": "encephalitis",
+      "explanation": "Encephalitis is inflammation of the brain. Meningitis is inflammation of the meninges. Sinusitis is inflammation of the sinuses. Meningoencephalitis is inflammation of both the meninges and the brain."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "text": "Nerve cells form long projections called ________.",
+      "options": [
+        "soma",
+        "axons",
+        "dendrites",
+        "synapses"
+      ],
+      "answer": "axons",
+      "explanation": "Axons are long projections of nerve cells (neurons) that transmit nerve impulses away from the cell body (soma). Dendrites receive signals, and synapses are junctions between neurons."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "text": "Chemicals called ________ are stored in neurons and released when the cell is stimulated by a signal.",
+      "options": [
+        "toxins",
+        "cytokines",
+        "chemokines",
+        "neurotransmitters"
+      ],
+      "answer": "neurotransmitters",
+      "explanation": "Neurotransmitters are chemical messengers stored in synaptic vesicles in neurons and released into the synapse to transmit signals to other neurons or cells."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "text": "The central nervous system is made up of",
+      "options": [
+        "sensory organs and muscles.",
+        "the brain and muscles.",
+        "the sensory organs and spinal cord.",
+        "the brain and spinal column."
+      ],
+      "answer": "the brain and spinal column.",
+      "explanation": "The central nervous system (CNS) consists of the brain and the spinal cord."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "text": "Which of the following organisms causes epidemic meningitis cases at college campuses?",
+      "options": [
+        "Haemophilus influenzae type b",
+        "Neisseria meningitidis",
+        "Streptococcus pneumoniae",
+        "Listeria monocytogenes"
+      ],
+      "answer": "Neisseria meningitidis",
+      "explanation": "Neisseria meningitidis (meningococcus) is a common cause of bacterial meningitis outbreaks in settings like college dormitories due to close living conditions facilitating transmission."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "text": "Which of the following is the most common cause of neonatal meningitis?",
+      "options": [
+        "Haemophilus influenzae b",
+        "Streptococcus agalactiae",
+        "Neisseria meningitidis",
+        "Streptococcus pneumoniae"
+      ],
+      "answer": "Streptococcus agalactiae",
+      "explanation": "Streptococcus agalactiae (Group B Streptococcus) is the leading cause of neonatal meningitis, often acquired by the infant during passage through the birth canal of a colonized mother."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "text": "What sign/symptom would NOT be associated with infant botulism?",
+      "options": [
+        "difficulty suckling",
+        "limp body",
+        "stiff neck",
+        "weak cry"
+      ],
+      "answer": "stiff neck",
+      "explanation": "Infant botulism causes flaccid paralysis, leading to symptoms like difficulty suckling, limp body (hypotonia), and weak cry. A stiff neck is more characteristic of meningitis."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "text": "Which of the following can NOT be prevented with a vaccine?",
+      "options": [
+        "tetanus",
+        "pneumococcal meningitis",
+        "meningococcal meningitis",
+        "listeriosis"
+      ],
+      "answer": "listeriosis",
+      "explanation": "Vaccines are available for tetanus (DTaP/Tdap), pneumococcal meningitis (PCV, PPSV23), and meningococcal meningitis (MenACWY, MenB). There is currently no vaccine to prevent listeriosis (caused by Listeria monocytogenes)."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "text": "How is leprosy primarily transmitted from person to person?",
+      "options": [
+        "contaminated toilet seats",
+        "shaking hands",
+        "blowing nose",
+        "sexual intercourse"
+      ],
+      "answer": "blowing nose",
+      "explanation": "Leprosy (Hansen's disease), caused by Mycobacterium leprae, is thought to be transmitted primarily via respiratory droplets from the nose and mouth during close and frequent contact with untreated cases. Shaking hands or contaminated surfaces are not primary routes."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "text": "Which of these diseases can be prevented with a vaccine for humans?",
+      "options": [
+        "eastern equine encephalitis",
+        "western equine encephalitis",
+        "West Nile encephalitis",
+        "Japanese encephalitis"
+      ],
+      "answer": "Japanese encephalitis",
+      "explanation": "A vaccine is available for Japanese encephalitis. Vaccines for EEE, WEE, and WNV are primarily for horses or are not routinely used for humans in all areas, though some investigational human vaccines exist or are used in specific high-risk populations."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "text": "Which of these diseases does NOT require the introduction of foreign nucleic acid?",
+      "options": [
+        "kuru",
+        "polio",
+        "rabies",
+        "St. Louis encephalitis"
+      ],
+      "answer": "kuru",
+      "explanation": "Kuru is a prion disease caused by an infectious protein (prion), not by a pathogen with nucleic acid (like viruses such as polio, rabies, or St. Louis encephalitis virus)."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "text": "Which of these is true of the Sabin but NOT the Salk polio vaccine?",
+      "options": [
+        "requires four injections",
+        "currently administered in the United States",
+        "mimics the normal route of infection",
+        "is an inactivated vaccine"
+      ],
+      "answer": "mimics the normal route of infection",
+      "explanation": "The Sabin vaccine (oral polio vaccine, OPV) is a live-attenuated vaccine administered orally, mimicking the natural route of poliovirus infection and inducing intestinal immunity. The Salk vaccine (inactivated polio vaccine, IPV) is injected and is an inactivated vaccine. The Salk vaccine is currently used in the US."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "text": "Which of the following animals is NOT a typical reservoir for the spread of rabies?",
+      "options": [
+        "dog",
+        "bat",
+        "skunk",
+        "chicken"
+      ],
+      "answer": "chicken",
+      "explanation": "Dogs, bats, skunks, raccoons, and foxes are common reservoirs for rabies. Birds, including chickens, are not typical reservoirs for rabies virus."
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "text": "Which of these diseases results in meningitis caused by an encapsulated yeast?",
+      "options": [
+        "cryptococcosis",
+        "histoplasmosis",
+        "candidiasis",
+        "coccidiomycosis"
+      ],
+      "answer": "cryptococcosis",
+      "explanation": "Cryptococcosis, caused by the encapsulated yeast Cryptococcus neoformans or C. gattii, is a common cause of fungal meningitis, especially in immunocompromised individuals."
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "text": "What kind of stain is most commonly used to visualize the capsule of cryptococcus?",
+      "options": [
+        "Gram stain",
+        "simple stain",
+        "negative stain",
+        "fluorescent stain"
+      ],
+      "answer": "negative stain",
+      "explanation": "A negative stain, such as India ink, is commonly used to visualize the polysaccharide capsule of Cryptococcus species. The capsule repels the ink, creating a clear halo around the yeast cell against a dark background."
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "text": "Which of the following is the causative agent of East African trypanosomiasis?",
+      "options": [
+        "Trypanosoma cruzi",
+        "Trypanosoma vivax",
+        "Trypanosoma brucei rhodanese",
+        "Trypanosoma brucei gambiense"
+      ],
+      "answer": "Trypanosoma brucei rhodanese",
+      "explanation": "East African trypanosomiasis (acute sleeping sickness) is caused by Trypanosoma brucei rhodesiense. Trypanosoma brucei gambiense causes West African (chronic) sleeping sickness. Trypanosoma cruzi causes Chagas disease."
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "text": "Which of the following is the causative agent of primary amoebic meningoencephalitis?",
+      "options": [
+        "Naegleria fowleri",
+        "Entameba histolyticum",
+        "Amoeba proteus",
+        "Acanthamoeba polyphaga"
+      ],
+      "answer": "Naegleria fowleri",
+      "explanation": "Primary amoebic meningoencephalitis (PAM) is a rare but usually fatal brain infection caused by the amoeba Naegleria fowleri, often contracted from warm freshwater."
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "text": "What is the biological vector for African sleeping sickness?",
+      "options": [
+        "mosquito",
+        "tsetse fly",
+        "deer tick",
+        "sand fly"
+      ],
+      "answer": "tsetse fly",
+      "explanation": "African trypanosomiasis (sleeping sickness) is transmitted by the bite of infected tsetse flies (genus Glossina)."
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "text": "How do humans usually contract neurocysticercosis?",
+      "options": [
+        "the bite of an infected arthropod",
+        "exposure to contaminated cat feces",
+        "swimming in contaminated water",
+        "ingestion of undercooked pork"
+      ],
+      "answer": "ingestion of undercooked pork",
+      "explanation": "Neurocysticercosis is caused by infection with the larval stage of the pork tapeworm Taenia solium. Humans can contract cysticercosis by ingesting T. solium eggs (e.g., from food/water contaminated with human feces from a tapeworm carrier) or, less commonly, through autoinfection. Ingestion of undercooked pork containing cysticerci leads to taeniasis (intestinal tapeworm), not directly neurocysticercosis, but a person with taeniasis can contaminate food with eggs. The question implies direct contraction leading to neurocysticercosis, which is via eggs, often linked to environments where pork tapeworm is endemic."
+    },
+    {
+      "id": 21,
+      "type": "multiple-choice",
+      "text": "Which of these is the most important cause of adult onset epilepsy?",
+      "options": [
+        "neurocysticercosis",
+        "neurotoxoplasmosis",
+        "primary amoebic meningoencephalitis",
+        "African trypanosomiasis"
+      ],
+      "answer": "neurocysticercosis",
+      "explanation": "Neurocysticercosis is a major cause of acquired epilepsy in adults in many parts of the world where Taenia solium is endemic."
+    },
+    {
+      "id": 22,
+      "type": "matching",
+      "text": "Match each strategy for microbial invasion of the CNS with its description.",
+      "options": {
+        "intercellular entry": "D. pathogen passes between the cells of the blood-brain barrier",
+        "transcellular entry": "C. pathogen passes through the cells of the blood-brain barrier",
+        "leukocyte-facilitated entry": "A. pathogen gains entry by infecting peripheral white blood cells",
+        "nonhematogenous entry": "B. pathogen bypasses the blood-brain barrier by travel along the olfactory or trigeminal cranial nerves"
+      },
+      "answer": [
+        "intercellular entry - D",
+        "transcellular entry - C",
+        "leukocyte-facilitated entry - A",
+        "nonhematogenous entry - B"
+      ],
+      "explanation": "Intercellular entry involves passing between cells. Transcellular entry involves passing through cells. Leukocyte-facilitated entry uses infected white blood cells as Trojan horses. Nonhematogenous entry bypasses the blood-brain barrier via nerves."
+    },
+    {
+      "id": 23,
+      "type": "fill-in-the-blank",
+      "text": "The cell body of a neuron is called the ________.",
+      "answer": ["soma (or perikaryon)"],
+      "explanation": "The soma, or perikaryon, is the main cell body of a neuron, containing the nucleus and other organelles."
+    },
+    {
+      "id": 24,
+      "type": "fill-in-the-blank",
+      "text": "A signal is transmitted down the ________ of a nerve cell.",
+      "answer": ["axon"],
+      "explanation": "The axon is the long projection of a neuron that conducts electrical impulses away from the neuron's cell body."
+    },
+    {
+      "id": 25,
+      "type": "fill-in-the-blank",
+      "text": "The ________ is filled with cerebrospinal fluid.",
+      "answer": ["subarachnoid space"],
+      "explanation": "The subarachnoid space, located between the arachnoid mater and the pia mater, is filled with cerebrospinal fluid (CSF)."
+    },
+    {
+      "id": 26,
+      "type": "fill-in-the-blank",
+      "text": "The ________ ________ prevents access of microbes in the blood from gaining access to the central nervous system.",
+      "answer": ["blood-brain barrier"],
+      "explanation": "The blood-brain barrier is a highly selective semipermeable border of endothelial cells that prevents solutes and microbes in the circulating blood from non-selectively crossing into the extracellular fluid of the central nervous system."
+    },
+    {
+      "id": 27,
+      "type": "fill-in-the-blank",
+      "text": "The ________ are a set of membranes that cover and protect the brain.",
+      "answer": ["meninges"],
+      "explanation": "The meninges are the three membranes (dura mater, arachnoid mater, and pia mater) that envelop the brain and spinal cord."
+    },
+    {
+      "id": 28,
+      "type": "fill-in-the-blank",
+      "text": "The form of meningitis that can cause epidemics is caused by the pathogen ________.",
+      "answer": ["Neisseria meningitidis"],
+      "explanation": "Neisseria meningitidis (meningococcus) is notorious for causing epidemic bacterial meningitis."
+    },
+    {
+      "id": 29,
+      "type": "fill-in-the-blank",
+      "text": "The symptoms of tetanus are caused by the neurotoxin ________.",
+      "answer": ["tetanospasmin"],
+      "explanation": "Tetanospasmin is the potent neurotoxin produced by Clostridium tetani that causes the characteristic muscle spasms of tetanus."
+    },
+    {
+      "id": 30,
+      "type": "fill-in-the-blank",
+      "text": "________ is another name for leprosy.",
+      "answer": ["Hansen's disease"],
+      "explanation": "Leprosy is also known as Hansen's disease, named after Gerhard Armauer Hansen, who identified Mycobacterium leprae as the causative agent."
+    },
+    {
+      "id": 31,
+      "type": "fill-in-the-blank",
+      "text": "Botulism prevents the release of the neurotransmitter ________.",
+      "answer": ["acetylcholine"],
+      "explanation": "Botulinum toxin, produced by Clostridium botulinum, blocks the release of acetylcholine from motor neurons at the neuromuscular junction, causing flaccid paralysis."
+    },
+    {
+      "id": 32,
+      "type": "fill-in-the-blank",
+      "text": "________ is a neurological disease that can be prevented with the DTaP vaccine.",
+      "answer": ["Tetanus"],
+      "explanation": "The DTaP vaccine protects against Diphtheria, Tetanus, and Pertussis. Tetanus is a neurological disease caused by Clostridium tetani."
+    },
+    {
+      "id": 33,
+      "type": "fill-in-the-blank",
+      "text": "Tetanus patients exhibit ________ when muscle spasms causes them to arch their backs.",
+      "answer": ["opisthotonos"],
+      "explanation": "Opisthotonos is a severe muscle spasm that causes arching of the back and neck, a characteristic sign of severe tetanus."
+    },
+    {
+      "id": 34,
+      "type": "fill-in-the-blank",
+      "text": "The rogue form of the prion protein is called ________.",
+      "answer": ["PrPSc (Prion Protein Scrapie)"],
+      "explanation": "PrPSc is the abnormal, misfolded, infectious form of the prion protein, which can induce normal PrPC proteins to misfold."
+    },
+    {
+      "id": 35,
+      "type": "fill-in-the-blank",
+      "text": "________ are the most common reservoir for the rabies virus worldwide.",
+      "answer": ["Dogs"],
+      "explanation": "While various mammals can be reservoirs, dogs are the most common source of human rabies deaths globally, particularly in Asia and Africa."
+    },
+    {
+      "id": 36,
+      "type": "fill-in-the-blank",
+      "text": "________ was the scientist who developed the inactivated polio vaccine.",
+      "answer": ["Jonas Salk"],
+      "explanation": "Jonas Salk developed the first successful inactivated polio vaccine (IPV) in the 1950s."
+    },
+    {
+      "id": 37,
+      "type": "fill-in-the-blank",
+      "text": "________ is a prion disease of deer and elk.",
+      "answer": ["Chronic Wasting Disease (CWD)"],
+      "explanation": "Chronic Wasting Disease (CWD) is a transmissible spongiform encephalopathy (prion disease) affecting deer, elk, reindeer, sika deer and moose."
+    },
+    {
+      "id": 38,
+      "type": "fill-in-the-blank",
+      "text": "The rogue form of prion protein exists primarily in the ________ conformation.",
+      "answer": ["beta-sheet (β-sheet)"],
+      "explanation": "The normal prion protein (PrPC) is rich in alpha-helices, while the misfolded, infectious form (PrPSc) has a higher proportion of beta-sheet structures."
+    },
+    {
+      "id": 39,
+      "type": "fill-in-the-blank",
+      "text": "The ________ is the main virulence factor of Cryptococcus neoformans.",
+      "answer": ["polysaccharide capsule"],
+      "explanation": "The large polysaccharide capsule of Cryptococcus neoformans is a major virulence factor, protecting it from phagocytosis and contributing to its pathogenicity."
+    },
+    {
+      "id": 40,
+      "type": "fill-in-the-blank",
+      "text": "The drug of choice for fungal infections of the nervous system is ________.",
+      "answer": ["amphotericin B"],
+      "explanation": "Amphotericin B is a broad-spectrum antifungal often used as a first-line treatment for severe fungal infections of the CNS, such as cryptococcal meningitis, despite its toxicity."
+    },
+    {
+      "id": 41,
+      "type": "fill-in-the-blank",
+      "text": "The larval forms of a tapeworm are known as ________.",
+      "answer": ["cysticerci"],
+      "explanation": "Cysticerci are the larval cysts of tapeworms (e.g., Taenia species) that develop in the tissues of intermediate hosts."
+    },
+    {
+      "id": 42,
+      "type": "fill-in-the-blank",
+      "text": "________ sign appears as swollen lymph nodes at the back of the neck in early African trypanosomiasis.",
+      "answer": ["Winterbottom's"],
+      "explanation": "Winterbottom's sign, characterized by swollen posterior cervical lymph nodes, is a classic early sign of West African trypanosomiasis (caused by T. b. gambiense)."
+    },
+    {
+      "id": 43,
+      "type": "fill-in-the-blank",
+      "text": "________ African trypanosomiasis causes a chronic form of sleeping sickness.",
+      "answer": ["West (or Gambian)"],
+      "explanation": "West African trypanosomiasis, caused by Trypanosoma brucei gambiense, typically has a chronic progression."
+    },
+    {
+      "id": 44,
+      "type": "fill-in-the-blank",
+      "text": "The definitive host for Toxoplasma gondii is ________.",
+      "answer": ["cats (felines)"],
+      "explanation": "Cats are the definitive hosts for Toxoplasma gondii, meaning the parasite undergoes sexual reproduction only in felines, which then excrete oocysts in their feces."
+    },
+    {
+      "id": 45,
+      "type": "fill-in-the-blank",
+      "text": "Trypanosomes can evade the immune response through ________ variation.",
+      "answer": ["antigenic"],
+      "explanation": "African trypanosomes exhibit antigenic variation by sequentially changing their surface glycoproteins (Variant Surface Glycoproteins, VSGs), allowing them to evade the host's adaptive immune response."
+    },
+    {
+      "id": 46,
+      "type": "short-answer",
+      "text": "Briefly describe the defenses of the brain against trauma and infection.",
+      "answer": "Defenses include: 1. Physical barriers: Skull (bone), meninges (membranes), cerebrospinal fluid (CSF for cushioning). 2. Blood-brain barrier: Highly selective barrier formed by endothelial cells with tight junctions, limiting passage of substances and microbes from blood to brain. 3. Immune cells: Microglia (resident macrophages of the CNS) provide immune surveillance. Astrocytes also play a role in defense and repair.",
+      "explanation": "The brain is protected by the skull, meninges, and cerebrospinal fluid (CSF) against trauma. The blood-brain barrier restricts entry of microbes and harmful substances. Microglia act as immune cells within the CNS."
+    },
+    {
+      "id": 47,
+      "type": "short-answer",
+      "text": "Describe how the blood-brain barrier is formed.",
+      "answer": "The blood-brain barrier is formed by endothelial cells lining the capillaries of the CNS. These cells are connected by extensive tight junctions, which severely restrict paracellular movement of substances. Astrocytes (a type of glial cell) extend foot processes that surround the capillaries and contribute to the induction and maintenance of the barrier properties. Pericytes embedded in the capillary basement membrane also play a role.",
+      "explanation": "It's formed by capillary endothelial cells with tight junctions, a thick basement membrane, and astrocyte foot processes surrounding the capillaries, all of which limit permeability."
+    },
+    {
+      "id": 48,
+      "type": "short-answer",
+      "text": "Identify the type of cell shown, as well as the following structures: axon, dendrite, myelin sheath, soma, and synapse. (Drawing of a neuron. The large round regions with a darker purple circle is A. Short projections from A are G. A long projection from A is B. This is wrapped in structure E and has gaps labeled F. E is made from C. The end of the long projection is D.)",
+      "answer": "The cell shown is a neuron. A = soma (cell body); B = axon; C = Schwann cell (or oligodendrocyte, forming myelin); D = synapse (axon terminal); E = myelin sheath; F = Node of Ranvier (gap in myelin sheath); G = dendrite.",
+      "explanation": "A is the soma (cell body). G are dendrites. B is the axon. E is the myelin sheath, formed by C (Schwann cells/oligodendrocytes). F are nodes of Ranvier. D represents the axon terminals forming synapses."
+    },
+    {
+      "id": 49,
+      "type": "short-answer",
+      "text": "A physician suspects the lesion and pustule pictured here are indicative of tuberculoid leprosy. If the diagnosis is correct, what microorganism would be found in a skin biopsy? (Discolored tissue. Figure 26.28 credit: Centers for Disease Control and Prevention)",
+      "answer": "If the diagnosis is tuberculoid leprosy, Mycobacterium leprae would be found in a skin biopsy. However, in tuberculoid leprosy, the bacterial load is typically low, and organisms may be difficult to detect compared to lepromatous leprosy.",
+      "explanation": "Leprosy (Hansen's disease) is caused by Mycobacterium leprae. In tuberculoid leprosy, few bacilli are typically present in lesions due to a strong cell-mediated immune response."
+    },
+    {
+      "id": 50,
+      "type": "short-answer",
+      "text": "Explain how a person could contract variant Creutzfeldt-Jakob disease by consuming products from a cow with bovine spongiform encephalopathy (mad cow disease).",
+      "answer": "Bovine spongiform encephalopathy (BSE) in cows and variant Creutzfeldt-Jakob disease (vCJD) in humans are caused by prions. If a person consumes meat products (especially those containing nervous system tissue like brain or spinal cord) from a cow infected with BSE, they can ingest the BSE prions. These prions are resistant to normal cooking temperatures and digestion. Once ingested, the BSE prions can cross the intestinal barrier, travel to the nervous system, and induce the misfolding of normal human prion proteins, leading to vCJD.",
+      "explanation": "vCJD is believed to be caused by consuming beef products contaminated with prions from cattle infected with BSE. The infectious prions are ingested, resist digestion, and eventually cause normal human prion proteins to misfold in the brain."
+    },
+    {
+      "id": 51,
+      "type": "short-answer",
+      "text": "Why do nervous system infections by fungi require such long treatment times?",
+      "answer": "Several factors contribute: 1. Slow growth of fungi: Fungi generally replicate slower than bacteria, requiring longer drug exposure. 2. Blood-brain barrier penetration: Many antifungal drugs do not efficiently cross the blood-brain barrier, resulting in lower concentrations in the CNS. 3. Eukaryotic nature of fungi: Fungi are eukaryotes, like human cells, so antifungal drugs must be highly selective to avoid host toxicity, which can limit dosage or drug choices. 4. Immune response: Often, these infections occur in immunocompromised individuals, where the host's immune system provides little help in clearing the infection, making drug efficacy even more critical and prolonged treatment necessary.",
+      "explanation": "Fungal infections in the CNS require long treatment because: fungi grow slowly, antifungal drugs often penetrate the blood-brain barrier poorly, fungi are eukaryotes so drugs can be toxic to host cells, and often occur in immunocompromised patients."
+    },
+    {
+      "id": 52,
+      "type": "short-answer",
+      "text": "Briefly describe how humans are infected by Naegleria fowleri.",
+      "answer": "Humans are typically infected by Naegleria fowleri when water containing the amoeba enters the nose, usually during swimming or diving in warm freshwater (lakes, rivers, hot springs). The amoeba then travels along the olfactory nerve, through the cribriform plate, and into the brain, causing primary amoebic meningoencephalitis (PAM). Infection does not occur by swallowing contaminated water.",
+      "explanation": "Infection occurs when water containing Naegleria fowleri enters the nose (e.g., during swimming in warm freshwater). The amoeba then migrates along the olfactory nerve to the brain."
+    },
+    {
+      "id": 53,
+      "type": "short-answer",
+      "text": "Briefly describe how humans can develop neurocysticercosis.",
+      "answer": "Humans develop neurocysticercosis by ingesting the eggs of the pork tapeworm, Taenia solium. This typically occurs through consumption of food or water contaminated with fecal matter from a human tapeworm carrier, or through autoinfection in individuals with intestinal taeniasis. Once ingested, the eggs hatch in the intestine, larvae (oncospheres) penetrate the intestinal wall, enter the bloodstream, and migrate to various tissues, including the brain, where they develop into cysticerci (larval cysts).",
+      "explanation": "Humans develop neurocysticercosis by ingesting Taenia solium (pork tapeworm) eggs, usually from food or water contaminated with feces from a human tapeworm carrier. The larvae then migrate to the brain and form cysts."
+    },
+    {
+      "id": 54,
+      "type": "critical-thinking",
+      "text": "What important function does the blood-brain barrier serve? How might this barrier be problematic at times?",
+      "answer": "Function: The blood-brain barrier (BBB) protects the central nervous system (CNS) from harmful substances, pathogens, and fluctuations in blood composition by tightly regulating the passage of molecules from the blood into the brain. Problematic: This selectivity can also be a problem because it restricts the entry of many therapeutic drugs (e.g., antibiotics, chemotherapeutic agents) into the CNS, making it difficult to treat infections, tumors, or other diseases of the brain and spinal cord.",
+      "explanation": "The BBB protects the CNS from toxins and pathogens. However, it also hinders the delivery of many therapeutic drugs to the brain, making treatment of CNS diseases challenging."
+    },
+    {
+      "id": 55,
+      "type": "critical-thinking",
+      "text": "Explain how tetanospasmin functions to cause disease.",
+      "answer": "Tetanospasmin is a neurotoxin produced by Clostridium tetani. It enters motor neurons and travels via retrograde axonal transport to the central nervous system (spinal cord and brainstem). There, it blocks the release of inhibitory neurotransmitters (like glycine and GABA) from inhibitory interneurons. This disinhibition of motor neurons leads to unregulated excitatory synaptic activity, resulting in continuous muscle contraction, rigidity, and spasms (spastic paralysis) characteristic of tetanus.",
+      "explanation": "Tetanospasmin blocks the release of inhibitory neurotransmitters (GABA and glycine) in the CNS. This leads to unopposed muscle contraction and spasm (spastic paralysis)."
+    },
+    {
+      "id": 56,
+      "type": "critical-thinking",
+      "text": "The most common causes of bacterial meningitis can be the result of infection by three very different bacteria. Which bacteria are they and how are these microbes similar to each other?",
+      "answer": "The three most common causes of bacterial meningitis (excluding neonates) are: 1. Streptococcus pneumoniae (pneumococcus) 2. Neisseria meningitidis (meningococcus) 3. Haemophilus influenzae type b (Hib) (though much less common now due to vaccination). Similarities: All three are typically encapsulated, which is a major virulence factor that helps them evade phagocytosis and survive in the bloodstream. They often colonize the nasopharynx asymptomatically before potentially invading the bloodstream and then the meninges.",
+      "explanation": "Common causes are Streptococcus pneumoniae, Neisseria meningitidis, and (historically, now less due to vaccine) Haemophilus influenzae type b. A key similarity is that they all possess polysaccharide capsules, which are important virulence factors aiding in immune evasion."
+    },
+    {
+      "id": 57,
+      "type": "critical-thinking",
+      "text": "Explain how infant botulism is different than foodborne botulism.",
+      "answer": "Infant botulism: Occurs when infants (typically <1 year old) ingest Clostridium botulinum spores (e.g., from honey or environmental dust). The spores germinate in the infant's immature gut, and the bacteria colonize and produce botulinum toxin in vivo. It's an infection followed by intoxication. Foodborne botulism: Occurs when pre-formed botulinum toxin is ingested from improperly canned or preserved food where C. botulinum has grown and produced the toxin. It's primarily an intoxication, not an infection (though spores might also be ingested).",
+      "explanation": "Infant botulism results from ingesting C. botulinum spores, which then germinate and produce toxin in the infant's gut (an infection leading to intoxication). Foodborne botulism results from ingesting pre-formed toxin in contaminated food (an intoxication)."
+    },
+    {
+      "id": 58,
+      "type": "critical-thinking",
+      "text": "If the Sabin vaccine is being used to eliminate polio worldwide, explain why a country with a near zero infection rate would opt to use the Salk vaccine but not the Sabin vaccine?",
+      "answer": "The Sabin vaccine (oral polio vaccine, OPV) is live-attenuated. While highly effective and providing intestinal immunity, it carries a very rare risk of causing vaccine-associated paralytic poliomyelitis (VAPP) in recipients or their close contacts, and can revert to a virulent form (circulating vaccine-derived poliovirus, cVDPV). In a country with near-zero wild polio, the risk from VAPP/cVDPV, though tiny, may outweigh the benefit of OPV. The Salk vaccine (inactivated polio vaccine, IPV) is killed and carries no risk of causing polio. Therefore, countries that have eliminated wild polio often switch to IPV to maintain immunity without the risk associated with the live vaccine.",
+      "explanation": "The Sabin (live oral) vaccine can, very rarely, cause vaccine-associated paralytic polio (VAPP) or revert to a form that can circulate (cVDPV). In countries with no wild polio, the risk from the Sabin vaccine may be greater than the risk of polio itself. The Salk (inactivated) vaccine does not carry this risk."
+    },
+    {
+      "id": 59,
+      "type": "critical-thinking",
+      "text": "The graph shown tracks the body temperature of a patient infected with Trypanosoma brucei. How would you describe this pattern, and why does it occur? (Graph with Days on the X axis and Temperature on the Y axis. There is a peak to 40 degrees C early on then a drop back to normal temperatures (37 degree C) for 7 days. Then another peak, then another drop to normal for 9 days, then another peak and then another drop to normal for 9 days. Figure 26.29 credit: modification of work by Wellcome Images)",
+      "answer": "The pattern is one of recurring or relapsing fevers, where periods of high fever alternate with afebrile periods. This occurs because Trypanosoma brucei undergoes antigenic variation. The host mounts an immune response against the dominant surface antigen (Variant Surface Glycoprotein, VSG) of the trypanosomes, clearing most of them and leading to a drop in fever. However, a small subpopulation of trypanosomes switches to expressing a different VSG. These new antigenic variants are not recognized by the existing antibodies, allowing them to multiply, leading to a new wave of parasitemia and a subsequent fever spike. This cycle repeats.",
+      "explanation": "The graph shows a pattern of relapsing fever. This occurs because Trypanosoma brucei undergoes antigenic variation, changing its surface coat proteins (VSGs). Each fever peak corresponds to the host's immune response to a specific VSG variant, followed by the emergence of a new variant that evades that immunity, leading to another rise in parasite numbers and fever."
+    },
+    {
+      "id": 60,
+      "type": "critical-thinking",
+      "text": "Fungal meningoencephalitis is often the ultimate cause of death for AIDS patients. What factors make these infections more problematic than those of bacterial origin?",
+      "answer": "1. Immunocompromised host: AIDS patients have severely weakened immune systems (low CD4 T-cell counts), making them highly susceptible to opportunistic fungal infections and unable to mount an effective immune response. 2. Diagnostic challenges: Fungal infections can be harder to diagnose quickly than bacterial ones. 3. Treatment difficulties: Antifungal drugs can be toxic, may have poor penetration into the CNS, and treatment courses are often very long. Fungi are eukaryotes, so there are fewer unique targets for drugs compared to bacteria. 4. Relapse rates: Even with treatment, relapse rates can be high in severely immunocompromised individuals.",
+      "explanation": "Factors include: severe immunosuppression in AIDS patients, difficulty of antifungal drugs to penetrate the BBB, toxicity and limited efficacy of antifungals (as fungi are eukaryotes), and challenges in diagnosis."
+    },
+    {
+      "id": 61,
+      "type": "critical-thinking",
+      "text": "Compare East African trypanosomiasis with West African trypanosomiasis.",
+      "answer": "East African (Rhodesiense): Caused by Trypanosoma brucei rhodesiense. Acute onset, rapid progression (weeks to months). High parasitemia. Animal reservoirs (wild game, cattle) are common. Primarily found in eastern and southeastern Africa. Chancre at bite site is common. CNS involvement occurs early. West African (Gambiense): Caused by Trypanosoma brucei gambiense. Chronic onset, slow progression (months to years). Low parasitemia. Humans are the main reservoir. Primarily found in western and central Africa. Chancre is less common. CNS involvement occurs late. Winterbottom's sign is characteristic.",
+      "explanation": "East African (T.b. rhodesiense): acute, rapid progression, animal reservoirs common, CNS invasion early. West African (T.b. gambiense): chronic, slow progression, humans main reservoir, CNS invasion late, Winterbottom's sign."
+    }
+  ]
+}

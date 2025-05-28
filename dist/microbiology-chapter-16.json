@@ -1,0 +1,278 @@
+{
+  "title": "Microbiology Questions - Chapter 16",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "text": "Which is the most common type of biological vector of human disease?",
+      "options": [
+        "viruses",
+        "bacteria",
+        "mammals",
+        "arthropods"
+      ],
+      "answer": "arthropods",
+      "explanation": "Arthropods, such as mosquitoes, ticks, and fleas, are the most common biological vectors, transmitting pathogens by biting or other means after the pathogen has replicated within them."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "text": "A mosquito bites a person who subsequently develops a fever and abdominal rash. What type of transmission would this be?",
+      "options": [
+        "mechanical vector transmission",
+        "biological vector transmission",
+        "direct contact transmission",
+        "vehicle transmission"
+      ],
+      "answer": "biological vector transmission",
+      "explanation": "This is biological vector transmission because the mosquito (a biological vector) transmits the pathogen, which often replicates within the vector before transmission to a new host."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "text": "Cattle are allowed to pasture in a field that contains the farmhouse well, and the farmer’s family becomes ill with a gastrointestinal pathogen after drinking the water. What type of transmission of infectious agents would this be?",
+      "options": [
+        "biological vector transmission",
+        "direct contact transmission",
+        "indirect contact transmission",
+        "vehicle transmission"
+      ],
+      "answer": "vehicle transmission",
+      "explanation": "Vehicle transmission involves the transmission of pathogens through vehicles such as contaminated water, food, or air. In this case, the water is the vehicle."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "text": "A blanket from a child with chickenpox is likely to be contaminated with the virus that causes chickenpox (Varicella-zoster virus). What is the blanket called?",
+      "options": [
+        "fomite",
+        "host",
+        "pathogen",
+        "vector"
+      ],
+      "answer": "fomite",
+      "explanation": "A fomite is an inanimate object that can become contaminated with infectious agents and serve as a means of their transmission."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "text": "Which of the following would NOT be considered an emerging disease?",
+      "options": [
+        "Ebola hemorrhagic fever",
+        "West Nile virus fever/encephalitis",
+        "Zika virus disease",
+        "Tuberculosis"
+      ],
+      "answer": "Tuberculosis",
+      "explanation": "Tuberculosis is a long-established disease, although drug-resistant strains are a major concern (reemerging threat). Ebola, West Nile virus, and Zika virus have more recently increased in incidence or geographic range, fitting the definition of emerging diseases."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "text": "Which of the following would NOT be considered a reemerging disease?",
+      "options": [
+        "Drug-resistant tuberculosis",
+        "Drug-resistant gonorrhea",
+        "Malaria",
+        "West Nile virus fever/encephalitis"
+      ],
+      "answer": "West Nile virus fever/encephalitis",
+      "explanation": "West Nile virus is generally considered an emerging infectious disease in many parts of the world where it has newly appeared or significantly increased. Drug-resistant forms of TB and gonorrhea, and malaria in areas where it was previously controlled, are examples of reemerging diseases."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "text": "Which of the following factors can lead to reemergence of a disease?",
+      "options": [
+        "A mutation that allows it to infect humans",
+        "A period of decline in vaccination rates",
+        "A change in disease reporting procedures",
+        "Better education on the signs and symptoms of the disease"
+      ],
+      "answer": "A period of decline in vaccination rates",
+      "explanation": "A decline in vaccination rates can reduce herd immunity and allow diseases that were previously controlled to reemerge in a population. A mutation allowing human infection would typically define an emerging disease."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "text": "Why are emerging diseases with very few cases the focus of intense scrutiny?",
+      "options": [
+        "They tend to be more deadly",
+        "They are increasing and therefore not controlled",
+        "They naturally have higher transmission rates",
+        "They occur more in developed countries"
+      ],
+      "answer": "They are increasing and therefore not controlled",
+      "explanation": "Emerging diseases are often new or have recently increased significantly in incidence or geographic range, indicating they are not well controlled and have the potential for wider spread. This lack of control and potential for growth makes them a focus of intense scrutiny."
+    },
+    {
+      "id": 9,
+      "type": "matching",
+      "text": "Match each term with its description.",
+      "stems": {
+        "1": "sporadic disease",
+        "2": "endemic disease",
+        "3": "pandemic disease",
+        "4": "morbidity rate",
+        "5": "mortality rate"
+      },
+      "choices": {
+        "A": "the number of disease cases per 100,000 individuals",
+        "B": "a disease in higher than expected numbers around the world",
+        "C": "the number of deaths from a disease for every 10,000 individuals",
+        "D": "a disease found occasionally in a region with cases occurring mainly in isolation from each other",
+        "E": "a disease found regularly in a region"
+      },
+      "answer": {
+        "1": "D",
+        "2": "E",
+        "3": "B",
+        "4": "A",
+        "5": "C"
+      },
+      "explanation": "Sporadic diseases occur infrequently (D). Endemic diseases are constantly present in a population (E). Pandemic diseases are global outbreaks (B). Morbidity rate is the incidence of disease (A). Mortality rate is the incidence of death from a disease (C)."
+    },
+    {
+      "id": 10,
+      "type": "matching",
+      "text": "Match each type of epidemiology study with its description.",
+      "stems": {
+        "1": "experimental",
+        "2": "analytical",
+        "3": "prospective",
+        "4": "descriptive",
+        "5": "retrospective"
+      },
+      "choices": {
+        "A": "examination of past case histories and medical test results conducted on patients in an outbreak",
+        "B": "examination of current case histories, interviews with patients and their contacts, interpretation of medical test results; frequently conducted while outbreak is still in progress",
+        "C": "use of a set of test subjects (human or animal) and control subjects that are treated the same as the test subjects except for the specific treatment being studied",
+        "D": "observing groups of individuals to look for associations with disease",
+        "E": "a comparison of a cohort of individuals through the course of the study"
+      },
+      "answer": {
+        "1": "C",
+        "2": "D",
+        "3": "E",
+        "4": "B",
+        "5": "A"
+      },
+      "explanation": "Experimental studies involve manipulation of variables (C). Analytical studies aim to find associations (D), often using cohort or case-control designs. Prospective studies follow cohorts forward in time (E). Descriptive studies characterize outbreaks as they happen (B). Retrospective studies look at past data (A)."
+    },
+    {
+      "id": 11,
+      "type": "matching",
+      "text": "Match each pioneer of epidemiology with their contribution.",
+      "stems": {
+        "1": "Florence Nightingale",
+        "2": "Robert Koch",
+        "3": "Joseph Lister",
+        "4": "John Snow"
+      },
+      "choices": {
+        "A": "determined the source of a cholera outbreak in London",
+        "B": "showed that surgical wound infection rates could be dramatically reduced by using carbolic acid to disinfect surgical tools, bandages, and surgical sites",
+        "C": "compiled data on causes of mortality in soldiers, leading to innovations in military medical care",
+        "D": "developed a methodology for conclusively determining the etiology of disease"
+      },
+      "answer": {
+        "1": "C",
+        "2": "D",
+        "3": "B",
+        "4": "A"
+      },
+      "explanation": "Florence Nightingale used data to improve military healthcare (C). Robert Koch established postulates for determining disease etiology (D). Joseph Lister pioneered antiseptic surgery (B). John Snow traced a cholera outbreak to a contaminated water source (A)."
+    },
+    {
+      "id": 12,
+      "type": "fill-in-the-blank",
+      "text": "The ________ collects data and conducts epidemiologic studies in the United States.",
+      "answer": ["Centers for Disease Control and Prevention (CDC)"],
+      "explanation": "The CDC is the primary national public health agency in the United States responsible for disease surveillance, prevention, and control."
+    },
+    {
+      "id": 13,
+      "type": "fill-in-the-blank",
+      "text": "________occurs when an infected individual passes the infection on to other individuals, who pass it on to still others, increasing the penetration of the infection into the susceptible population.",
+      "answer": ["Propagated spread (or propagated transmission)"],
+      "explanation": "Propagated spread involves direct or indirect person-to-person transmission, where the disease moves through a population over time, often showing a progressively taller epidemic curve."
+    },
+    {
+      "id": 14,
+      "type": "fill-in-the-blank",
+      "text": "A batch of food contaminated with botulism exotoxin, consumed at a family reunion by most of the members of a family, would be an example of a ________ outbreak.",
+      "answer": ["point source (or common source)"],
+      "explanation": "A point source outbreak occurs when individuals are exposed to a common contaminated source (like food or water) over a short period, leading to a rapid increase in cases."
+    },
+    {
+      "id": 15,
+      "type": "fill-in-the-blank",
+      "text": "A patient in the hospital with a urinary catheter develops a bladder infection. This is an example of a(n) ________ infection.",
+      "answer": ["nosocomial (or healthcare-associated infection, HAI)"],
+      "explanation": "Nosocomial infections, also known as healthcare-associated infections (HAIs), are infections acquired in a healthcare setting, such as a hospital. Catheter-associated urinary tract infections are common HAIs."
+    },
+    {
+      "id": 16,
+      "type": "fill-in-the-blank",
+      "text": "A ________ is an animal that can transfer infectious pathogens from one host to another.",
+      "answer": ["vector"],
+      "explanation": "A vector is an organism, typically an arthropod like a mosquito or tick, that transmits a pathogen from one host to another. This can be mechanical or biological transmission."
+    },
+    {
+      "id": 17,
+      "type": "fill-in-the-blank",
+      "text": "The ________ collects data and conducts epidemiologic studies at the global level.",
+      "answer": ["World Health Organization (WHO)"],
+      "explanation": "The WHO is an agency of the United Nations responsible for international public health, including global disease surveillance and response."
+    },
+    {
+      "id": 18,
+      "type": "short-answer",
+      "text": "During an epidemic, why might the prevalence of a disease at a particular time not be equal to the sum of the incidences of the disease?",
+      "answer": "Prevalence is the total number of existing cases at a specific point in time, while incidence is the number of new cases over a period of time. The sum of incidences over time would represent all cases that have occurred. However, prevalence at a particular time might be lower than this sum because individuals may have recovered from the disease or died, and thus are no longer current active cases counted in prevalence. For chronic diseases, prevalence may be closer to the sum of incidences over a long period if few people recover or die quickly.",
+      "explanation": "Prevalence counts active cases at a point in time. The sum of incidences includes all new cases over time. Prevalence is lower if individuals have recovered or died, as they are no longer active cases."
+    },
+    {
+      "id": 19,
+      "type": "short-answer",
+      "text": "In what publication would you find data on emerging/reemerging diseases in the United States?",
+      "answer": "Data on emerging and reemerging diseases in the United States can primarily be found in the Morbidity and Mortality Weekly Report (MMWR) published by the Centers for Disease Control and Prevention (CDC). Other CDC publications and reports also provide such data.",
+      "explanation": "The CDC's Morbidity and Mortality Weekly Report (MMWR) is a primary source for data on notifiable diseases, including emerging and reemerging ones, in the U.S."
+    },
+    {
+      "id": 20,
+      "type": "short-answer",
+      "text": "What activity did John Snow conduct, other than mapping, that contemporary epidemiologists also use when trying to understand how to control a disease?",
+      "answer": "Besides mapping cases, John Snow conducted interviews with affected individuals and their families to gather information about their habits and potential exposures (e.g., their water source). This systematic collection of case history data and hypothesis testing through observation and interviews is a fundamental activity in descriptive and analytical epidemiology used today to identify risk factors and modes of transmission.",
+      "explanation": "John Snow interviewed residents to determine their water sources, linking cholera to specific contaminated water pumps. This case-finding, interviewing, and hypothesis testing based on exposure data is a core epidemiological practice."
+    },
+    {
+      "id": 21,
+      "type": "short-answer",
+      "text": "Differentiate between droplet vehicle transmission and airborne transmission.",
+      "answer": "Droplet vehicle transmission involves the spread of pathogens via respiratory droplets (mucus particles >5 micrometers in diameter) expelled during coughing, sneezing, or talking. These droplets travel short distances (typically less than 1 meter) and do not remain suspended in the air for long. Airborne transmission involves pathogens carried on smaller droplet nuclei (<5 micrometers) or dust particles that can remain suspended in the air for extended periods and travel longer distances (greater than 1 meter).",
+      "explanation": "Droplet transmission involves larger particles traveling short distances (<1m). Airborne transmission involves smaller particles (droplet nuclei) that can remain suspended in air and travel longer distances (>1m)."
+    },
+    {
+      "id": 22,
+      "type": "critical-thinking",
+      "text": "Why might an epidemiological population in a state not be the same size as the number of people in a state? Use an example.",
+      "answer": "An epidemiological population refers to the group of individuals susceptible to a specific disease or condition being studied, not necessarily everyone residing in a geographical area. For example, if epidemiologists are studying the incidence of ovarian cancer in a state, the epidemiological population would only include individuals with ovaries (typically biological females), which is a subset of the total number of people in the state. Men and children without ovaries would not be part of this specific epidemiological population, even though they reside in the state.",
+      "explanation": "An epidemiological population is defined by susceptibility to the condition under study. For example, a study on prostate cancer would only include individuals with a prostate gland as its epidemiological population, which is smaller than the total state population."
+    },
+    {
+      "id": 23,
+      "type": "critical-thinking",
+      "text": "Many people find that they become ill with a cold after traveling by airplane. The air circulation systems of commercial aircraft use HEPA filters that should remove any infectious agents that pass through them. What are the possible reasons for increased incidence of colds after flights?",
+      "answer": "Possible reasons include: 1. Close proximity to infected individuals: Airplanes confine many people in a small space for extended periods, increasing the chance of direct transmission (e.g., via droplets from coughing/sneezing) before air is filtered. 2. Contaminated surfaces (fomites): Tray tables, armrests, seatbelt buckles, and lavatory surfaces can be contaminated with respiratory viruses. 3. Stress of travel: Travel can be stressful, which can temporarily weaken the immune system. 4. Dry air: Cabin air is often very dry, which can dry out mucous membranes in the respiratory tract, making them more susceptible to infection. 5. Pre-existing exposure: Individuals might have been exposed before the flight, and the timing of symptom onset coincidentally aligns with post-flight. 6. HEPA filter limitations: While effective, HEPA filters might not capture 100% of particles immediately, or air circulation patterns might not be perfectly efficient in all parts of the cabin.",
+      "explanation": "Reasons include close proximity to infected passengers (droplet transmission), contaminated surfaces, stress, dry cabin air impairing mucous membranes, and coincidental timing of pre-existing exposure. HEPA filters are effective but don't eliminate all transmission risks immediately."
+    },
+    {
+      "id": 24,
+      "type": "critical-thinking",
+      "text": "An Atlantic crossing by boat from England to New England took 60–80 days in the 18th century. In the late 19th century the voyage took less than a week. How do you think these time differences for travel might have impacted the spread of infectious diseases from Europe to the Americas, or vice versa?",
+      "answer": "Longer travel times (60-80 days): For acute infections with short incubation and illness periods (e.g., measles, smallpox), individuals might complete the entire disease cycle (incubate, become ill, and either recover or die) during the voyage. This could mean fewer actively infectious people arriving at the destination, potentially limiting initial spread. However, if many were infected, the ship could become a concentrated outbreak zone, and survivors could still introduce the disease. Shorter travel times (less than a week): Individuals infected shortly before or during the voyage would be more likely to arrive at their destination while still in the incubation period or early stages of illness, thus being actively infectious upon arrival. This could facilitate more rapid and widespread transmission of diseases into new populations. The shorter travel time increases the likelihood of an infected person arriving while still contagious, potentially leading to faster and broader outbreaks.",
+      "explanation": "Longer voyages: Individuals might recover or die en route, potentially reducing the number of infectious arrivals for acute diseases. Shorter voyages: Higher likelihood of infected individuals arriving while still contagious, facilitating faster spread of diseases to new populations."
+    }
+  ]
+}
