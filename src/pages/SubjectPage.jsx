@@ -6,10 +6,8 @@ import {
   Grid, 
   Card, 
   CardContent, 
-  CardActions, 
-  Button,
-  LinearProgress,
   Box,
+  LinearProgress,
   Breadcrumbs,
   Link
 } from '@mui/material'
@@ -56,6 +54,10 @@ function SubjectPage() {
     loadSubjectData()
   }, [subject, navigate])
 
+  const handleChapterClick = (chapterId) => {
+    navigate(`/subjects/${subject}/${chapterId}/summary`)
+  }
+
   if (loading) {
     return (
       <Container>
@@ -73,9 +75,9 @@ function SubjectPage() {
         <Typography variant="h4" component="h1" gutterBottom>
           Subject not found
         </Typography>
-        <Button variant="contained" onClick={() => navigate('/')}>
+        <Link component="button" variant="contained" onClick={() => navigate('/')}>
           Back to Dashboard
-        </Button>
+        </Link>
       </Container>
     )
   }
@@ -107,7 +109,17 @@ function SubjectPage() {
           
           return (
             <Grid item xs={12} sm={6} md={4} key={chapter.id}>
-              <Card>
+              <Card 
+                sx={{ 
+                  cursor: 'pointer',
+                  transition: 'transform 0.2s, box-shadow 0.2s',
+                  '&:hover': {
+                    transform: 'translateY(-4px)',
+                    boxShadow: 4
+                  }
+                }}
+                onClick={() => handleChapterClick(chapter.id)}
+              >
                 <CardContent>
                   <Typography variant="h6" component="div">
                     Chapter {chapter.number}
@@ -139,26 +151,6 @@ function SubjectPage() {
                     </Box>
                   )}
                 </CardContent>
-                <CardActions>
-                  <Button 
-                    size="small" 
-                    onClick={() => navigate(`/subjects/${subject}/${chapter.id}/summary`)}
-                  >
-                    Summary
-                  </Button>
-                  <Button 
-                    size="small" 
-                    onClick={() => navigate(`/subjects/${subject}/${chapter.id}/questions`)}
-                  >
-                    Questions
-                  </Button>
-                  <Button 
-                    size="small" 
-                    onClick={() => navigate(`/subjects/${subject}/${chapter.id}/quiz`)}
-                  >
-                    Quiz
-                  </Button>
-                </CardActions>
               </Card>
             </Grid>
           )

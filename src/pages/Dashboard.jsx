@@ -6,10 +6,8 @@ import {
   Grid, 
   Card, 
   CardContent, 
-  CardActions, 
-  Button,
+  Box,
   LinearProgress,
-  Box
 } from '@mui/material'
 import { getAvailableSubjects } from '../utils/dataLoader'
 import { useUserProgress } from '../contexts/UserProgressContext'
@@ -34,6 +32,10 @@ function Dashboard() {
 
     loadSubjects()
   }, [])
+
+  const handleCardClick = (subjectId) => {
+    navigate(`/subjects/${subjectId}`)
+  }
 
   if (loading) {
     return (
@@ -62,8 +64,21 @@ function Dashboard() {
           
           return (
             <Grid item xs={12} sm={6} md={4} key={subject.id}>
-              <Card>
-                <CardContent>
+              <Card 
+                sx={{ 
+                  height: '100%', 
+                  display: 'flex', 
+                  flexDirection: 'column',
+                  cursor: 'pointer',
+                  transition: 'transform 0.2s, box-shadow 0.2s',
+                  '&:hover': {
+                    transform: 'translateY(-4px)',
+                    boxShadow: 4
+                  }
+                }}
+                onClick={() => handleCardClick(subject.id)}
+              >
+                <CardContent sx={{ flexGrow: 1 }}>
                   <Typography variant="h5" component="div">
                     {subject.name}
                   </Typography>
@@ -87,15 +102,6 @@ function Dashboard() {
                     </Box>
                   )}
                 </CardContent>
-                <CardActions>
-                  <Button 
-                    size="small" 
-                    color="primary"
-                    onClick={() => navigate(`/subjects/${subject.id}`)}
-                  >
-                    Start Learning
-                  </Button>
-                </CardActions>
               </Card>
             </Grid>
           )
