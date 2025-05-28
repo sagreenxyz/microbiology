@@ -124,8 +124,8 @@ function QuestionRenderer({
   }
 
   const renderQuestionContent = () => {
-    // For short answer and critical thinking questions, render as flashcards
-    if (question.type === 'short-answer' || question.type === 'critical-thinking') {
+    // For short answer, critical thinking, and fill-in-the-blank questions, render as flashcards
+    if (question.type === 'short-answer' || question.type === 'critical-thinking' || question.type === 'fill-in-the-blank') {
       return (
         <Card variant="outlined" sx={{ mb: 3 }}>
           <CardContent>
@@ -151,7 +151,7 @@ function QuestionRenderer({
                 value={answer}
                 onChange={(e) => setAnswer(e.target.value)}
                 multiline
-                rows={4}
+                rows={question.type === 'fill-in-the-blank' ? 1 : 4}
                 margin="normal"
               />
             ) : (
@@ -166,10 +166,17 @@ function QuestionRenderer({
                 {showExplanation && (
                   <>
                     <Typography variant="subtitle1" fontWeight="bold" gutterBottom>
-                      Model Answer:
+                      {question.type === 'fill-in-the-blank' ? "Correct Answer:" : "Model Answer:"}
                     </Typography>
                     <Typography variant="body1" paragraph sx={{ pl: 2 }}>
-                      {question.answer}
+                      {Array.isArray(question.answer) ? question.answer[0] : question.answer}
+                    </Typography>
+                    
+                    <Typography variant="subtitle1" fontWeight="bold" gutterBottom>
+                      Explanation:
+                    </Typography>
+                    <Typography variant="body1" paragraph sx={{ pl: 2 }}>
+                      {question.explanation}
                     </Typography>
                   </>
                 )}
@@ -294,21 +301,6 @@ function QuestionRenderer({
           </FormControl>
         )
       
-      case 'fill-in-the-blank':
-        return (
-          <TextField
-            fullWidth
-            label="Your Answer"
-            variant="outlined"
-            value={answer}
-            onChange={(e) => setAnswer(e.target.value)}
-            disabled={submitted}
-            margin="normal"
-            error={submitted && showFeedback && !isCorrect}
-            color={submitted && showFeedback && isCorrect ? 'success' : undefined}
-          />
-        )
-      
       case 'matching':
         // Determine the format of the matching question
         let items = []
@@ -366,7 +358,7 @@ function QuestionRenderer({
                   <Box sx={{ mt: 1 }}>
                     {question.pairs ? 
                       (matchingAnswers[item] !== question.pairs.find(p => p.item === item)?.description && (
-                        <Typography variant="body2\" color="success.main">
+                        <Typography variant="body2" color="success.main">
                           Correct match: {question.pairs.find(p => p.item === item)?.description}
                         </Typography>
                       )) :
@@ -474,7 +466,7 @@ function QuestionRenderer({
         )}
       </Box>
       
-      {submitted && showFeedback && question.explanation && (
+      {submitted && showFeedback && question.explanation && !['short-answer', 'critical-thinking', 'fill-in-the-blank'].includes(question.type) && (
         <Box sx={{ mt: 3, p: 2, backgroundColor: 'background.paper', borderRadius: 2, border: 1, borderColor: 'divider' }}>
           <Typography variant="h6" gutterBottom color={isCorrect ? "success.main" : "error.main"}>
             {isCorrect ? "Correct!" : "Incorrect"}
