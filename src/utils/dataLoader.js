@@ -1,7 +1,7 @@
 // Function to load chapter summary
 export async function loadChapterSummary(subject, chapterNumber) {
   try {
-    const response = await fetch(`/subjects/${subject}/${chapterNumber}/microbiology-summary-${chapterNumber}.md`);
+    const response = await fetch(`${import.meta.env.BASE_URL}subjects/${subject}/${chapterNumber}/microbiology-summary-${chapterNumber}.md`);
     if (!response.ok) {
       throw new Error(`Failed to load summary: ${response.status}`);
     }
@@ -15,7 +15,7 @@ export async function loadChapterSummary(subject, chapterNumber) {
 // Function to load chapter questions
 export async function loadChapterQuestions(subject, chapterNumber) {
   try {
-    const response = await fetch(`/subjects/${subject}/${chapterNumber}/microbiology-chapter-${chapterNumber}.json`);
+    const response = await fetch(`${import.meta.env.BASE_URL}subjects/${subject}/${chapterNumber}/microbiology-chapter-${chapterNumber}.json`);
     if (!response.ok) {
       throw new Error(`Failed to load chapter questions: ${response.status}`);
     }
@@ -29,7 +29,7 @@ export async function loadChapterQuestions(subject, chapterNumber) {
 // Function to load quiz questions
 export async function loadQuizQuestions(subject, chapterNumber) {
   try {
-    const response = await fetch(`/subjects/${subject}/${chapterNumber}/microbiology-quiz-${chapterNumber}.json`);
+    const response = await fetch(`${import.meta.env.BASE_URL}subjects/${subject}/${chapterNumber}/microbiology-quiz-${chapterNumber}.json`);
     if (!response.ok) {
       throw new Error(`Failed to load quiz questions: ${response.status}`);
     }
