@@ -1,0 +1,385 @@
+{
+  "title": "Microbiology Questions - Chapter 21",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "text": "_____________ glands produce a lipid-rich substance that contains proteins and minerals and protects the skin.",
+      "options": [
+        "Sweat",
+        "Mammary",
+        "Sebaceous",
+        "Endocrine"
+      ],
+      "answer": "Sebaceous",
+      "explanation": "Sebaceous glands produce sebum, a lipid-rich substance that moisturizes and protects the skin."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "text": "Which layer of skin contains living cells, is vascularized, and lies directly above the hypodermis?",
+      "options": [
+        "the stratum corneum",
+        "the dermis",
+        "the epidermis",
+        "the conjunctiva"
+      ],
+      "answer": "the dermis",
+      "explanation": "The dermis is the layer of skin beneath the epidermis and above the hypodermis; it contains blood vessels, nerves, hair follicles, and glands."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "text": "Staphylococcus aureus is most often associated with being",
+      "options": [
+        "coagulase-positive.",
+        "coagulase-negative.",
+        "catalase-negative.",
+        "gram-negative"
+      ],
+      "answer": "coagulase-positive.",
+      "explanation": "Staphylococcus aureus is typically coagulase-positive, which distinguishes it from many other staphylococci like S. epidermidis (coagulase-negative). It is catalase-positive and gram-positive."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "text": "M protein is produced by",
+      "options": [
+        "Pseudomonas aeruginosa",
+        "Staphylococcus aureus",
+        "Cutibacterium acnes",
+        "Streptococcus pyogenes"
+      ],
+      "answer": "Streptococcus pyogenes",
+      "explanation": "M protein is a major virulence factor found on the surface of Streptococcus pyogenes (Group A Streptococcus) that helps the bacterium evade phagocytosis."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "text": "___________ is a major cause of preventable blindness that can be reduced through improved sanitation.",
+      "options": [
+        "Ophthalmia neonatorum",
+        "Keratitis",
+        "Trachoma",
+        "Cutaneous anthrax"
+      ],
+      "answer": "Trachoma",
+      "explanation": "Trachoma, caused by Chlamydia trachomatis, is a leading cause of preventable blindness worldwide and is associated with poor sanitation and hygiene."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "text": "Which species is frequently associated with nosocomial infections transmitted via medical devices inserted into the body?",
+      "options": [
+        "Staphylococcus epidermidis",
+        "Streptococcus pyogenes",
+        "Proproniobacterium acnes",
+        "Bacillus anthracis"
+      ],
+      "answer": "Staphylococcus epidermidis",
+      "explanation": "Staphylococcus epidermidis is a common member of the skin microbiota that can cause nosocomial infections, particularly by forming biofilms on indwelling medical devices."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "text": "Warts are caused by",
+      "options": [
+        "human papillomavirus.",
+        "herpes simplex virus.",
+        "adenoviruses.",
+        "parvovirus B19."
+      ],
+      "answer": "human papillomavirus.",
+      "explanation": "Warts (papillomas) are benign skin growths caused by various strains of human papillomavirus (HPV)."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "text": "Which of these viruses can spread to the eye to cause a form of keratitis?",
+      "options": [
+        "human papillomavirus",
+        "herpes simplex virus 1",
+        "parvovirus 19",
+        "circoviruses"
+      ],
+      "answer": "herpes simplex virus 1",
+      "explanation": "Herpes simplex virus 1 (HSV-1) can cause herpetic keratitis, an infection of the cornea that can lead to vision impairment."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "text": "Cold sores are associated with:",
+      "options": [
+        "human papillomavirus",
+        "roseola",
+        "herpes simplex viruses",
+        "human herpesvirus 6"
+      ],
+      "answer": "herpes simplex viruses",
+      "explanation": "Cold sores (fever blisters) are typically caused by herpes simplex virus type 1 (HSV-1), and sometimes by HSV-2."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "text": "Which disease is usually self-limiting but is most commonly treated with ganciclovir if medical treatment is needed?",
+      "options": [
+        "roseola",
+        "oral herpes",
+        "papillomas",
+        "viral conjunctivitis"
+      ],
+      "answer": "roseola",
+      "explanation": "Roseola infantum (caused by HHV-6 or HHV-7) is usually self-limiting. In severe cases or in immunocompromised patients, antiviral medications like ganciclovir might be considered, although treatment is primarily supportive."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "text": "Adenoviruses can cause:",
+      "options": [
+        "viral conjunctivitis",
+        "herpetic conjunctivitis",
+        "papillomas",
+        "oral herpes"
+      ],
+      "answer": "viral conjunctivitis",
+      "explanation": "Adenoviruses are a common cause of viral conjunctivitis (pink eye), as well as respiratory illnesses and other infections."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "text": "___________ is a superficial fungal infection found on the head.",
+      "options": [
+        "Tinea cruris",
+        "Tinea capitis",
+        "Tinea pedis",
+        "Tinea corporis"
+      ],
+      "answer": "Tinea capitis",
+      "explanation": "Tinea capitis is a dermatophytic fungal infection (ringworm) of the scalp and hair."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "text": "For what purpose would a health-care professional use a Wood’s lamp for a suspected case of ringworm?",
+      "options": [
+        "to prevent the rash from spreading",
+        "to kill the fungus",
+        "to visualize the fungus",
+        "to examine the fungus microscopically"
+      ],
+      "answer": "to visualize the fungus",
+      "explanation": "A Wood's lamp (black light) can cause certain species of dermatophytes (fungi causing ringworm) to fluoresce, aiding in their visualization and diagnosis."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "text": "Sabouraud dextrose agar CC is selective for:",
+      "options": [
+        "all fungi",
+        "non-saprophytic fungi",
+        "bacteria",
+        "viruses"
+      ],
+      "answer": "non-saprophytic fungi",
+      "explanation": "Sabouraud Dextrose Agar with Chloramphenicol and Cycloheximide (SDA CC) is selective for pathogenic fungi (non-saprophytic) by inhibiting many saprophytic fungi and bacteria."
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "text": "The first-line recommended treatment for sporotrichosis is:",
+      "options": [
+        "itraconazole",
+        "clindamycin",
+        "amphotericin",
+        "nystatin"
+      ],
+      "answer": "itraconazole",
+      "explanation": "Itraconazole is generally the first-line treatment for cutaneous and lymphocutaneous sporotrichosis. Amphotericin B is used for severe or disseminated disease."
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "text": "Which of the following is most likely to cause an Acanthamoeba infection?",
+      "options": [
+        "swimming in a lake while wearing contact lenses",
+        "being bitten by deerflies in Central Africa",
+        "living environments in a college dormitory with communal showers",
+        "participating in a contact sport such as wrestling"
+      ],
+      "answer": "swimming in a lake while wearing contact lenses",
+      "explanation": "Acanthamoeba keratitis is often associated with contact lens wearers, especially those who swim or use tap water with their lenses, as the amoeba can be found in water and soil."
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "text": "The parasitic Loa loa worm can cause great pain when it:",
+      "options": [
+        "moves through the bloodstream",
+        "exits through the skin of the foot",
+        "travels through the conjunctiva",
+        "enters the digestive tract"
+      ],
+      "answer": "travels through the conjunctiva",
+      "explanation": "Loa loa, the African eye worm, is known for migrating through subcutaneous tissues and can cause significant pain and inflammation when it visibly travels across the conjunctiva of the eye."
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "text": "A patient tests positive for Loa loa antibodies. What does this test indicate?",
+      "options": [
+        "The individual was exposed to Loa loa at some point.",
+        "The individual is currently suffering from loiasis.",
+        "The individual has never been exposed to Loa loa.",
+        "The individual is immunosuppressed."
+      ],
+      "answer": "The individual was exposed to Loa loa at some point.",
+      "explanation": "A positive antibody test indicates that the individual's immune system has encountered the Loa loa parasite and produced antibodies against it. It doesn't necessarily mean there is an active, current infection, as antibodies can persist after an infection has cleared or if it's a past exposure."
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "text": "________ is commonly treated with a combination of chlorhexidine and polyhexamethylene biguanide.",
+      "options": [
+        "Acanthamoeba keratitis",
+        "Sporotrichosis",
+        "Candidiasis",
+        "Loiasis"
+      ],
+      "answer": "Acanthamoeba keratitis",
+      "explanation": "Acanthamoeba keratitis is often treated with a combination of topical antiseptic agents like chlorhexidine and polyhexamethylene biguanide (PHMB)."
+    },
+    {
+      "id": 20,
+      "type": "fill-in-the-blank",
+      "text": "The ________ is the outermost layer of the epidermis.",
+      "answer": ["stratum corneum"],
+      "explanation": "The stratum corneum is the most superficial layer of the epidermis, composed of dead, keratinized cells."
+    },
+    {
+      "id": 21,
+      "type": "fill-in-the-blank",
+      "text": "The mucous membrane that covers the surface of the eyeball and inner eyelid is called the ________.",
+      "answer": ["conjunctiva"],
+      "explanation": "The conjunctiva is a thin, transparent mucous membrane lining the inner eyelids and covering the white part of the eyeball (sclera)."
+    },
+    {
+      "id": 22,
+      "type": "fill-in-the-blank",
+      "text": "A purulent wound produces ________.",
+      "answer": ["pus"],
+      "explanation": "A purulent wound is characterized by the production of pus, which consists of dead white blood cells, cellular debris, and bacteria."
+    },
+    {
+      "id": 23,
+      "type": "fill-in-the-blank",
+      "text": "Human herpesvirus 6 is the causative agent of ________.",
+      "answer": ["roseola (or roseola infantum or exanthem subitum)"],
+      "explanation": "Human herpesvirus 6 (HHV-6), and sometimes HHV-7, causes roseola infantum, a common childhood illness characterized by high fever followed by a rash."
+    },
+    {
+      "id": 24,
+      "type": "fill-in-the-blank",
+      "text": "The most common subcutaneous mycosis in temperate regions is ________.",
+      "answer": ["sporotrichosis"],
+      "explanation": "Sporotrichosis, caused by the fungus Sporothrix schenckii, is often referred to as 'rose gardener's disease' and is a common subcutaneous mycosis in temperate climates."
+    },
+    {
+      "id": 25,
+      "type": "fill-in-the-blank",
+      "text": "Eye worm is another name for ________.",
+      "answer": ["Loa loa"],
+      "explanation": "Loa loa is a parasitic nematode also known as the African eye worm due to its migration across the conjunctiva of the eye."
+    },
+    {
+      "id": 26,
+      "type": "fill-in-the-blank",
+      "text": "The ________ is the part of the eye that is damaged due to Acanthamoeba keratitis.",
+      "answer": ["cornea"],
+      "explanation": "Acanthamoeba keratitis is a serious infection of the cornea, the transparent outer layer at the front of the eye, which can lead to vision loss."
+    },
+    {
+      "id": 27,
+      "type": "short-answer",
+      "text": "What is the role of keratin in the skin?",
+      "answer": "Keratin is a fibrous structural protein found in the epidermis, hair, and nails. In the skin, keratin makes the surface tough, resistant to degradation by bacterial enzymes, and relatively waterproof, providing a physical barrier against microbial invasion and desiccation.",
+      "explanation": "Keratin is a tough protein that makes the skin's surface mechanically strong, resistant to microbial enzymes, and helps prevent water loss, forming a protective barrier."
+    },
+    {
+      "id": 28,
+      "type": "short-answer",
+      "text": "What are two ways in which tears help to prevent microbial colonization?",
+      "answer": "1. Mechanical Flushing: Tears physically wash away microbes and debris from the surface of the eye. \n2. Antimicrobial Substances: Tears contain antimicrobial substances like lysozyme, which breaks down bacterial cell walls (peptidoglycan), and lactoferrin, which binds iron, making it unavailable for microbial growth.",
+      "explanation": "Tears prevent microbial colonization by: 1. Flushing microbes away from the eye surface. 2. Containing antimicrobial substances like lysozyme and lactoferrin."
+    },
+    {
+      "id": 29,
+      "type": "short-answer",
+      "text": "Which label indicates a sweat gland? (Reference: A diagram of skin. i – a vase shape in the center of skin with a long projection out the top. iv – the long projection from i. iii – a small vase shape attached to i. ii – a coiled structure in the center with a tube leading out. Figure 21.38 credit: modification of work by National Cancer Institute)",
+      "answer": "Label 'ii' indicates a sweat gland. Sweat glands (eccrine or apocrine) are typically coiled tubular structures located in the dermis or hypodermis with a duct extending to the skin surface.",
+      "explanation": "Based on typical skin diagrams, the coiled structure (ii) with a duct leading to the surface represents a sweat gland. 'i' and 'iv' likely represent a hair follicle and hair shaft, and 'iii' a sebaceous gland."
+    },
+    {
+      "id": 30,
+      "type": "short-answer",
+      "text": "How are leukocidins associated with pus production?",
+      "answer": "Leukocidins are toxins produced by some bacteria (e.g., Staphylococcus aureus) that specifically target and kill leukocytes (white blood cells), particularly neutrophils. The destruction of these immune cells contributes to the formation of pus, which is an accumulation of dead leukocytes, dead bacteria, cellular debris, and fluid at the site of infection.",
+      "explanation": "Leukocidins kill white blood cells (leukocytes). Pus is largely composed of dead leukocytes, so leukocidins contribute to pus formation by destroying these immune cells."
+    },
+    {
+      "id": 31,
+      "type": "short-answer",
+      "text": "What is a good first test to distinguish streptococcal infections from staphylococcal infections?",
+      "answer": "A good first test is the catalase test. Staphylococci are generally catalase-positive (they produce the enzyme catalase, which breaks down hydrogen peroxide into water and oxygen, causing bubbling). Streptococci are generally catalase-negative (they do not produce catalase, so no bubbling occurs).",
+      "explanation": "The catalase test is a key initial differentiator: Staphylococci are catalase-positive, while Streptococci are catalase-negative."
+    },
+    {
+      "id": 32,
+      "type": "short-answer",
+      "text": "Compare and contrast bacterial and viral conjunctivitis.",
+      "answer": "Similarities: Both are inflammations of the conjunctiva (pink eye), causing redness, irritation, and sometimes discharge. Both can be contagious.\nDifferences:\nCausative Agent: Bacterial conjunctivitis is caused by bacteria (e.g., Haemophilus influenzae, Streptococcus pneumoniae, Staphylococcus aureus). Viral conjunctivitis is most commonly caused by adenoviruses.\nDischarge: Bacterial conjunctivitis often produces a thick, purulent (pus-like) discharge that can make eyelids stick together. Viral conjunctivitis typically causes a watery or mucoid discharge.\nOther Symptoms: Viral conjunctivitis is often associated with a more watery eye, and may accompany symptoms of a cold or upper respiratory infection. It can also be more commonly associated with a gritty feeling in the eye. Bacterial conjunctivitis may have more eyelid matting upon waking.\nTreatment: Bacterial conjunctivitis is often treated with antibiotic eye drops. Viral conjunctivitis is usually self-limiting and treatment is supportive; antibiotics are not effective.",
+      "explanation": "Both cause conjunctival inflammation. Bacterial conjunctivitis often has purulent discharge and is treated with antibiotics. Viral conjunctivitis usually has watery discharge, is often associated with colds, and is self-limiting (antibiotics are ineffective)."
+    },
+    {
+      "id": 33,
+      "type": "short-answer",
+      "text": "What yeasts commonly cause opportunistic infections?",
+      "answer": "Candida species, particularly Candida albicans, are the most common yeasts causing opportunistic infections (e.g., thrush, vaginal yeast infections, systemic candidiasis). Cryptococcus neoformans is another important yeast that can cause opportunistic infections, especially meningitis in immunocompromised individuals.",
+      "explanation": "Candida albicans is a very common opportunistic yeast. Cryptococcus neoformans is another significant opportunistic yeast pathogen."
+    },
+    {
+      "id": 34,
+      "type": "critical-thinking",
+      "text": "Explain why it is important to understand the normal microbiota of the skin.",
+      "answer": "Understanding the normal microbiota of the skin is important for several reasons:\n1. Defense against pathogens: Normal microbiota compete with potential pathogens for nutrients and space, and some produce antimicrobial substances, providing a first line of defense.\n2. Immune system development: Exposure to normal microbiota helps train and mature the immune system.\n3. Understanding disease: Disruptions to the normal microbiota (dysbiosis) can lead to skin conditions or increase susceptibility to infections. Knowing the baseline helps identify such disruptions.\n4. Guiding treatment: Some treatments (e.g., broad-spectrum antibiotics) can harm normal microbiota, potentially leading to secondary infections. Understanding this helps in choosing appropriate therapies and considering probiotic or prebiotic interventions.\n5. Differentiating commensals from pathogens: In clinical settings, it's crucial to distinguish between harmless commensals and true pathogens when culturing samples from skin lesions.",
+      "explanation": "Understanding normal skin microbiota is crucial as it acts as a defense mechanism against pathogens, aids in immune system development, helps in diagnosing skin conditions caused by dysbiosis, and guides appropriate medical treatments to avoid harming beneficial microbes."
+    },
+    {
+      "id": 35,
+      "type": "critical-thinking",
+      "text": "Besides the presence or absence of ulceration, how do acute ulcerative and nonulcerative blepharitis differ?",
+      "answer": "Acute ulcerative blepharitis is typically caused by a bacterial infection (often Staphylococcus aureus) at the base of the eyelashes. It is characterized by hard, fibrinous scales or crusts around the eyelashes, loss of eyelashes (madarosis), and small ulcers that may bleed when the crusts are removed. It is often more painful and can lead to scarring or distortion of the eyelid margin.\n\nAcute nonulcerative blepharitis is often associated with allergic reactions or seborrheic dermatitis. It is characterized by greasy, easily removable scales or flakes along the eyelid margins, redness, and itching, but typically without ulceration, significant pain, or eyelash loss. It's more of an inflammatory condition than a direct infection of the eyelash follicles in the same way ulcerative blepharitis is.",
+      "explanation": "Ulcerative blepharitis is usually bacterial, with hard crusts, eyelash loss, and painful ulcers. Nonulcerative blepharitis is often allergic/seborrheic, with greasy scales, itching, but no ulcers or significant pain."
+    },
+    {
+      "id": 36,
+      "type": "critical-thinking",
+      "text": "What steps might you recommend to a patient for reducing the risk of developing a fungal infection of the toenails?",
+      "answer": "Recommendations to reduce risk of toenail fungal infections (onychomycosis):\n1. Keep feet clean and dry: Wash feet daily and dry thoroughly, especially between the toes.\n2. Wear breathable footwear: Choose shoes made of materials like leather or canvas that allow air circulation. Avoid tight, non-breathable shoes.\n3. Change socks regularly: Wear clean, moisture-wicking socks (e.g., cotton or synthetic blends designed for wicking) and change them if feet get sweaty.\n4. Avoid walking barefoot in public damp areas: Wear sandals or shower shoes in public pools, gyms, locker rooms, and showers.\n5. Trim toenails properly: Cut toenails straight across and keep them relatively short. Don't cut them too short or dig into the corners.\n6. Use antifungal powder/spray: If prone to athlete's foot, use antifungal powder or spray on feet and in shoes.\n7. Don't share nail clippers or footwear: Fungi can spread through shared items.\n8. Ensure pedicure salons are hygienic: If getting pedicures, ensure the salon sterilizes its instruments properly.\n9. Treat athlete's foot promptly: Fungal infections of the skin (athlete's foot) can spread to the nails.",
+      "explanation": "Key steps include keeping feet clean and dry, wearing breathable shoes, changing socks, avoiding barefoot walking in public damp areas, proper nail trimming, and using antifungal products if prone to infections."
+    },
+    {
+      "id": 37,
+      "type": "critical-thinking",
+      "text": "Why might a traveler to a region with Loa loa worm have a greater risk of serious infection compared with people who live in the region?",
+      "answer": "People who live in regions where Loa loa is endemic are often exposed to the parasite repeatedly from a young age. This can lead to some level of acquired partial immunity or immune tolerance. Their immune systems may have adapted to modulate the response to the worm, resulting in asymptomatic or milder infections. \nA traveler, on the other hand, is immunologically naive to Loa loa. Their first exposure can elicit a strong, acute inflammatory response, potentially leading to more severe symptoms like Calabar swellings (transient localized subcutaneous edema), intense itching, and more distress when the worm migrates, including through the eye. The lack of prior immune modulation can make the initial infection more clinically apparent and severe.",
+      "explanation": "Residents of endemic areas may develop partial immunity or tolerance due to repeated exposure, leading to milder or asymptomatic infections. A naive traveler's immune system might overreact to a first-time infection, causing more severe symptoms."
+    },
+    {
+      "id": 38,
+      "type": "critical-thinking",
+      "text": "What preventative actions might you recommend to a patient traveling to a region where loiasis is endemic?",
+      "answer": "Preventative actions for a traveler to a loiasis-endemic region:\n1. Insect repellent: Use insect repellents containing DEET (N,N-diethyl-meta-toluamide) or icaridin on exposed skin. Loa loa is transmitted by day-biting deerflies (Chrysops species).\n2. Protective clothing: Wear long-sleeved shirts and long pants, especially during daytime hours when deerflies are most active. Tucking pants into socks can provide additional protection.\n3. Permethrin-treated clothing: Clothing and gear can be treated with permethrin for added protection.\n4. Avoid peak biting times/areas: If possible, reduce outdoor activity during peak deerfly biting hours or in known fly-infested areas (e.g., near swamps, forests).\n5. Window screens: Ensure accommodations have well-maintained window and door screens if available.\n6. Chemoprophylaxis (limited use): For long-term travelers or those at very high risk, a physician might consider prophylactic medication like diethylcarbamazine (DEC), but this is not routinely recommended for short-term travelers due to potential side effects and the risk of severe reactions if the person is already infected with a high microfilarial load of Loa loa or other filarial worms. This would be a specialist decision.",
+      "explanation": "Recommendations include using DEET-containing insect repellent, wearing protective clothing (long sleeves/pants), treating clothing with permethrin, and avoiding peak deerfly biting times/areas. Chemoprophylaxis is rarely used for short-term travel."
+    }
+  ]
+}
