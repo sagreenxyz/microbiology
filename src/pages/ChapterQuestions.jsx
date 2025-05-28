@@ -15,6 +15,7 @@ import {
 import { loadChapterQuestions } from '../utils/dataLoader'
 import { useUserProgress } from '../contexts/UserProgressContext'
 import QuestionRenderer from '../components/QuestionRenderer'
+import QuestionNavigation from '../components/QuestionNavigation'
 
 function ChapterQuestions() {
   const { subject, chapter } = useParams()
@@ -170,7 +171,13 @@ function ChapterQuestions() {
         )
       })}
 
-      <Box sx={{ display: 'flex', justifyContent: 'center', mt: 4, mb: 4 }}>
+      <QuestionNavigation 
+        currentPage={currentPage}
+        totalPages={Math.ceil(questions.length / questionsPerPage)}
+        onPageChange={handlePageChange}
+      />
+
+      <Box sx={{ display: 'flex', justifyContent: 'center', mt: 2, mb: 4 }}>
         <Pagination 
           count={Math.ceil(questions.length / questionsPerPage)} 
           page={currentPage}

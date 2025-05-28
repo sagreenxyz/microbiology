@@ -20,6 +20,7 @@ import {
 import { loadQuizQuestions } from '../utils/dataLoader'
 import { useUserProgress } from '../contexts/UserProgressContext'
 import QuestionRenderer from '../components/QuestionRenderer'
+import QuestionNavigation from '../components/QuestionNavigation'
 
 function QuizQuestions() {
   const { subject, chapter } = useParams()
@@ -209,7 +210,7 @@ function QuizQuestions() {
           />
           
           {score >= 80 ? (
-            <Alert severity="success\" sx={{ mt: 2 }}>
+            <Alert severity="success" sx={{ mt: 2 }}>
               Excellent work! You've mastered this chapter.
             </Alert>
           ) : score >= 60 ? (
@@ -242,7 +243,13 @@ function QuizQuestions() {
         )
       })}
 
-      <Box sx={{ display: 'flex', justifyContent: 'center', mt: 4, mb: 4 }}>
+      <QuestionNavigation 
+        currentPage={currentPage}
+        totalPages={Math.ceil(questions.length / questionsPerPage)}
+        onPageChange={handlePageChange}
+      />
+
+      <Box sx={{ display: 'flex', justifyContent: 'center', mt: 2, mb: 4 }}>
         <Pagination 
           count={Math.ceil(questions.length / questionsPerPage)} 
           page={currentPage}
