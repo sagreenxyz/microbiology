@@ -290,7 +290,7 @@ function QuestionRenderer({
                   <Box sx={{ mt: 1 }}>
                     {question.pairs ? 
                       (matchingAnswers[item] !== question.pairs.find(p => p.item === item)?.description && (
-                        <Typography variant="body2\" color="success.main">
+                        <Typography variant="body2" color="success.main">
                           Correct match: {question.pairs.find(p => p.item === item)?.description}
                         </Typography>
                       )) :
@@ -416,18 +416,12 @@ function QuestionRenderer({
         )}
       </Box>
       
-      {submitted && (
+      {submitted && showFeedback && (
         <Box sx={{ mt: 2 }}>
           <Divider sx={{ my: 2 }} />
-          {isCorrect ? (
-            <Alert severity="success">
-              Correct!
-            </Alert>
-          ) : (
-            <Alert severity="error">
-              Incorrect
-            </Alert>
-          )}
+          <Alert severity={isCorrect ? "success" : "error"}>
+            {isCorrect ? "Correct!" : "Incorrect"}
+          </Alert>
           {question.explanation && (
             <Typography variant="body2" sx={{ mt: 1 }}>
               <strong>Explanation:</strong> {question.explanation}
