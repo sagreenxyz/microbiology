@@ -358,7 +358,7 @@ function QuestionRenderer({
                   <Box sx={{ mt: 1 }}>
                     {question.pairs ? 
                       (matchingAnswers[item] !== question.pairs.find(p => p.item === item)?.description && (
-                        <Typography variant="body2" color="success.main">
+                        <Typography variant="body2\" color="success.main">
                           Correct match: {question.pairs.find(p => p.item === item)?.description}
                         </Typography>
                       )) :
