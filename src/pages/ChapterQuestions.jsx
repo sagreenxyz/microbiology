@@ -23,6 +23,7 @@ import QuestionNavigation from '../components/QuestionNavigation'
 function ChapterQuestions() {
   const { subject, chapter } = useParams()
   const [questions, setQuestions] = useState([])
+  const [filteredQuestions, setFilteredQuestions] = useState([])
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(null)
   const [currentPage, setCurrentPage] = useState(1)
@@ -40,6 +41,11 @@ function ChapterQuestions() {
         const questionsData = await loadChapterQuestions(subject, chapter)
         if (questionsData && questionsData.questions) {
           setQuestions(questionsData.questions)
+          
+          // Filter questions to only include multiple-choice, select all that apply, and true-false
+          const allowedTypes = ['multiple-choice', 'select all that apply', 'true-false']
+          const filtered = questionsData.questions.filter(q => allowedTypes.includes(q.type))
+          setFilteredQuestions(filtered)
         } else {
           setError('Questions not found')
         }
@@ -71,7 +77,7 @@ function ChapterQuestions() {
   // Get current question
   const indexOfLastQuestion = currentPage * questionsPerPage
   const indexOfFirstQuestion = indexOfLastQuestion - questionsPerPage
-  const currentQuestions = questions.slice(indexOfFirstQuestion, indexOfLastQuestion)
+  const currentQuestions = filteredQuestions.slice(indexOfFirstQuestion, indexOfLastQuestion)
 
   if (loading) {
     return (
@@ -100,7 +106,7 @@ function ChapterQuestions() {
     )
   }
 
-  if (questions.length === 0) {
+  if (filteredQuestions.length === 0) {
     return (
       <Container>
         <Typography variant="h4" component="h1" gutterBottom>
@@ -118,7 +124,7 @@ function ChapterQuestions() {
 
   // Calculate completion percentage
   const attemptedCount = Object.values(progress).attempted || 0
-  const completionPercentage = (attemptedCount / questions.length) * 100
+  const completionPercentage = (attemptedCount / filteredQuestions.length) * 100
 
   return (
     <Container>
@@ -174,7 +180,7 @@ function ChapterQuestions() {
           />
           
           <Typography variant="body2" sx={{ mt: 1 }}>
-            Completion: {attemptedCount}/{questions.length} questions attempted ({Math.round(completionPercentage)}%)
+            Completion: {attemptedCount}/{filteredQuestions.length} questions attempted ({Math.round(completionPercentage)}%)
           </Typography>
           <LinearProgress 
             variant="determinate" 
@@ -204,13 +210,13 @@ function ChapterQuestions() {
 
       <QuestionNavigation 
         currentPage={currentPage}
-        totalPages={Math.ceil(questions.length / questionsPerPage)}
+        totalPages={Math.ceil(filteredQuestions.length / questionsPerPage)}
         onPageChange={handlePageChange}
       />
 
       <Box sx={{ display: 'flex', justifyContent: 'center', mt: 2, mb: 4 }}>
         <Pagination 
-          count={Math.ceil(questions.length / questionsPerPage)} 
+          count={Math.ceil(filteredQuestions.length / questionsPerPage)} 
           page={currentPage}
           onChange={handlePageChange}
           color="primary"

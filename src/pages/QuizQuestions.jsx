@@ -28,6 +28,7 @@ import QuestionNavigation from '../components/QuestionNavigation'
 function QuizQuestions() {
   const { subject, chapter } = useParams()
   const [questions, setQuestions] = useState([])
+  const [filteredQuestions, setFilteredQuestions] = useState([])
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(null)
   const [currentPage, setCurrentPage] = useState(1)
@@ -50,11 +51,16 @@ function QuizQuestions() {
         if (questionsData && questionsData.questions) {
           setQuestions(questionsData.questions)
           
+          // Filter questions to only include multiple-choice, select all that apply, and true-false
+          const allowedTypes = ['multiple-choice', 'select all that apply', 'true-false']
+          const filtered = questionsData.questions.filter(q => allowedTypes.includes(q.type))
+          setFilteredQuestions(filtered)
+          
           // Initialize user answers and results
           const initialAnswers = {}
           const initialResults = {}
           
-          questionsData.questions.forEach((_, index) => {
+          filtered.forEach((_, index) => {
             const result = getQuestionProgress(subject, chapter, 'quiz', index)
             if (result !== null) {
               initialResults[index] = result
@@ -65,7 +71,7 @@ function QuizQuestions() {
           setResults(initialResults)
           
           // Check if all questions have been answered
-          if (Object.keys(initialResults).length === questionsData.questions.length) {
+          if (Object.keys(initialResults).length === filtered.length) {
             setQuizSubmitted(true)
           }
         } else {
@@ -116,7 +122,7 @@ function QuizQuestions() {
   // Get current question
   const indexOfLastQuestion = currentPage * questionsPerPage
   const indexOfFirstQuestion = indexOfLastQuestion - questionsPerPage
-  const currentQuestions = questions.slice(indexOfFirstQuestion, indexOfLastQuestion)
+  const currentQuestions = filteredQuestions.slice(indexOfFirstQuestion, indexOfLastQuestion)
 
   if (loading) {
     return (
@@ -145,7 +151,7 @@ function QuizQuestions() {
     )
   }
 
-  if (questions.length === 0) {
+  if (filteredQuestions.length === 0) {
     return (
       <Container>
         <Typography variant="h4" component="h1" gutterBottom>
@@ -162,7 +168,7 @@ function QuizQuestions() {
   }
 
   // Calculate quiz results
-  const totalQuestions = questions.length
+  const totalQuestions = filteredQuestions.length
   const answeredQuestions = Object.keys(results).length
   const correctAnswers = Object.values(results).filter(result => result === true).length
   const score = totalQuestions > 0 ? (correctAnswers / totalQuestions) * 100 : 0
@@ -227,7 +233,7 @@ function QuizQuestions() {
           />
           
           {score >= 80 ? (
-            <Alert severity="success\" sx={{ mt: 2 }}>
+            <Alert severity="success" sx={{ mt: 2 }}>
               Excellent work! You've mastered this chapter.
             </Alert>
           ) : score >= 60 ? (
@@ -275,13 +281,13 @@ function QuizQuestions() {
 
       <QuestionNavigation 
         currentPage={currentPage}
-        totalPages={Math.ceil(questions.length / questionsPerPage)}
+        totalPages={Math.ceil(filteredQuestions.length / questionsPerPage)}
         onPageChange={handlePageChange}
       />
 
       <Box sx={{ display: 'flex', justifyContent: 'center', mt: 2, mb: 4 }}>
         <Pagination 
-          count={Math.ceil(questions.length / questionsPerPage)} 
+          count={Math.ceil(filteredQuestions.length / questionsPerPage)} 
           page={currentPage}
           onChange={handlePageChange}
           color="primary"
