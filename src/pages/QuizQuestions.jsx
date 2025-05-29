@@ -233,7 +233,7 @@ function QuizQuestions() {
           />
           
           {score >= 80 ? (
-            <Alert severity="success" sx={{ mt: 2 }}>
+            <Alert severity="success\" sx={{ mt: 2 }}>
               Excellent work! You've mastered this chapter.
             </Alert>
           ) : score >= 60 ? (
