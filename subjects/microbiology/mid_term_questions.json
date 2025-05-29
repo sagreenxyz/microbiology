@@ -1,0 +1,269 @@
+{
+  "title": "Microbiology Mid-Term Questions",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "text": "Which of the following types of microorganisms is photosynthetic?",
+      "options": ["alga", "yeast", "virus", "helminth"],
+      "answer": "alga",
+      "explanation": "Algae are eukaryotic microorganisms that contain chloroplasts and perform photosynthesis. Yeasts are fungi, viruses are acellular, and helminths are parasitic worms."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "text": "Which type of microscope would be the best choice for viewing very small surface structures of a cell?",
+      "options": ["a phase-contrast microscope", "a transmission electron microscope", "a scanning electron microscope", "a brightfield microscope"],
+      "answer": "a scanning electron microscope",
+      "explanation": "Scanning electron microscopes (SEMs) are designed to visualize surface details at high resolution. Transmission electron microscopes (TEMs) view internal structures."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "text": "Which type of cytoskeletal fiber is important in the formation of the nuclear lamina?",
+      "options": ["intermediate filaments", "fibronectin", "microtubules", "microfilaments"],
+      "answer": "intermediate filaments",
+      "explanation": "Intermediate filaments, specifically lamins, form the nuclear lamina, providing structural support to the nucleus."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "text": "Which of the following bacterial species is classified as high G+C gram-positive?",
+      "options": ["Bacillus anthracis", "Streptococcus pneumonia", "Staphylococcus aureus", "Corynebacterium diphtheriae"],
+      "answer": "Corynebacterium diphtheriae",
+      "explanation": "Corynebacterium species are characterized as high G+C Gram-positive bacteria. Bacillus, Streptococcus, and Staphylococcus are low G+C Gram-positives."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "text": "A fluke is classified within which of the following?",
+      "options": ["Platyhelminthes", "Annelida", "Rotifera", "Nematoda"],
+      "answer": "Platyhelminthes",
+      "explanation": "Flukes (trematodes) are parasitic flatworms belonging to the phylum Platyhelminthes."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "text": "A non-segmented worm is found during a routine colonoscopy of an individual who reported having abdominal cramps, nausea, and vomiting. This worm is likely which of the following?",
+      "options": ["nematode", "annelid", "trematode", "fluke"],
+      "answer": "nematode",
+      "explanation": "Nematodes (roundworms) are non-segmented. Flukes (trematodes) are flatworms. Annelids are segmented worms."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "text": "Which of the following characteristics/compounds is not considered to be a phenotypic biochemical characteristic used of microbial identification?",
+      "options": ["small-subunit (16S) rRNA gene", "lipid composition", "poly-β-hydroxybutyrate", "carbon utilization"],
+      "answer": "small-subunit (16S) rRNA gene",
+      "explanation": "The 16S rRNA gene sequence is a genotypic characteristic used for identification, not a phenotypic biochemical test result."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "text": "In prokaryotes, in which direction are hydrogen ions pumped by the electron transport system of photosynthetic membranes?",
+      "options": ["to the inside (cytoplasm) of the cell", "to the intermembrane space of the chloroplast", "to the stroma", "to the outside of the plasma membrane"],
+      "answer": "to the outside of the plasma membrane",
+      "explanation": "In prokaryotic photosynthesis, protons are pumped from the cytoplasm across the plasma membrane to the exterior, generating a proton motive force."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "text": "Which of the following are two products of the light-dependent reactions?",
+      "options": ["glucose and oxygen", "glyceraldehyde 3-phosphate and CO2", "NADPH and ATP", "glucose and NADPH"],
+      "answer": "NADPH and ATP",
+      "explanation": "The light-dependent reactions of photosynthesis convert light energy into chemical energy in the form of ATP and NADPH."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "text": "Which of the following is the group of archaea that can use CO2 as their final electron acceptor during anaerobic respiration, producing CH4?",
+      "options": ["methylotrophs", "methanotrophs", "anoxygenic photosynthesizers", "methanogens"],
+      "answer": "methanogens",
+      "explanation": "Methanogens are archaea that produce methane (CH4) by using CO2 as a terminal electron acceptor in anaerobic respiration."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "text": "In which environment are you most likely to encounter a hyperthermophile?",
+      "options": ["warm ocean water in Florida", "human body", "hot tub", "hydrothermal vent at the bottom of the ocean"],
+      "answer": "hydrothermal vent at the bottom of the ocean",
+      "explanation": "Hyperthermophiles thrive in extremely hot environments, such as deep-sea hydrothermal vents where temperatures can be well above boiling point at surface pressure."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "text": "Which of the following environments would harbor psychrophiles?",
+      "options": ["yogurt cultured at room temperature", "contaminated plates left in a 35 °C incubator", "mountain lake with a water temperature of 12 °C", "salt pond in the desert with a daytime temperature of 34 °C"],
+      "answer": "mountain lake with a water temperature of 12 °C",
+      "explanation": "Psychrophiles are cold-loving organisms that grow optimally at 15°C or lower. A mountain lake at 12°C is a suitable environment."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "text": "Which of the following is the reason jams and dried meats often do not require refrigeration to prevent spoilage?",
+      "options": ["naturally occurring antibiotics", "low water activity", "low pH", "toxic alkaline chemicals"],
+      "answer": "low water activity",
+      "explanation": "Low water activity (aw) in jams (due to high sugar) and dried meats (due to desiccation) limits available water for microbial growth, thus preserving them."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "text": "Serratia marcescens cells produce a red pigment at room temperature. The red color of the colonies is an example of which of the following?",
+      "options": ["change in DNA base composition", "phenotype", "adaptation to the environment", "genotype"],
+      "answer": "phenotype",
+      "explanation": "Phenotype refers to the observable characteristics of an organism, such as pigment production, resulting from its genotype and environmental interactions."
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "text": "Bleach is an example of which group of chemicals used for disinfection?",
+      "options": ["quats", "bisbiguanides", "heavy metals", "halogens"],
+      "answer": "halogens",
+      "explanation": "Bleach (sodium hypochlorite) is a chlorine-based compound, and chlorine is a halogen. Halogens are effective disinfectants."
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "text": "Which chemical disinfectant works by methylating enzymes and nucleic acids and is known for being toxic and carcinogenic?",
+      "options": ["sorbic acid", "hexaclorophene", "formaldehyde", "triclosan"],
+      "answer": "formaldehyde",
+      "explanation": "Formaldehyde is an alkylating agent that methylates proteins and nucleic acids, making it a potent disinfectant but also toxic and carcinogenic."
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "text": "Which of the following techniques cannot be used to determine the minimum inhibitory concentration of an antimicrobial drug against a particular microbe?",
+      "options": ["macrobroth dilution test", "microbroth dilution test", "Kirby-Bauer disk diffusion test", "Etest"],
+      "answer": "Kirby-Bauer disk diffusion test",
+      "explanation": "The Kirby-Bauer test determines susceptibility (susceptible, intermediate, resistant) but does not directly yield an MIC value. Broth dilution and Etest determine MIC."
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "text": "The utility of an antibiogram is that it shows antimicrobial susceptibility trends",
+      "options": ["in a localized population.", "over a large geographic area.", "in research laboratory strains.", "for an individual patient."],
+      "answer": "in a localized population.",
+      "explanation": "Antibiograms summarize susceptibility data for a specific healthcare facility or region, helping to guide empirical therapy and monitor local resistance patterns."
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "text": "Which of the following has yielded compounds with the most antimicrobial activity?",
+      "options": ["volcanoes", "air", "water", "soil"],
+      "answer": "soil",
+      "explanation": "Soil is a rich source of diverse microorganisms, many of which produce antibiotics as secondary metabolites, leading to numerous antimicrobial drug discoveries."
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "text": "Which of the following types of drug-resistant bacteria do not typically persist in individuals as a member of their intestinal microbiota?",
+      "options": ["ESBL-producing bacteria", "MRSA", "CRE", "VRE"],
+      "answer": "MRSA",
+      "explanation": "MRSA (Methicillin-resistant Staphylococcus aureus) primarily colonizes the skin and nares, while VRE, CRE, and ESBL-producing Enterobacteriaceae are more commonly associated with intestinal colonization."
+    },
+    {
+      "id": 21,
+      "type": "multiple-choice",
+      "text": "In the Kirby-Bauer disk diffusion test, the _______ of the zone of inhibition is measured and used for interpretation.",
+      "options": ["circumference", "depth", "microbial population", "diameter"],
+      "answer": "diameter",
+      "explanation": "The diameter of the zone of inhibition (area of no growth) around an antibiotic disk in the Kirby-Bauer test is measured to assess susceptibility."
+    },
+    {
+      "id": 22,
+      "type": "multiple-choice",
+      "text": "Which of the following is a major virulence factor for the fungal pathogen Cryptococcus?",
+      "options": ["hemolysin", "fimbriae", "collagenase", "capsule"],
+      "answer": "capsule",
+      "explanation": "The polysaccharide capsule of Cryptococcus species is a critical virulence factor that protects the fungus from host immune defenses, particularly phagocytosis."
+    },
+    {
+      "id": 23,
+      "type": "multiple-choice",
+      "text": "Which of the following pathogens undergoes antigenic variation to avoid immune defenses?",
+      "options": ["Cryptococcus", "Giardia", "Plasmodium", "Candida"],
+      "answer": "Plasmodium",
+      "explanation": "Plasmodium, the parasite causing malaria, exhibits antigenic variation by changing its surface proteins, allowing it to evade the host's adaptive immune response."
+    },
+    {
+      "id": 24,
+      "type": "multiple-choice",
+      "text": "Bacteria are ________________ because their genetic material (DNA) is not housed within a true nucleus.",
+      "options": ["iconic", "prokaryotic", "eukaryotic", "viral"],
+      "answer": "prokaryotic",
+      "explanation": "Prokaryotic cells, like bacteria, lack a membrane-bound nucleus; their DNA is located in a nucleoid region."
+    },
+    {
+      "id": 25,
+      "type": "multiple-choice",
+      "text": "There are two basic types of preparation used to view specimens with a light microscope: wet mounts and _______________.",
+      "options": ["fixed specimens", "thin layer", "formalin specimen", "glutaraldehyde layer"],
+      "answer": "fixed specimens",
+      "explanation": "Wet mounts are used for living organisms. Fixed specimens involve attaching organisms to a slide, usually followed by staining to enhance visibility."
+    },
+    {
+      "id": 26,
+      "type": "multiple-choice",
+      "text": "Organelles such as mitochondria, the endoplasmic reticulum (ER), Golgi apparatus, lysosomes, and peroxisomes are held in place by the ______________, an internal network that supports transport of intracellular components and helps maintain cell shape.",
+      "options": ["prokaryote", "cytoskeleton", "nucleus", "cytosome"],
+      "answer": "cytoskeleton",
+      "explanation": "The cytoskeleton is a network of protein filaments within eukaryotic cells that provides structural support, facilitates intracellular transport, and maintains cell shape."
+    },
+    {
+      "id": 27,
+      "type": "multiple-choice",
+      "text": "__________________ is the primary stain of the Gram stain procedure.",
+      "options": ["Cholesterol", "Iodine", "none of these", "Crystal violet"],
+      "answer": "Crystal violet",
+      "explanation": "Crystal violet is the first stain applied in the Gram staining procedure, staining all bacterial cells purple initially."
+    },
+    {
+      "id": 28,
+      "type": "multiple-choice",
+      "text": "A lichen is a combination of two organisms, a green alga or cyanobacterium and ____________, living in a symbiotic relationship.",
+      "options": ["plants", "fungus", "bacteria", "animals"],
+      "answer": "fungus",
+      "explanation": "Lichens are a mutualistic symbiosis between a fungus (mycobiont) and a photosynthetic partner, either an alga or a cyanobacterium (photobiont)."
+    },
+    {
+      "id": 29,
+      "type": "multiple-choice",
+      "text": "Sugar groups may be added to proteins in which of the following?",
+      "options": ["rough endoplasmic reticulum", "Golgi apparatus", "lysosome", "smooth endoplasmic reticulum"],
+      "answer": "Golgi apparatus",
+      "explanation": "Glycosylation (adding sugar groups to proteins) begins in the rough endoplasmic reticulum and is further modified and completed in the Golgi apparatus."
+    },
+    {
+      "id": 30,
+      "type": "multiple-choice",
+      "text": "Which period is the stage of disease during which the patient begins to present general signs and symptoms?",
+      "options": ["prodromal", "incubation", "illness", "convalescence"],
+      "answer": "prodromal",
+      "explanation": "The prodromal period follows incubation and is characterized by the appearance of early, non-specific signs and symptoms of disease."
+    },
+    {
+      "id": 31,
+      "type": "multiple-choice",
+      "text": "Chitin cell walls are characteristic of the ______________ taxonomic group.",
+      "options": ["fungi"],
+      "answer": "fungi",
+      "explanation": "Chitin is a structural polysaccharide that forms the primary component of fungal cell walls."
+    },
+    {
+      "id": 32,
+      "type": "multiple-choice",
+      "text": "During specimen preparation for transmission electron microscopy, the specimens are ______________ in alcohol and embedded in plastic resin.",
+      "options": ["dehydrated"],
+      "answer": "dehydrated",
+      "explanation": "Specimens for TEM must be dehydrated, typically using a graded series of alcohol, to remove water before embedding in resin for sectioning."
+    },
+    {
+      "id": 33,
+      "type": "multiple-choice",
+      "text": "Name the term best describes the relationship between pathogenic bacteria and humans?",
+      "options": ["parasitic"],
+      "answer": "parasitic",
+      "explanation": "Parasitism is a symbiotic relationship where one organism (the parasite, e.g., pathogenic bacteria) benefits at the expense of the host (humans)."
+    }
+  ]
+}
