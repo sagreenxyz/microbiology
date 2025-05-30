@@ -1,0 +1,265 @@
+{
+  "title": "Microbiology Quiz 15",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "text": "What is the affix that refers to the skin?",
+      "options": [
+        "-lysis",
+        "-derma",
+        "-itis",
+        "-osis"
+      ],
+      "answer": "-derma",
+      "explanation": "The affix -derma refers to the skin."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "text": "A(n) _____________________ is the successful colonization of a host by a microorganism.",
+      "options": [
+        "antibody",
+        "symptom",
+        "sign",
+        "infection"
+      ],
+      "answer": "infection",
+      "explanation": "An infection is the successful colonization of a host by a microorganism."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "text": "Certain infectious diseases are not transmitted between humans directly but can be transmitted from animals to humans. Such a disease is called __________________ disease.",
+      "options": [
+        "iatrogenic",
+        "zoonotic",
+        "communicable",
+        "contagious"
+      ],
+      "answer": "zoonotic",
+      "explanation": "A zoonotic disease is one that can be transmitted from animals to humans."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "text": "Which are the attachment sites for hemagglutinin spike proteins of influenza virus?",
+      "options": [
+        "heparan sulfate",
+        "CD8 receptors",
+        "CD4 receptors",
+        "sialic acid"
+      ],
+      "answer": "sialic acid",
+      "explanation": "The hemagglutinin spike proteins of the influenza virus bind to sialic acid receptors on the surface of host respiratory cells."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "text": "Which of the following is an example of a noncommunicable infectious disease?",
+      "options": [
+        "skin infection acquired from a dog bite",
+        "food poisoning due to a preformed bacterial toxin in food",
+        "infection acquired from the stick of a contaminated needle",
+        "infection with a respiratory virus"
+      ],
+      "answer": "food poisoning due to a preformed bacterial toxin in food",
+      "explanation": "Food poisoning due to a preformed bacterial toxin is noncommunicable because the illness is caused by ingesting the toxin, not by transmission of the microbe from one person to another."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "text": "What is the term used to describe a disease that is present at or before birth?",
+      "options": [
+        "Neoplastic",
+        "Degenerative",
+        "Congenital",
+        "Inherited"
+      ],
+      "answer": "Congenital",
+      "explanation": "A congenital disease is a condition present at or before birth."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "text": "Which is the name of the toxin produced by species of Aspergillus that can cause liver cancer?",
+      "options": [
+        "citrinin",
+        "ochratoxin",
+        "aflatoxin",
+        "patulin"
+      ],
+      "answer": "aflatoxin",
+      "explanation": "Aflatoxin is a mycotoxin produced by Aspergillus species, notably A. flavus and A. parasiticus, and is a potent hepatocarcinogen."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "text": "Which one of these are not one of Koch’s Postulates?",
+      "options": [
+        "The suspected pathogen must be found in every case of disease and not be found in healthy individuals.",
+        "The pathogen must be re-isolated from the new host and must be identical to the pathogen from postulate 2.",
+        "The suspected pathogen cannot be isolated and grown in pure culture.",
+        "A healthy test subject infected with the suspected pathogen must develop the same signs and symptoms of disease as seen in postulate 1."
+      ],
+      "answer": "The suspected pathogen cannot be isolated and grown in pure culture.",
+      "explanation": "One of Koch's postulates is that the suspected pathogen must be isolated from the diseased host and grown in pure culture."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "text": "Which of the following choices lists the steps of pathogenesis in the correct order?",
+      "options": [
+        "exposure, adhesion, invasion, infection",
+        "adhesion, exposure, infection, invasion",
+        "invasion, infection, adhesion, exposure",
+        "disease, infection, exposure, invasion"
+      ],
+      "answer": "exposure, adhesion, invasion, infection",
+      "explanation": "The general steps of pathogenesis are exposure to a pathogen, adhesion (attachment) to host cells, invasion of host tissues, and infection (colonization and multiplication)."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "text": "Which bacterial toxin does not match its mechanism of action?",
+      "options": [
+        "botulinum / inhibits release of acetylcholine to inhibit muscle contraction.",
+        "cholera / activates adenylate cyclase, resulting in higher levels of cAMP and loss of electrolytes leading to diarrhea",
+        "diphtheria / inhibits host cell protein synthesis",
+        "tetanus / inhibits glucose release to inhibit muscle relaxation"
+      ],
+      "answer": "tetanus / inhibits glucose release to inhibit muscle relaxation",
+      "explanation": "Tetanus toxin (tetanospasmin) blocks the release of inhibitory neurotransmitters (GABA and glycine) in the central nervous system, leading to continuous muscle contraction (spastic paralysis), not inhibition of glucose release."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "text": "Diseases that are contracted as the result of a medical procedure are known as ______________ diseases",
+      "options": [
+        "iatrogenic",
+        "intragenic",
+        "contagious",
+        "infectious"
+      ],
+      "answer": "iatrogenic",
+      "explanation": "Iatrogenic diseases are conditions that occur as a result of medical treatment or procedures."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "text": "Which disease nomenclature does not match its meaning?",
+      "options": [
+        "–oma / tumor formation",
+        "–itis / cell destruction",
+        "–emia / blood",
+        "–derma / thickened skin"
+      ],
+      "answer": "–itis / cell destruction",
+      "explanation": "The suffix –itis refers to inflammation. While cell destruction can occur during inflammation, it is not the direct meaning. –derma refers to skin, not specifically thickened skin."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "text": "The ability of a microbial agent to cause disease is called pathogenicity, and the degree to which an organism is pathogenic is called _________________ .",
+      "options": [
+        "pathogenicity",
+        "virulence",
+        "phenotypic",
+        "microglia"
+      ],
+      "answer": "virulence",
+      "explanation": "Virulence is a measure of the degree of pathogenicity of a microorganism."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "text": "What is the ID50 median value in humans for Norovirus?",
+      "options": [
+        "<1,000",
+        "200-5,000",
+        "1-10",
+        "10–100"
+      ],
+      "answer": "1-10",
+      "explanation": "Norovirus is highly infectious, with a median infectious dose (ID50) typically very low, often cited as 1-10 viral particles."
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "text": "Which of the following would be a sign of an infection?",
+      "options": [
+        "muscle aches",
+        "headache",
+        "nausea",
+        "fever"
+      ],
+      "answer": "fever",
+      "explanation": "A fever is an objective and measurable indication of disease (a sign), whereas muscle aches, headache, and nausea are subjective experiences reported by the patient (symptoms)."
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "text": "During an oral surgery, the surgeon nicked the patient’s gum with a sharp instrument. This allowed Streptococcus, a bacterium normally present in the mouth, to gain access to the blood. As a result, the patient developed bacterial endocarditis (an infection of the heart). Which type of disease is this?",
+      "options": [
+        "iatrogenic",
+        "vectors",
+        "zoonotic",
+        "nosocomial"
+      ],
+      "answer": "iatrogenic",
+      "explanation": "This is an iatrogenic disease because it occurred as a direct result of a medical procedure (the oral surgery)."
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "text": "Which period is the stage of disease during which the patient begins to present general signs and symptoms?",
+      "options": [
+        "prodromal",
+        "illness",
+        "convalescence",
+        "incubation"
+      ],
+      "answer": "prodromal",
+      "explanation": "The prodromal period is the stage after incubation where the pathogen continues to multiply and the host begins to experience general, nonspecific signs and symptoms of illness."
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "text": "A communicable disease that can be easily transmitted from person to person is which type of disease?",
+      "options": [
+        "iatrogenic",
+        "nosocomial",
+        "acute",
+        "contagious"
+      ],
+      "answer": "contagious",
+      "explanation": "A contagious disease is a communicable disease that is easily spread from one person to another."
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "text": "Which of the following is a pathogen that could not be identified by the original Koch’s postulates?",
+      "options": [
+        "Pseudomonas aeruginosa",
+        "Staphylococcus aureus",
+        "Human immunodeficiency virus",
+        "Salmonella enterica Typhimurium"
+      ],
+      "answer": "Human immunodeficiency virus",
+      "explanation": "The original Koch's postulates require the pathogen to be grown in pure culture on artificial media. Viruses, like HIV, are obligate intracellular parasites and cannot be cultured this way."
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "text": "The Panton-Valentine leukocidin from Staphylococcus aureus targets which cell type?",
+      "options": [
+        "intestinal epithelial cells",
+        "white blood cells",
+        "neurons",
+        "red blood cells"
+      ],
+      "answer": "white blood cells",
+      "explanation": "Panton-Valentine leukocidin (PVL) is a cytotoxin produced by Staphylococcus aureus that specifically targets and lyses leukocytes (white blood cells)."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "quizTitle": "Microbiology Quiz 15",
+  "questions": [
+    {
+      "question_number": 1,
+      "type": "multiple-choice",
+      "question_text": "What is the primary role of mitochondria in a eukaryotic cell?",
+      "options": [
+        "Protein synthesis",
+        "Energy production (ATP synthesis)",
+        "Lipid storage",
+        "Waste degradation"
+      ],
+      "correct_answer": "Energy production (ATP synthesis)",
+      "explanation": "Mitochondria are known as the powerhouses of the cell because they are responsible for generating most of the cell's supply of adenosine triphosphate (ATP), used as a source of chemical energy."
+    },
+    {
+      "question_number": 2,
+      "type": "true-false",
+      "question_text": "All bacteria are harmful to humans.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "correct_answer": "false",
+      "explanation": "Many bacteria are beneficial, such as those in the human gut that aid digestion, or those used in food production (e.g., yogurt, cheese). Only a small percentage of bacteria are pathogenic."
+    },
+    {
+      "question_number": 3,
+      "type": "multiple-choice",
+      "question_text": "Which of these is an acellular infectious agent?",
+      "options": [
+        "Bacteria",
+        "Fungus",
+        "Virus",
+        "Protozoa"
+      ],
+      "correct_answer": "Virus",
+      "explanation": "Viruses are acellular, meaning they are not composed of cells. They require a host cell to replicate. Bacteria, fungi, and protozoa are cellular organisms."
+    }
+  ]
+}
