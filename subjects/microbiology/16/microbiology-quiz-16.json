@@ -1,0 +1,265 @@
+{
+  "title": "Microbiology Quiz - Chapter 16 Questions",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "text": "Diseases that are seen only occasionally, and usually without geographic concentration, are called________________ diseases.",
+      "options": [
+        "sporadic",
+        "epidemic",
+        "endemic",
+        "pandemic"
+      ],
+      "answer": "sporadic",
+      "explanation": "Sporadic diseases are those that occur infrequently and irregularly, without a specific pattern or geographic concentration."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "text": "The main national public health agency in the United States is the ________________________________, an agency of the Department of Health and Human Services.",
+      "options": [
+        "Centers for Disease Control and Prevention (CDC)",
+        "Centers for Disease Continuum and Prevention (CDC)",
+        "Control for Disease Centers and Prevention (CDC)",
+        "Centers for Disease Control and Proactive (CDC)"
+      ],
+      "answer": "Centers for Disease Control and Prevention (CDC)",
+      "explanation": "The Centers for Disease Control and Prevention (CDC) is the leading national public health institute of the United States, responsible for protecting public health and safety through the control and prevention of disease, injury, and disability."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "text": "__________________________ was a British physician known as the father of epidemiology for determining the source of the 1854 Broad Street cholera epidemic in London.  His work represents an early epidemiological study and it resulted in the first known public health response to an epidemic.",
+      "options": [
+        "John Snowden",
+        "Jack Snowden",
+        "John Snow",
+        "Jack Snow"
+      ],
+      "answer": "John Snow",
+      "explanation": "John Snow is renowned for his investigation of the 1854 Broad Street cholera outbreak, where he traced the source to a contaminated water pump, a landmark study in epidemiology."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "text": "With infectious diseases, an example of a  ________________ source spread is a single contaminated potato salad at a group picnic.",
+      "options": [
+        "point",
+        "intermittent",
+        "propogated",
+        "continuous"
+      ],
+      "answer": "point",
+      "explanation": "A point source spread occurs when individuals are exposed to a common source of infection over a brief period, such as at a single event like a picnic with contaminated food."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "text": "The state of being diseased is called __________________.",
+      "options": [
+        "all of these",
+        "mortality",
+        "morbidity",
+        "death"
+      ],
+      "answer": "morbidity",
+      "explanation": "Morbidity refers to the state of being diseased or unhealthy within a population. Mortality refers to the incidence of death."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "text": "Florence Nightingale’s work is another example of an early  _____________________study.  Her analysis of the data she collected was published in 1858. In this book, she presented monthly frequency data on causes of death in a wedge chart histogram.",
+      "options": [
+        "epidemiological",
+        "scientific",
+        "data-driven",
+        "protocol"
+      ],
+      "answer": "epidemiological",
+      "explanation": "Florence Nightingale's systematic collection and analysis of mortality data among soldiers during the Crimean War is considered a foundational work in medical statistics and epidemiology."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "text": "Which of the following is true about modern emerging diseases?",
+      "options": [
+        "They are diseases that the WHO has classified as being poorly understood.",
+        "They are diseases that increase in frequency after a period of decline.",
+        "Malaria is an example of an emerging disease.",
+        "They occur in both developing and developed countries."
+      ],
+      "answer": "They occur in both developing and developed countries.",
+      "explanation": "Emerging infectious diseases are not confined to specific regions and can appear or increase in incidence in both developing and developed nations due to various factors like globalization and environmental changes."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "text": "The tsetse fly transmits which disease?",
+      "options": [
+        "leishmaniasis",
+        "African sleeping sickness",
+        "typhus",
+        "malaria"
+      ],
+      "answer": "African sleeping sickness",
+      "explanation": "African trypanosomiasis, also known as African sleeping sickness, is transmitted by the bite of infected tsetse flies."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "text": "Rickettsia rickettsii causes which disease?",
+      "options": [
+        "malaria",
+        "plague",
+        "Lyme disease",
+        "Rocky Mountain spotted fever"
+      ],
+      "answer": "Rocky Mountain spotted fever",
+      "explanation": "Rocky Mountain spotted fever is a tickborne illness caused by the bacterium Rickettsia rickettsii."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "text": "Which is the most common type of biological vector of human disease?",
+      "options": [
+        "mammals",
+        "bacteria",
+        "arthropods",
+        "viruses"
+      ],
+      "answer": "arthropods",
+      "explanation": "Arthropods, including mosquitoes, ticks, fleas, and lice, are the most common biological vectors, transmitting a wide range of pathogens to humans."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "text": "In the United States, public health authorities may only quarantine patients for certain diseases, such as cholera, diphtheria, infectious tuberculosis, and strains of influenza capable of causing a(n) ________________.",
+      "options": [
+        "vector",
+        "pandemic",
+        "warfare",
+        "isolate"
+      ],
+      "answer": "pandemic",
+      "explanation": "Quarantine measures are typically reserved for highly contagious diseases with the potential for widespread outbreaks, such as those capable of causing a pandemic."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "text": "which of the following is the most appropriate description for the outbreak of malaria in Brazil?",
+      "options": [
+        "endemic",
+        "sporadic",
+        "pandemic",
+        "epidemic"
+      ],
+      "answer": "endemic",
+      "explanation": "Malaria is considered endemic in many parts of Brazil, meaning it is constantly present in the population of that geographic region, often at a low to moderate level."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "text": "Cattle are allowed to pasture in a field that contains the farmhouse well, and the farmer’s family becomes ill with a gastrointestinal pathogen after drinking the water. What type of transmission of infectious agents would this be?",
+      "options": [
+        "indirect contact transmission",
+        "direct contact transmission",
+        "biological vector transmission",
+        "vehicle transmission"
+      ],
+      "answer": "vehicle transmission",
+      "explanation": "Vehicle transmission occurs when pathogens are transmitted through a medium such as water, food, or air. Contaminated well water serves as a vehicle in this scenario."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "text": "A blanket from a child with chickenpox is likely to be contaminated with the virus that causes chickenpox (Varicella-zoster virus). What is the blanket called?",
+      "options": [
+        "vector",
+        "pathogen",
+        "host",
+        "fomite"
+      ],
+      "answer": "fomite",
+      "explanation": "A fomite is an inanimate object that can become contaminated with infectious agents and serve in their transmission. The blanket is a fomite."
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "text": "Which of the following would NOT be considered a reemerging disease?",
+      "options": [
+        "West Nile virus fever/encephalitis",
+        "Malaria",
+        "Drug-resistant gonorrhea",
+        "Drug-resistant tuberculosis"
+      ],
+      "answer": "West Nile virus fever/encephalitis",
+      "explanation": "West Nile virus is generally considered an emerging disease in many regions where it has newly appeared or significantly increased in incidence. Reemerging diseases are those that were previously controlled but are now increasing. Malaria, drug-resistant gonorrhea, and drug-resistant TB are examples of reemerging or ongoing significant public health threats."
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "text": "Which of the following factors can lead to reemergence of a disease?",
+      "options": [
+        "Better education on the signs and symptoms of the disease",
+        "A change in disease reporting procedures",
+        "A period of decline in vaccination rates",
+        "A mutation that allows it to infect humans"
+      ],
+      "answer": "A period of decline in vaccination rates",
+      "explanation": "A decline in vaccination rates can reduce herd immunity, making a population more susceptible to outbreaks of vaccine-preventable diseases, leading to their reemergence."
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "text": "Why are emerging diseases with very few cases the focus of intense scrutiny?",
+      "options": [
+        "They are increasing and therefore not controlled",
+        "They tend to be more deadly",
+        "They occur more in developed countries",
+        "They naturally have higher transmission rates"
+      ],
+      "answer": "They are increasing and therefore not controlled",
+      "explanation": "Emerging diseases, even with few initial cases, are scrutinized because their incidence is increasing, indicating a lack of control and the potential for wider spread and significant public health impact."
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "text": "An emerging infectious disease is either new to the human population or has shown an increase in prevalence in the previous _______ years.",
+      "options": [
+        "30",
+        "40",
+        "10",
+        "20"
+      ],
+      "answer": "20",
+      "explanation": "The common definition for an emerging infectious disease is one that has newly appeared in a population or has been known for some time but is rapidly increasing in incidence or geographic range, typically within the last two decades (20 years)."
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "text": "A mosquito bites a person who subsequently develops a fever and abdominal rash. What type of transmission would this be?",
+      "options": [
+        "direct contact transmission",
+        "vehicle transmission",
+        "mechanical vector transmission",
+        "biological vector transmission"
+      ],
+      "answer": "biological vector transmission",
+      "explanation": "Biological vector transmission occurs when a pathogen reproduces within a biological vector (like a mosquito) that transmits the pathogen from one host to another. The mosquito is not just carrying the pathogen (mechanical) but is part of its life cycle."
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "text": "Which of the following statements about quarantine is false?",
+      "options": [
+        "Public health authorities can quarantine patients for any diseases.",
+        "Patients may be released from quarantine if preventive treatment can be administered.",
+        "Quarantine facilities can be equipped with special air-handling methods such as HEPA filters.",
+        "Quarantine times depend on the incubation period of the disease."
+      ],
+      "answer": "Public health authorities can quarantine patients for any diseases.",
+      "explanation": "Quarantine is a serious measure and is typically restricted to specific, highly communicable diseases listed by public health authorities. It is not applied for any and all diseases."
+    }
+  ]
+}
